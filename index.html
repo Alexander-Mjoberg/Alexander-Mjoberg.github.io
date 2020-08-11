@@ -1,1 +1,348 @@
-"Hello World" 
+<meta http-equiv="content-type" content="text/html" charset="utf-8" />
+<html>
+    <head>
+        <title>My webpage</title>
+
+        <style type="text/css">
+
+            /* Text ovan kurstabell, anger vilken specialisering tabellen gäller för */
+            h3 {
+                text-align: center
+            }
+
+            /* Tabellen för att räkna ihop nuvarande poäng */
+            .countTableTop {
+                background-color: white;
+                width: 100%;
+                text-align: center;
+                font-size: 16;
+            }
+
+            /* Kurstabell */
+            .courseTable {
+                text-align: center;
+                border-spacing: 4px;
+            }
+
+            /* Headers på kurstabell */
+            .courseTableHeaderCell {
+                background-color: #C6A882;
+                border: 1px solid #EBE5D8;
+                padding: 4px
+            }
+
+            /* Ljusa celler på kurstabell */
+            .courseTableCellLight {
+                border-color: #EBE5D8;
+                border-style: solid;
+            }
+
+            /* Mörka celler på kurstabell */
+            .courseTableCellDark {
+                background-color: #EBE5D8;
+                border-color: #EBE5D8;
+                border-style: solid;
+            }
+
+
+        </style>
+    </head>
+    <body>
+        <div style="border-color:#F8F3EA;border-width:8px;border-style: solid;margin: 30px;display: inline-block;border-top-style: none">
+            <div style="width: 100%;background-color:#F8F3EA;text-align: center;vertical-align: middle;line-height: 40px;font-size: 22">Menyrad</div>
+            <div style="margin: 30" id="contentBox">
+                <div style="text-align: center;padding-left: 0px;padding-right: 0px">
+                    <h2 style="border-top-color: dimgrey;border-bottom-color: dimgrey;border-top-style: solid;border-bottom-style: solid;color:#8E5614;font-family: Georgia,serif;font-weight: 400;font-size: 28px;padding: 4px">
+                        Kursval D - Specialisering: Bild och grafik
+                    </h2>
+                </div>
+                <table class="countTableTop">
+                    <tr>
+                        <td><u>Högskolepoäng</u></td>
+                        <td><u>Varav specialisering</u></td>
+                        <td><u>Avancerade poäng</u></td>
+                        <td><u>Varav specialisering</u></td>
+                    </tr>
+                    <tr>
+                        <td id="totalHp">0</td> <!-- display inline eller none -->
+                        <td id="hpSpec">0</td>
+                        <td id="totalAp">0</td>
+                        <td id="apSpec">0</td>
+                    </tr>
+                    <tr>
+                        <td style="color:green">✓</td> <!-- display inline eller none -->
+                        <td> </td>
+                        <td> </td>
+                        <td> </td>
+                    </tr>
+
+                </table>
+                <!-- <progress max="100" value="80" style="height: 40px;width:20%"> </progress> -->
+                <!--
+<h3>Specialisering Bild och grafik </h3>
+<table class="courseTable">
+<tr>
+<th class="courseTableHeaderCell">Vald</th>
+<th class="courseTableHeaderCell">Kurskod</th>
+<th class="courseTableHeaderCell" style="width:250">Kursnamn</th>
+<th class="courseTableHeaderCell">Högskolepoäng</th>
+<th class="courseTableHeaderCell">Nivå</th>
+<th class="courseTableHeaderCell">LP1</th>
+<th class="courseTableHeaderCell">LP2</th>
+<th class="courseTableHeaderCell">LP3</th>
+<th class="courseTableHeaderCell">LP4</th>
+</tr>
+<tr>
+<td style="background-color: #EBE5D8;border-color: #EBE5D8;border-style: solid"><input type="checkbox" id="chkbox"></td>
+<td style="background-color: #EBE5D8">FRTF05</td>
+<td style="background-color: #EBE5D8">Reglerteknik, Allmän kurs</td>
+<td style="background-color: #EBE5D8">7,5</td>
+<td style="background-color: #EBE5D8">G2</td>
+<td style="background-color: #EBE5D8">✓</td>
+<td style="background-color: #EBE5D8"> </td>
+<td style="background-color: #EBE5D8"> </td>
+<td style="background-color: #EBE5D8"> </td>
+</tr>
+<tr>
+<td style="border-color: #EBE5D8;border-style: solid"><input type="checkbox"></td>
+<td style="border-color: #EBE5D8;border-style: solid">EDAP10</td>
+<td style="border-color: #EBE5D8;border-style: solid">Flertrådad programmering</td>
+<td style="border-color: #EBE5D8;border-style: solid">7,5</td>
+<td style="border-color: #EBE5D8;border-style: solid">G2</td>
+<td style="border-color: #EBE5D8;border-style: solid"> </td>
+<td style="border-color: #EBE5D8;border-style: solid">✓</td>
+<td style="border-color: #EBE5D8;border-style: solid"> </td>
+<td style="border-color: #EBE5D8;border-style: solid"></td>
+</tr>
+</table>
+
+<h3 style="text-align: center">Specialisering Programvara </h3>
+<table class="courseTable">
+<tr>
+<th class="courseTableHeaderCell">Vald</th>
+<th class="courseTableHeaderCell">Kurskod</th>
+<th class="courseTableHeaderCell" style="width:250">Kursnamn</th>
+<th class="courseTableHeaderCell">Högskolepoäng</th>
+<th class="courseTableHeaderCell">Nivå</th>
+<th class="courseTableHeaderCell">LP1</th>
+<th class="courseTableHeaderCell">LP2</th>
+<th class="courseTableHeaderCell">LP3</th>
+<th class="courseTableHeaderCell">LP4</th>
+</tr>
+<tr>
+<td style="background-color: #EBE5D8;border-color: #EBE5D8;border-style: solid"><input type="checkbox"></td>
+<td style="background-color: #EBE5D8">FRTF05</td>
+<td style="background-color: #EBE5D8">Reglerteknik, Allmän kurs</td>
+<td style="background-color: #EBE5D8">7,5</td>
+<td style="background-color: #EBE5D8">G2</td>
+<td style="background-color: #EBE5D8">✓</td>
+<td style="background-color: #EBE5D8"> </td>
+<td style="background-color: #EBE5D8"> </td>
+<td style="background-color: #EBE5D8"> </td>
+</tr>
+<tr>
+<td style="border-color: #EBE5D8;border-style: solid"><input type="checkbox"></td>
+<td style="border-color: #EBE5D8;border-style: solid">EDAP10</td>
+<td style="border-color: #EBE5D8;border-style: solid">Flertrådad programmering</td>
+<td style="border-color: #EBE5D8;border-style: solid">7,5</td>
+<td style="border-color: #EBE5D8;border-style: solid">G2</td>
+<td style="border-color: #EBE5D8;border-style: solid"> </td>
+<td style="border-color: #EBE5D8;border-style: solid">✓</td>
+<td style="border-color: #EBE5D8;border-style: solid"> </td>
+<td style="border-color: #EBE5D8;border-style: solid"></td>
+</tr>
+</table>
+!-->
+            </div>
+
+
+        </div>
+        <script src="printfile.txt"></script>
+        <script type="text/javascript">
+
+
+            let specialization = "Bilder och grafik";
+            let programme = "D";
+            // let courses = []
+            //            let courses = [
+            //                {
+            //                    selected:false,
+            //                    code: "EITF35",
+            //                    name: "Digitala struktur på kisel",
+            //                    hp:7,
+            //                    level: "G2",
+            //                    lp1: false,
+            //                    lp2: true,
+            //                    lp3: false,
+            //                    lp4: false,
+            //                    specialization: ["Design av processorer och digitala system","Inbyggda system"] 
+            //                },
+            //                {
+            //                    selected:false,
+            //                    code: "EDAN20",
+            //                    name: "Språkteknologi",
+            //                    hp:7.5,
+            //                    level: "G2",
+            //                    lp1: false,
+            //                    lp2: true,
+            //                    lp3: false,
+            //                    lp4: false,
+            //                    specialization: ["Maskintelligens","Programvara"]
+            //                },
+            //                {
+            //                    selected:false,
+            //                    code: "FMAN20",
+            //                    name: "Bildanalys",
+            //                    hp:7.5,
+            //                    level: "A",
+            //                    lp1: false,
+            //                    lp2: true,
+            //                    lp3: false,
+            //                    lp4: false,
+            //                    specialization: ["Maskintelligens","Bild och grafik"],
+            //                }      
+            //            ];
+
+            //            fetch('http://localhost/foo.txt')
+            //                .then(response => response.text())
+            //                .then((data) => {
+            //                console.log(data)
+            //            })
+
+
+
+            //Add "fake" courses
+
+            //Loopa över alla kurser och tilldela funktionen.
+            //Invertera vald och uppdatera HTML
+
+            function updateCounters() {
+                //Skapa filter för att beräkna antal poäng
+                let filterTotal = (course => course.selected);
+                let filterTotalSpec = (course => course.selected && course.specialization.includes(specialization));
+                let filterAdvanced = (course => course.selected && (course.level=="A"));
+                let filterAdvancedSpec = (course => course.selected && (course.level=="A") && course.specialization.includes(specialization));
+
+                //Summera poäng med hjälp av filter, uppdatera på sidan
+                document.getElementById("totalHp").innerHTML = courses.filter(course => course.selected).map(x => x.hp).reduce((total, amount) => total + amount, 0);
+                document.getElementById("hpSpec").innerHTML = courses.filter(filterTotalSpec).map(x => x.hp).reduce((total, amount) => total + amount, 0);
+                document.getElementById("totalAp").innerHTML = courses.filter(filterAdvanced).map(x => x.hp).reduce((total, amount) => total + amount, 0);
+                document.getElementById("apSpec").innerHTML = courses.filter(filterAdvancedSpec).map(x => x.hp).reduce((total, amount) => total + amount, 0);
+
+                //Green checkmark if enough points
+            }
+
+            function textifyCourse(course){
+                let textToShow = [];
+                textToShow[0] = course.selected ? "✓" : "";
+                textToShow[1] = course.code;
+                textToShow[2] = course.name;
+                textToShow[3] = course.hp;
+                textToShow[4] = course.level;
+                textToShow[5] = course.lp1 ? "✓" : "";
+                textToShow[6] = course.lp2 ? "✓" : "";
+                textToShow[7] = course.lp3 ? "✓" : "";
+                textToShow[8] = course.lp4 ? "✓" : "";
+                return textToShow;
+            }
+
+            function onSelected(){
+                console.log(this.id)
+                //Invertera selection
+                let id = this.id;
+                let course = courses.find(searchCourse => searchCourse.code == id);
+                course.selected = !course.selected;
+                //Räkna om kurser
+                updateCounters();
+                //TODO: Uppdatera andra ställen där kursen finns
+                //Exempel på att fylla i checkbox
+                //document.getElementById("EITF35").setAttribute('checked','');
+            }
+
+            specializations.forEach(spec => tableCreate(spec))
+            //tableCreate('Valfria kurser')
+
+            function compare(a, b) {
+                if (a.sortNo > b.sortNo) return 1;
+                return -1;
+            }
+
+
+            function tableCreate(spec) {
+                //add h3 text
+                let h3=document.createElement("h3");
+                h3.innerHTML = spec;
+
+
+                //body reference 
+                var body = document.getElementById("contentBox");
+                //Add h3 text
+                body.appendChild(h3);
+
+                // create elements <table> and a <tbody>
+                var tbl = document.createElement("table");
+                var tblBody = document.createElement("tbody");
+                tbl.setAttribute('class', 'courseTable')
+
+                //Header creation
+                let header = ['Vald','Kurskod','Kursnamn','Högskolepoäng','Nivå','LP1','LP2','LP3','LP4'];
+                let headerRow = tblBody.insertRow(-1);
+                for (var i = 0; i < header.length; i++) {
+                    let headerCell = document.createElement("TH");
+                    headerCell.setAttribute('class', 'courseTableHeaderCell')
+                    headerCell.innerHTML = header[i];
+                    i==2 ? headerCell.setAttribute('width','350') : '';
+                    headerRow.appendChild(headerCell);
+                }
+
+                let filterSpecGroup = (course => course.specialization.includes(spec));
+                let specCourses = courses.filter(filterSpecGroup);
+                specCourses = specCourses.sort(compare);
+                console.log(specCourses);
+
+                // cells creation
+                for (var j = 0; j < specCourses.length; j++) {
+                    // table row creation
+                    var row = document.createElement("tr");
+                    let course = textifyCourse(specCourses[j]);
+
+                    for (var i = 0; i < course.length; i++) {
+                        // create element <td> and text node 
+                        //Make text node the contents of <td> element
+                        // put <td> at end of the table row
+                        var cell = document.createElement("td");
+                        cell.setAttribute('class', ((j%2) ? 'courseTableCellLight' : 'courseTableCellDark'));
+                        var cellText = document.createTextNode(course[i]);
+                        if (i==0){
+                            var box = document.createElement("input");
+                            box.setAttribute("type", "checkbox");
+                            //Sätta checked som default
+                            //x.setAttribute('checked','');
+                            //Ge boxen ett ID som består av kurskod+specialisering plats i array av specialisering
+                            box.setAttribute("id", course[1])
+                            box.onclick = onSelected;
+                            cell.appendChild(box);
+                        }
+                        else {
+                            cell.appendChild(cellText);
+                        }
+
+                        row.appendChild(cell);
+                    }
+
+                    //row added to end of table body
+                    tblBody.appendChild(row);
+                }
+
+                // append the <tbody> inside the <table>
+                tbl.appendChild(tblBody);
+                // put <table> in the <body>
+                body.appendChild(tbl);
+                // tbl border attribute to 
+                //tbl.setAttribute("border", "2");
+            }
+
+
+        </script>
+    </body>
+</html>
