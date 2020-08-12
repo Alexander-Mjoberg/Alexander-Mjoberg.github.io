@@ -1,0 +1,8891 @@
+Årskurs 1 (obligatoriska kurser)
+End of row
+FMAB20
+6
+G1
+-
+S
+Linjär algebra
+
+KS KE U W T
+
+1 Föreläsningar: 40 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 106 h (45-minuterspass)
+
+
+
+Årskurs 1 (obligatoriska kurser)
+End of row
+FMAA05
+15
+G1
+-
+S
+Endimensionell analys
+
+KS KE U W T
+
+1 Föreläsningar: 50 h (45-minuterspass)Övningar: 30 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 133 h (45-minuterspass)
+2 Föreläsningar: 50 h (45-minuterspass)Övningar: 30 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 107 h (45-minuterspass)
+
+
+Årskurs 1 (obligatoriska kurser)
+End of row
+FAFA55
+9
+G1
+-
+S
+Kvantfysikaliska koncept
+
+KS KE U W T
+
+1 Föreläsningar: 4 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 14 h (45-minuterspass)Självstudietid: 20 h (45-minuterspass)
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 21 h (45-minuterspass)Handledd projekttid: 8 h (45-minuterspass)Självstudietid: 140 h (45-minuterspass)
+
+
+Årskurs 1 (obligatoriska kurser)
+End of row
+FMAB30
+6
+G1
+-
+S
+Flerdimensionell analys
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 44 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 2 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 100 h (45-minuterspass)
+
+Årskurs 1 (obligatoriska kurser)
+End of row
+FMEA05
+6
+G1
+-
+S
+Mekanik - Statik och partikeldynamik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 44 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 88 h (45-minuterspass)
+
+Årskurs 1 (obligatoriska kurser)
+End of row
+EDAA55
+9
+G1
+-
+S
+Programmeringsteknik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 20 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 90 h (45-minuterspass)
+4 Föreläsningar: 22 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+Årskurs 1 (obligatoriska kurser)
+End of row
+FAFF30
+9
+G2
+-
+S
+Våglära och optik
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 40 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 16 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+Årskurs 1 (obligatoriska kurser)
+End of row
+Årskurs 2 (obligatoriska kurser)
+End of row
+FMAF01
+7
+G2
+-
+E1
+Matematik - Funktionsteori
+
+KS KE U W T
+
+1 Föreläsningar: 42 h (45-minuterspass)Övningar: 24 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 128 h (45-minuterspass)
+
+
+
+Årskurs 2 (obligatoriska kurser)
+End of row
+FMEA20
+6
+G1
+-
+S
+Mekanik - Dynamik
+
+KS KE U W T
+
+1 Föreläsningar: 42 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 90 h (45-minuterspass)
+
+
+
+Årskurs 2 (obligatoriska kurser)
+End of row
+FMFF05
+6
+G2
+-
+S
+Statistisk termodynamik med tillämpningar
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 32 h (45-minuterspass)
+2 Föreläsningar: 4 h (45-minuterspass)Övningar: 0 hLaborationer: 8 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 64 h (45-minuterspass)
+
+
+Årskurs 2 (obligatoriska kurser)
+End of row
+FHLA10
+4,5
+G1
+-
+S
+Hållfasthetslära, grundkurs
+
+KS KE U W T
+
+
+2 Föreläsningar: 20 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 80 h (45-minuterspass)
+
+
+Årskurs 2 (obligatoriska kurser)
+End of row
+FMAF05
+7
+G2
+-
+E1
+Matematik - System och transformer
+
+KS KE U W T
+
+
+2 Föreläsningar: 40 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 130 h (45-minuterspass)
+
+
+Årskurs 2 (obligatoriska kurser)
+End of row
+FRTF05
+7,5
+G2
+-
+S
+Reglerteknik, allmän kurs
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 30 h (45-minuterspass)Övningar: 30 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 128 h (45-minuterspass)
+
+Årskurs 2 (obligatoriska kurser)
+End of row
+FMFF01
+3
+G2
+-
+S
+Vektoranalys
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 14 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 50 h (45-minuterspass)
+
+Årskurs 2 (obligatoriska kurser)
+End of row
+FMAN55
+7,5
+A
+-
+S
+Kontinuerliga system
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 24 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 2 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 62 h (45-minuterspass)
+4 Föreläsningar: 22 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 2 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 62 h (45-minuterspass)
+Årskurs 2 (obligatoriska kurser)
+End of row
+EITF90
+7,5
+G2
+-
+S
+Ellära och elektronik
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 34 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 134 h (45-minuterspass)
+Årskurs 2 (obligatoriska kurser)
+End of row
+BMEF05
+4,5
+G2
+-
+S
+Mätteknik
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 20 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 76 h (45-minuterspass)
+Årskurs 2 (obligatoriska kurser)
+End of row
+Årskurs 3 (obligatoriska kurser)
+End of row
+EITF85
+6
+G2
+-
+S
+Elektromagnetisk fältteori
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 100 h (45-minuterspass)
+
+
+
+Årskurs 3 (obligatoriska kurser)
+End of row
+FAFF10
+15
+G2
+-
+S
+Atom- och kärnfysik med tillämpningar
+
+KS KE U W T
+
+1 Föreläsningar: 42 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 120 h (45-minuterspass)
+2 Föreläsningar: 24 h (45-minuterspass)Övningar: 26 h (45-minuterspass)Laborationer: 20 h (45-minuterspass)Handledd projekttid: 5 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+
+Årskurs 3 (obligatoriska kurser)
+End of row
+FMNN10
+8
+A
+X
+E1
+Numeriska metoder för differentialekvationer
+
+KS KE U W T
+
+
+2 Föreläsningar: 48 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 3 h (45-minuterspass)Självstudietid: 160 h (45-minuterspass)
+
+
+Årskurs 3 (obligatoriska kurser)
+End of row
+FFFF05
+7,5
+G2
+-
+S
+Fasta tillståndets fysik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 34 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 14 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 140 h (45-minuterspass)
+
+Årskurs 3 (obligatoriska kurser)
+End of row
+FMSF45
+9
+G2
+-
+S
+Matematisk statistik, allmän kurs
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 18 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 85 h (45-minuterspass)
+4 Föreläsningar: 18 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 85 h (45-minuterspass)
+Årskurs 3 (obligatoriska kurser)
+End of row
+FHLF01
+6
+G2
+-
+S
+Finita elementmetoden
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 26 h (45-minuterspass)Laborationer: 2 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 120 h (45-minuterspass)
+Årskurs 3 (obligatoriska kurser)
+End of row
+FMIF55
+3
+G2
+-
+S
+Hållbar utveckling
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 16 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 59 h (45-minuterspass)
+Årskurs 3 (obligatoriska kurser)
+End of row
+Årskurs 3 (alternativobligatoriska kurser)
+End of row
+MIOA12
+6
+G1
+-
+S
+Industriell ekonomi, allmän kurs
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 50 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 5 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 93 h (45-minuterspass)
+
+Årskurs 3 (alternativobligatoriska kurser)
+End of row
+ETIA10
+7,5
+G1
+X
+E
+Patent och annan immaterialrätt
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 3 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 160 h (45-minuterspass)
+
+Årskurs 3 (alternativobligatoriska kurser)
+End of row
+Specialisering aft - Acceleratorer - fysik och teknik
+End of row
+FKFN20
+7,5
+A
+V
+4
+4
+X
+E
+Kärnfysik, fördjupningskurs
+
+KS KE U W T
+
+1 Föreläsningar: 40 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 20 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 130 h (45-minuterspass)
+
+
+
+Specialisering aft - Acceleratorer - fysik och teknik
+End of row
+FMFN01
+7,5
+A
+V
+4
+4
+X
+E1
+Kvantmekanik, fortsättningskurs 1
+
+KS KE U W T
+
+1 Föreläsningar: 20 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+
+
+Specialisering aft - Acceleratorer - fysik och teknik
+End of row
+FAFF01
+7,5
+G2
+V
+4
+4
+X
+E
+Optik och optisk design
+
+KS KE U W T
+
+1 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 15 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+
+Specialisering aft - Acceleratorer - fysik och teknik
+End of row
+EXTF90
+7,5
+G2
+V
+4
+4
+X
+E
+Produktion av fotoner och neutroner för vetenskap
+X Kursen ges av naturvetenskapliga fakulteten och följer inte läsperiodsindelningen.
+KS KE U W T
+
+1 Föreläsningar: 24 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 9 h (45-minuterspass)Handledd projekttid: 6 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+
+
+Specialisering aft - Acceleratorer - fysik och teknik
+End of row
+EXTN90
+7,5
+A
+V
+4
+4
+X
+E
+Experimentella metoder och instrumentering för synkrotronljusforskning
+X Kursen ges av naturvetenskapliga fakulteten och följer inte läsperiodsindelningen.
+KS KE U W T
+
+
+2 Föreläsningar: 26 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 6 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+
+Specialisering aft - Acceleratorer - fysik och teknik
+End of row
+FHLN10
+7,5
+A
+V
+4
+4
+X
+E
+Modern experimentell mekanik
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 28 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 100 h (45-minuterspass)
+
+
+Specialisering aft - Acceleratorer - fysik och teknik
+End of row
+EXTF85
+7,5
+G2
+V
+4
+4
+X
+E1
+Partikelfysik, kosmologi och acceleratorer
+X Kursen ges av naturvetenskapliga fakulteten och följer inte läsperiodsindelningen.
+KS KE U W T
+
+
+2 Föreläsningar: 27 h (45-minuterspass)Övningar: 3 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 120 h (45-minuterspass)
+
+
+Specialisering aft - Acceleratorer - fysik och teknik
+End of row
+EXTQ45
+7,5
+A
+V
+4
+4
+-
+E
+Modern röntgenfysik - diffraktion och avbildning
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 32 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 144 h (45-minuterspass)
+
+Specialisering aft - Acceleratorer - fysik och teknik
+End of row
+EXTN85
+7,5
+A
+V
+4
+4
+X
+E
+Spridningsmetoder
+X Kursen ges av naturvetenskapliga fakulteten och följer inte läsperiodsindelningen.
+KS KE U W T
+
+
+
+3 Föreläsningar: 17 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 18 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 158 h (45-minuterspass)
+
+Specialisering aft - Acceleratorer - fysik och teknik
+End of row
+FKFN25
+7,5
+A
+V
+4
+4
+X
+E1
+Tillämpad kärn-, neutron- och reaktorfysik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 14 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 15 h (45-minuterspass)Handledd projekttid: 10 h (45-minuterspass)Självstudietid: 155 h (45-minuterspass)
+
+Specialisering aft - Acceleratorer - fysik och teknik
+End of row
+EITN80
+7,5
+A
+V
+4
+4
+X
+E1
+Elektrodynamik
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 154 h (45-minuterspass)
+Specialisering aft - Acceleratorer - fysik och teknik
+End of row
+FKFN30
+7,5
+A
+V
+4
+4
+X
+E
+Modern subatomär fysik
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 27 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 8 h (45-minuterspass)Självstudietid: 165 h (45-minuterspass)
+Specialisering aft - Acceleratorer - fysik och teknik
+End of row
+EXTF85
+7,5
+G2
+V
+4
+4
+X
+E1
+Partikelfysik, kosmologi och acceleratorer
+X Kursen ges av naturvetenskapliga fakulteten och följer inte läsperiodsindelningen.
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 27 h (45-minuterspass)Övningar: 3 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 120 h (45-minuterspass)
+Specialisering aft - Acceleratorer - fysik och teknik
+End of row
+EXTN95
+7,5
+A
+V
+4
+4
+X
+E
+Acceleratorer och frielektronlasrar
+X Kursen ges av naturvetenskapliga fakulteten och följer inte läsperiodsindelningen. Kursen ges vartannat läsår och ges nästa gång 2020/21.
+KS KE U W T
+
+Periodiserad Periodiserad: Kursen ges inte aktuellt läsår, men är planerad att ges nästa läsår.
+Specialisering aft - Acceleratorer - fysik och teknik
+End of row
+Specialisering bem - Beräkningsmekanik
+End of row
+FHLN05
+7,5
+A
+V
+4
+4
+X
+E
+Beräkningsbaserad materialmodellering
+
+KS KE U W T
+
+1 Föreläsningar: 38 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 130 h (45-minuterspass)
+
+
+
+Specialisering bem - Beräkningsmekanik
+End of row
+FMEN21
+7,5
+A
+V
+4
+4
+X
+E
+Kontinuumsmekanik
+
+KS KE U W T
+
+1 Föreläsningar: 42 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 142 h (45-minuterspass)
+
+
+
+Specialisering bem - Beräkningsmekanik
+End of row
+FHLN20
+7,5
+A
+V
+4
+4
+X
+E
+Finita elementmetoden - olinjära system
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 28 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 144 h (45-minuterspass)
+
+
+Specialisering bem - Beräkningsmekanik
+End of row
+FMEN11
+7,5
+A
+V
+4
+4
+X
+E
+Mekaniska vibrationer
+
+KS KE U W T
+
+
+2 Föreläsningar: 42 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 144 h (45-minuterspass)
+
+
+Specialisering bem - Beräkningsmekanik
+End of row
+FMEN02
+7,5
+A
+V
+4
+4
+X
+E
+Flerkroppsdynamik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 36 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 4 h (45-minuterspass)Självstudietid: 146 h (45-minuterspass)
+
+Specialisering bem - Beräkningsmekanik
+End of row
+MMVF10
+7,5
+G2
+V
+4
+4
+X
+E1
+Strömningslära
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 40 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 124 h (45-minuterspass)
+
+Specialisering bem - Beräkningsmekanik
+End of row
+VSMN10
+7,5
+A
+V
+4
+4
+X
+E1
+Strukturdynamiska beräkningar
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 8 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 170 h (45-minuterspass)
+
+Specialisering bem - Beräkningsmekanik
+End of row
+FHLN01
+7,5
+A
+V
+4
+4
+X
+E
+Strukturoptimering
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 26 h (45-minuterspass)Laborationer: 2 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 100 h (45-minuterspass)
+
+Specialisering bem - Beräkningsmekanik
+End of row
+MMVF05
+7,5
+G2
+V
+4
+4
+X
+E
+Värmeöverföring
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 42 h (45-minuterspass)Övningar: 38 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 14 h (45-minuterspass)Självstudietid: 106 h (45-minuterspass)
+
+Specialisering bem - Beräkningsmekanik
+End of row
+FMEN25
+7,5
+A
+V
+4
+4
+X
+E1
+Nanomekanik och flerskalig modellering
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 42 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 8 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+Specialisering bem - Beräkningsmekanik
+End of row
+MMVN05
+7,5
+A
+V
+4
+4
+X
+E1
+Numerisk strömningsmekanik och värmeöverföring
+
+KS KE U T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 24 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+Specialisering bem - Beräkningsmekanik
+End of row
+MVKN70
+7,5
+A
+V
+5
+4
+X
+E
+Avancerade metoder inom numerisk strömningsmekanik och värmeöverföring
+
+KS KE U T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 24 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 134 h (45-minuterspass)
+
+
+
+Specialisering bem - Beräkningsmekanik
+End of row
+FKMN20
+7,5
+A
+V
+5
+4
+X
+E
+Avancerad materialteknologi
+
+KS KE U W T
+
+
+2 Föreläsningar: 42 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 10 h (45-minuterspass)Självstudietid: 70 h (45-minuterspass)
+
+
+Specialisering bem - Beräkningsmekanik
+End of row
+MVKN90
+7,5
+A
+V
+5
+4
+X
+E
+Turbulens - teori och modellering
+
+KS KE U W T
+
+
+2 Föreläsningar: 24 h (45-minuterspass)Övningar: 34 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 120 h (45-minuterspass)
+
+
+Specialisering bem - Beräkningsmekanik
+End of row
+Specialisering bg - Bilder och grafik
+End of row
+FMAN20
+7,5
+A
+V
+4
+4
+X
+E1
+Bildanalys
+
+KS KE U W T
+
+1 Föreläsningar: 32 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 166 h (45-minuterspass)
+
+
+
+Specialisering bg - Bilder och grafik
+End of row
+EDAF80
+7,5
+G2
+V
+4
+4
+X
+E
+Datorgrafik
+
+KS KE U W T
+
+1 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 10 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 160 h (45-minuterspass)
+
+
+
+Specialisering bg - Bilder och grafik
+End of row
+FMSF15
+7,5
+G2
+V
+4
+4
+X
+E
+Markovprocesser
+
+KS KE U W T
+
+1 Föreläsningar: 26 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 140 h (45-minuterspass)
+
+
+
+Specialisering bg - Bilder och grafik
+End of row
+FMNN01
+7,5
+A
+V
+4
+4
+X
+E
+Numerisk linjär algebra
+
+KS KE U W T
+
+1 Föreläsningar: 36 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 6 h (45-minuterspass)Självstudietid: 160 h (45-minuterspass)
+
+
+
+Specialisering bg - Bilder och grafik
+End of row
+FMSF10
+7,5
+G2
+V
+4
+4
+X
+E
+Stationära stokastiska processer
+
+KS KE U W T
+
+1 Föreläsningar: 22 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 145 h (45-minuterspass)
+
+
+
+Specialisering bg - Bilder och grafik
+End of row
+FMAN70
+6
+A
+V
+4
+4
+X
+E1
+Matristeori
+
+KS KE U W T
+
+1 Föreläsningar: 18 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 56 h (45-minuterspass)
+2 Föreläsningar: 12 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 58 h (45-minuterspass)
+
+
+Specialisering bg - Bilder och grafik
+End of row
+EXTQ40
+7,5
+A
+V
+4
+4
+-
+E1
+Introduktion till artificiella neuronnätverk och deep learning
+
+KS KE U W T
+
+
+2 Föreläsningar: 34 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 30 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 126 h (45-minuterspass)
+
+
+Specialisering bg - Bilder och grafik
+End of row
+FMSN45
+7,5
+A
+V
+4
+4
+X
+E
+Matematisk statistik, tidsserieanalys
+
+KS KE U W T
+
+
+2 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 5 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+
+Specialisering bg - Bilder och grafik
+End of row
+FMAN30
+7,5
+A
+V
+4
+4
+X
+E1
+Medicinsk bildanalys
+
+KS KE U W T
+
+
+2 Föreläsningar: 32 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 3 h (45-minuterspass)Självstudietid: 165 h (45-minuterspass)
+
+
+Specialisering bg - Bilder och grafik
+End of row
+FMAN60
+6
+A
+V
+4
+4
+X
+E1
+Optimering
+
+KS KE U W T
+
+
+2 Föreläsningar: 32 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 109 h (45-minuterspass)
+
+
+Specialisering bg - Bilder och grafik
+End of row
+FMSN20
+7,5
+A
+V
+4
+4
+X
+E
+Spatial statistik med bildanalys
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 21 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+
+Specialisering bg - Bilder och grafik
+End of row
+FMAN85
+6
+A
+V
+4
+4
+X
+E1
+Datorseende
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 132 h (45-minuterspass)
+
+Specialisering bg - Bilder och grafik
+End of row
+FMAN25
+7,5
+A
+V
+4
+4
+X
+E1
+Variationskalkyl
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 18 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 82 h (45-minuterspass)
+4 Föreläsningar: 16 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 84 h (45-minuterspass)
+Specialisering bg - Bilder och grafik
+End of row
+FMAN45
+7,5
+A
+V
+4
+4
+-
+E
+Maskininlärning
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 170 h (45-minuterspass)
+Specialisering bg - Bilder och grafik
+End of row
+EDAN35
+7,5
+A
+V
+4
+4
+X
+E
+Högpresterande datorgrafik
+X Kursen är inställd läsåret 2019/20 men planeras att ges 2020/2021.
+KS KE U W T
+
+Periodiserad Periodiserad: Kursen ges inte aktuellt läsår, men är planerad att ges nästa läsår.
+Specialisering bg - Bilder och grafik
+End of row
+Specialisering bm - Biologisk och medicinsk modellering
+End of row
+FMAN20
+7,5
+A
+V
+4
+4
+X
+E1
+Bildanalys
+
+KS KE U W T
+
+1 Föreläsningar: 32 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 166 h (45-minuterspass)
+
+
+
+Specialisering bm - Biologisk och medicinsk modellering
+End of row
+BMEN05
+7,5
+A
+V
+4
+4
+X
+E
+Biomekanik
+
+KS KE U W T
+
+1 Föreläsningar: 32 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 110 h (45-minuterspass)
+
+
+
+Specialisering bm - Biologisk och medicinsk modellering
+End of row
+EITF75
+6
+G2
+V
+4
+4
+X
+E1
+Digital signalbehandling
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 96 h (45-minuterspass)
+
+
+
+Specialisering bm - Biologisk och medicinsk modellering
+End of row
+FMSF15
+7,5
+G2
+V
+4
+4
+X
+E
+Markovprocesser
+
+KS KE U W T
+
+1 Föreläsningar: 26 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 140 h (45-minuterspass)
+
+
+
+Specialisering bm - Biologisk och medicinsk modellering
+End of row
+FMSF10
+7,5
+G2
+V
+4
+4
+X
+E
+Stationära stokastiska processer
+
+KS KE U W T
+
+1 Föreläsningar: 22 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 145 h (45-minuterspass)
+
+
+
+Specialisering bm - Biologisk och medicinsk modellering
+End of row
+FMAN15
+7,5
+A
+V
+4
+4
+X
+E
+Olinjära dynamiska system
+
+KS KE U W T
+
+1 Föreläsningar: 16 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 78 h (45-minuterspass)
+2 Föreläsningar: 14 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 78 h (45-minuterspass)
+
+
+Specialisering bm - Biologisk och medicinsk modellering
+End of row
+BMEN10
+7,5
+A
+V
+4
+4
+X
+E
+Biomekanik för vävnader
+
+KS KE U W T
+
+
+2 Föreläsningar: 24 h (45-minuterspass)Övningar: 0 hLaborationer: 20 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 100 h (45-minuterspass)
+
+
+Specialisering bm - Biologisk och medicinsk modellering
+End of row
+FMSN45
+7,5
+A
+V
+4
+4
+X
+E
+Matematisk statistik, tidsserieanalys
+
+KS KE U W T
+
+
+2 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 5 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+
+Specialisering bm - Biologisk och medicinsk modellering
+End of row
+FMAN30
+7,5
+A
+V
+4
+4
+X
+E1
+Medicinsk bildanalys
+
+KS KE U W T
+
+
+2 Föreläsningar: 32 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 3 h (45-minuterspass)Självstudietid: 165 h (45-minuterspass)
+
+
+Specialisering bm - Biologisk och medicinsk modellering
+End of row
+FMSN50
+7,5
+A
+V
+4
+4
+X
+E
+Monte Carlo-baserade statistiska metoder
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 14 h (45-minuterspass)Handledd projekttid: 5 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+Specialisering bm - Biologisk och medicinsk modellering
+End of row
+EXTQ01
+7,5
+A
+V
+4
+4
+X
+E
+Teoretisk biofysik
+X Kursen ges av naturvetenskapliga fakulteten och följer inte läsperiodsindelningen.
+KS KE U W T
+
+
+
+3 Föreläsningar: 40 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+Specialisering bm - Biologisk och medicinsk modellering
+End of row
+FMAN01
+7,5
+A
+V
+4
+4
+X
+E1
+Biomatematik
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+
+3 Föreläsningar: 14 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 79 h (45-minuterspass)
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 79 h (45-minuterspass)
+Specialisering bm - Biologisk och medicinsk modellering
+End of row
+FMSF65
+7,5
+G2
+V
+4
+4
+X
+E
+Försöksplanering
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 14 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+Specialisering bm - Biologisk och medicinsk modellering
+End of row
+BMEN01
+7,5
+A
+V
+4
+4
+X
+E1
+Medicinsk signalbehandling
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 7 h (45-minuterspass)Självstudietid: 165 h (45-minuterspass)
+Specialisering bm - Biologisk och medicinsk modellering
+End of row
+Specialisering bs - Beräkning och simulering
+End of row
+FMNN25
+7,5
+A
+V
+4
+4
+X
+E1
+Avancerad kurs i numeriska algoritmer med Python/SciPy
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 3 h (45-minuterspass)Självstudietid: 169 h (45-minuterspass)
+
+
+
+Specialisering bs - Beräkning och simulering
+End of row
+FMNN01
+7,5
+A
+V
+4
+4
+X
+E
+Numerisk linjär algebra
+
+KS KE U W T
+
+1 Föreläsningar: 36 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 6 h (45-minuterspass)Självstudietid: 160 h (45-minuterspass)
+
+
+
+Specialisering bs - Beräkning och simulering
+End of row
+FMAN70
+6
+A
+V
+4
+4
+X
+E1
+Matristeori
+
+KS KE U W T
+
+1 Föreläsningar: 18 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 56 h (45-minuterspass)
+2 Föreläsningar: 12 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 58 h (45-minuterspass)
+
+
+Specialisering bs - Beräkning och simulering
+End of row
+FMAN15
+7,5
+A
+V
+4
+4
+X
+E
+Olinjära dynamiska system
+
+KS KE U W T
+
+1 Föreläsningar: 16 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 78 h (45-minuterspass)
+2 Föreläsningar: 14 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 78 h (45-minuterspass)
+
+
+Specialisering bs - Beräkning och simulering
+End of row
+FHLN20
+7,5
+A
+V
+4
+4
+X
+E
+Finita elementmetoden - olinjära system
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 28 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 144 h (45-minuterspass)
+
+
+Specialisering bs - Beräkning och simulering
+End of row
+FMAN60
+6
+A
+V
+4
+4
+X
+E1
+Optimering
+
+KS KE U W T
+
+
+2 Föreläsningar: 32 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 109 h (45-minuterspass)
+
+
+Specialisering bs - Beräkning och simulering
+End of row
+FMAF35
+6
+G2
+V
+4
+4
+X
+E1
+Linjär och kombinatorisk optimering
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 4 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 130 h (45-minuterspass)
+
+Specialisering bs - Beräkning och simulering
+End of row
+FRTN45
+4,5
+A
+V
+4
+4
+-
+S
+Matematisk modellering, fortsättningskurs
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 4 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 6 h (45-minuterspass)Självstudietid: 100 h (45-minuterspass)
+
+Specialisering bs - Beräkning och simulering
+End of row
+FMNN05
+7,5
+A
+V
+4
+4
+X
+E1
+Simuleringsverktyg
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 3 h (45-minuterspass)Självstudietid: 169 h (45-minuterspass)
+
+Specialisering bs - Beräkning och simulering
+End of row
+EDAF15
+5
+G2
+V
+4
+4
+-
+S
+Algoritmimplementering
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 24 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 85 h (45-minuterspass)
+Specialisering bs - Beräkning och simulering
+End of row
+EDAA25
+3
+G1
+V
+4
+2
+X
+S
+C-programmering
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+Specialisering bs - Beräkning och simulering
+End of row
+FMNN30
+7,5
+A
+V
+4
+4
+X
+E
+Iterativ lösning av storskaliga system i beräkningsteknik
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 26 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 168 h (45-minuterspass)
+Specialisering bs - Beräkning och simulering
+End of row
+FMAN45
+7,5
+A
+V
+4
+4
+-
+E
+Maskininlärning
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 170 h (45-minuterspass)
+Specialisering bs - Beräkning och simulering
+End of row
+VSMN20
+7,5
+A
+V
+4
+4
+X
+E1
+Programutveckling för tekniska tillämpningar
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 16 h (45-minuterspass)Övningar: 32 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 152 h (45-minuterspass)
+Specialisering bs - Beräkning och simulering
+End of row
+FMAN80
+7,5
+A
+V
+5
+4
+X
+E1
+Funktionalanalys och harmonisk analys
+
+KS KE U W T
+
+1 Föreläsningar: 20 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 108 h (45-minuterspass)
+2 Föreläsningar: 8 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 50 h (45-minuterspass)
+
+
+Specialisering bs - Beräkning och simulering
+End of row
+Specialisering es - Energisystem
+End of row
+FAFN25
+7,5
+A
+V
+4
+4
+X
+E
+Atom- och molekylspektroskopi
+
+KS KE U W T
+
+1 Föreläsningar: 36 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 15 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 145 h (45-minuterspass)
+
+
+
+Specialisering es - Energisystem
+End of row
+EIEN41
+7,5
+A
+V
+4
+4
+X
+E1
+El- och elhybridfordonsteknik
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 24 h (45-minuterspass)Självstudietid: 142 h (45-minuterspass)
+
+
+
+Specialisering es - Energisystem
+End of row
+EIEN15
+7,5
+A
+V
+4
+4
+X
+E1
+Elkraftsystem
+
+KS KE U W T
+
+1 Föreläsningar: 16 h (45-minuterspass)Övningar: 22 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 7 h (45-minuterspass)Självstudietid: 110 h (45-minuterspass)
+
+
+
+Specialisering es - Energisystem
+End of row
+MVKP01
+7,5
+A
+V
+4
+4
+-
+S
+Fjärrvärme och fjärrkyla
+
+KS KE U W T
+
+1 Föreläsningar: 15 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 9 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 147 h (45-minuterspass)
+
+
+
+Specialisering es - Energisystem
+End of row
+FMIN25
+7,5
+A
+V
+4
+4
+-
+S
+Energisystemanalys: energi, miljö och naturresurser
+
+KS KE U W T
+
+1 Föreläsningar: 18 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 76 h (45-minuterspass)
+2 Föreläsningar: 18 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 76 h (45-minuterspass)
+
+
+Specialisering es - Energisystem
+End of row
+MVKN65
+7,5
+A
+V
+4
+4
+X
+E1
+Kraftverksteknik
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 144 h (45-minuterspass)
+
+
+Specialisering es - Energisystem
+End of row
+EIEN10
+7,5
+A
+V
+4
+4
+X
+E1
+Vindkraftsystem
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 16 h (45-minuterspass)Självstudietid: 110 h (45-minuterspass)
+
+
+Specialisering es - Energisystem
+End of row
+MVKN20
+7,5
+A
+V
+4
+4
+-
+S
+Energianvändning
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 4 h (45-minuterspass)Övningar: 24 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 170 h (45-minuterspass)
+
+Specialisering es - Energisystem
+End of row
+FFFN25
+7,5
+A
+V
+4
+4
+X
+E
+Optoelektronik och optisk kommunikation
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 145 h (45-minuterspass)
+
+Specialisering es - Energisystem
+End of row
+AEBF30
+7,5
+G2
+V
+4
+4
+X
+E
+Solel - grundkurs i solcellsteknik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 24 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 6 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+Specialisering es - Energisystem
+End of row
+FMIN20
+7,5
+A
+V
+4
+4
+-
+S
+Energisystemanalys: Förnybara energikällor
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 92 h (45-minuterspass)
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 48 h (45-minuterspass)
+Specialisering es - Energisystem
+End of row
+FKFN35
+7,5
+A
+V
+4
+4
+X
+E
+Miljömätteknik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 10 h (45-minuterspass)Övningar: 0 hLaborationer: 10 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 80 h (45-minuterspass)
+4 Föreläsningar: 8 h (45-minuterspass)Övningar: 0 hLaborationer: 4 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 80 h (45-minuterspass)
+Specialisering es - Energisystem
+End of row
+FKFF05
+5
+G2
+V
+4
+4
+X
+E
+Atmosfärskemi och -fysik
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 20 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 4 h (45-minuterspass)Självstudietid: 100 h (45-minuterspass)
+Specialisering es - Energisystem
+End of row
+FBRF01
+7,5
+G2
+V
+4
+4
+X
+E
+Grundläggande förbränning
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 60 h (45-minuterspass)Självstudietid: 100 h (45-minuterspass)
+Specialisering es - Energisystem
+End of row
+Specialisering f - Fotonik
+End of row
+FAFN25
+7,5
+A
+V
+4
+4
+X
+E
+Atom- och molekylspektroskopi
+
+KS KE U W T
+
+1 Föreläsningar: 36 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 15 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 145 h (45-minuterspass)
+
+
+
+Specialisering f - Fotonik
+End of row
+EITG05
+7,5
+G2
+V
+4
+4
+X
+E
+Digital kommunikation
+
+KS KE U W T
+
+1 Föreläsningar: 24 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 144 h (45-minuterspass)
+
+
+
+Specialisering f - Fotonik
+End of row
+FFFN30
+7,5
+A
+V
+4
+4
+X
+E1
+Halvledarfysik
+
+KS KE U W T
+
+1 Föreläsningar: 34 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 16 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 136 h (45-minuterspass)
+
+
+
+Specialisering f - Fotonik
+End of row
+FMFN01
+7,5
+A
+V
+4
+4
+X
+E1
+Kvantmekanik, fortsättningskurs 1
+
+KS KE U W T
+
+1 Föreläsningar: 20 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+
+
+Specialisering f - Fotonik
+End of row
+FAFF01
+7,5
+G2
+V
+4
+4
+X
+E
+Optik och optisk design
+
+KS KE U W T
+
+1 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 15 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+
+Specialisering f - Fotonik
+End of row
+FAFN01
+7,5
+A
+V
+4
+4
+X
+E
+Lasrar
+
+KS KE U W T
+
+
+2 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+Specialisering f - Fotonik
+End of row
+FAFN35
+7,5
+A
+V
+4
+4
+X
+E
+Medicinsk optik
+
+KS KE U W T
+
+
+2 Föreläsningar: 24 h (45-minuterspass)Övningar: 15 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 40 h (45-minuterspass)Självstudietid: 110 h (45-minuterspass)
+
+
+Specialisering f - Fotonik
+End of row
+FBRN05
+7,5
+A
+V
+4
+4
+X
+E1
+Laserbaserad diagnostik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 10 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+Specialisering f - Fotonik
+End of row
+FAFN05
+7,5
+A
+V
+4
+4
+X
+E
+Ljus - materia växelverkan
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 160 h (45-minuterspass)
+
+Specialisering f - Fotonik
+End of row
+FFFN25
+7,5
+A
+V
+4
+4
+X
+E
+Optoelektronik och optisk kommunikation
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 145 h (45-minuterspass)
+
+Specialisering f - Fotonik
+End of row
+EITN90
+7,5
+A
+V
+4
+4
+X
+E
+Radar och fjärranalys
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 5 h (45-minuterspass)Självstudietid: 147 h (45-minuterspass)
+
+Specialisering f - Fotonik
+End of row
+FAFN10
+7,5
+A
+V
+4
+4
+X
+E
+Avancerade laser- och optiksystem
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+Specialisering f - Fotonik
+End of row
+EITN80
+7,5
+A
+V
+4
+4
+X
+E1
+Elektrodynamik
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 154 h (45-minuterspass)
+Specialisering f - Fotonik
+End of row
+FAFN40
+7,5
+A
+V
+4
+4
+X
+E
+Kvantinformation
+X Kursen ges vartannat läsår och ges nästa gång läsåret 2020/21.
+KS KE U W T
+
+Periodiserad Periodiserad: Kursen ges inte aktuellt läsår, men är planerad att ges nästa läsår.
+Specialisering f - Fotonik
+End of row
+Specialisering fm - Finansiell modellering
+End of row
+FMNN25
+7,5
+A
+V
+4
+4
+X
+E1
+Avancerad kurs i numeriska algoritmer med Python/SciPy
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 3 h (45-minuterspass)Självstudietid: 169 h (45-minuterspass)
+
+
+
+Specialisering fm - Finansiell modellering
+End of row
+FMSF10
+7,5
+G2
+V
+4
+4
+X
+E
+Stationära stokastiska processer
+
+KS KE U W T
+
+1 Föreläsningar: 22 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 145 h (45-minuterspass)
+
+
+
+Specialisering fm - Finansiell modellering
+End of row
+EXTF45
+6
+G2
+V
+4
+4
+-
+S
+Finansiell ekonomi
+
+KS KE U W T
+
+
+2 Föreläsningar: 32 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 110 h (45-minuterspass)
+
+
+Specialisering fm - Finansiell modellering
+End of row
+FMSN45
+7,5
+A
+V
+4
+4
+X
+E
+Matematisk statistik, tidsserieanalys
+
+KS KE U W T
+
+
+2 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 5 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+
+Specialisering fm - Finansiell modellering
+End of row
+FMAN60
+6
+A
+V
+4
+4
+X
+E1
+Optimering
+
+KS KE U W T
+
+
+2 Föreläsningar: 32 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 109 h (45-minuterspass)
+
+
+Specialisering fm - Finansiell modellering
+End of row
+FMSN50
+7,5
+A
+V
+4
+4
+X
+E
+Monte Carlo-baserade statistiska metoder
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 14 h (45-minuterspass)Handledd projekttid: 5 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+Specialisering fm - Finansiell modellering
+End of row
+FMSF05
+7,5
+G2
+V
+4
+4
+X
+E
+Sannolikhetsteori
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 160 h (45-minuterspass)
+
+Specialisering fm - Finansiell modellering
+End of row
+EXTQ35
+7,5
+A
+V
+4
+4
+X
+E
+Värdering och hantering av finansiell risk
+X Kursen samläses med NEKN83, som ges av Nationalekonomiska institutionen. Följer inte läsperiodsindelningen.
+KS KE U W T
+
+
+
+3 Föreläsningar: 40 h (45-minuterspass)Övningar: 0 hLaborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+Specialisering fm - Finansiell modellering
+End of row
+FMAN45
+7,5
+A
+V
+4
+4
+-
+E
+Maskininlärning
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 170 h (45-minuterspass)
+Specialisering fm - Finansiell modellering
+End of row
+FRTN30
+7,5
+A
+V
+4
+4
+X
+E
+Nätverksdynamik
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 16 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 130 h (45-minuterspass)
+Specialisering fm - Finansiell modellering
+End of row
+FMSN55
+7,5
+A
+V
+4
+4
+X
+E
+Statistisk modellering av extremvärden
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 9 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+Specialisering fm - Finansiell modellering
+End of row
+FMSN25
+7,5
+A
+V
+5
+4
+X
+E
+Prissättning av derivattillgångar
+
+KS KE U W T
+
+1 Föreläsningar: 32 h (45-minuterspass)Övningar: 26 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+
+
+Specialisering fm - Finansiell modellering
+End of row
+FMSN60
+7,5
+A
+V
+5
+4
+X
+E
+Finansiell statistik
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 16 h (45-minuterspass)Handledd projekttid: 5 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+
+Specialisering fm - Finansiell modellering
+End of row
+FMSN15
+7,5
+A
+V
+5
+4
+X
+E
+Statistisk modellering av multivariata extremvärden
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 9 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+
+Specialisering fm - Finansiell modellering
+End of row
+Specialisering hn - Högfrekvens- och nanoelektronik
+End of row
+ETIN20
+7,5
+A
+V
+4
+4
+X
+E
+Digital IC-konstruktion
+
+KS KE U W T
+
+1 Föreläsningar: 24 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+
+Specialisering hn - Högfrekvens- och nanoelektronik
+End of row
+FFFN30
+7,5
+A
+V
+4
+4
+X
+E1
+Halvledarfysik
+
+KS KE U W T
+
+1 Föreläsningar: 34 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 16 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 136 h (45-minuterspass)
+
+
+
+Specialisering hn - Högfrekvens- och nanoelektronik
+End of row
+EITF50
+7,5
+G2
+V
+4
+4
+X
+E
+Introduktion till trådlösa system
+
+KS KE U W T
+
+1 Föreläsningar: 18 h (45-minuterspass)Övningar: 18 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 152 h (45-minuterspass)
+
+
+
+Specialisering hn - Högfrekvens- och nanoelektronik
+End of row
+ETIN70
+7,5
+A
+V
+4
+4
+X
+E1
+Modern elektronik
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+
+Specialisering hn - Högfrekvens- och nanoelektronik
+End of row
+FFFF10
+7,5
+G2
+V
+4
+4
+X
+E
+Process- och komponentteknologi
+
+KS KE U W T
+
+1 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 20 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 140 h (45-minuterspass)
+
+
+
+Specialisering hn - Högfrekvens- och nanoelektronik
+End of row
+FFFN01
+7,5
+A
+V
+4
+4
+-
+E
+Avancerad framställning av nanostrukturer
+
+KS KE U W T
+
+1 Föreläsningar: 6 h (45-minuterspass)Övningar: 2 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 30 h (45-minuterspass)Självstudietid: 60 h (45-minuterspass)
+2 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 30 h (45-minuterspass)Självstudietid: 60 h (45-minuterspass)
+
+
+Specialisering hn - Högfrekvens- och nanoelektronik
+End of row
+ETIN25
+7,5
+A
+V
+4
+4
+X
+E
+Analog IC-konstruktion
+
+KS KE U W T
+
+
+2 Föreläsningar: 22 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 152 h (45-minuterspass)
+
+
+Specialisering hn - Högfrekvens- och nanoelektronik
+End of row
+ETEN10
+7,5
+A
+V
+4
+4
+X
+E
+Antennteknik
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 152 h (45-minuterspass)
+
+
+Specialisering hn - Högfrekvens- och nanoelektronik
+End of row
+ETIN50
+7,5
+A
+V
+4
+4
+X
+E
+Högfrekvensförstärkare
+
+KS KE U W T
+
+
+2 Föreläsningar: 18 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 16 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+Specialisering hn - Högfrekvens- och nanoelektronik
+End of row
+EITP01
+7,5
+A
+V
+4
+4
+X
+E1
+Höghastighetselektronik
+
+KS KE U W T
+
+
+2 Föreläsningar: 32 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+Specialisering hn - Högfrekvens- och nanoelektronik
+End of row
+EITP05
+7,5
+A
+V
+4
+4
+X
+E1
+Nanoelektronik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 4 h (45-minuterspass)Handledd projekttid: 3 h (45-minuterspass)Självstudietid: 167 h (45-minuterspass)
+
+Specialisering hn - Högfrekvens- och nanoelektronik
+End of row
+FFFN25
+7,5
+A
+V
+4
+4
+X
+E
+Optoelektronik och optisk kommunikation
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 145 h (45-minuterspass)
+
+Specialisering hn - Högfrekvens- och nanoelektronik
+End of row
+FFFN01
+7,5
+A
+V
+4
+4
+-
+E
+Avancerad framställning av nanostrukturer
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 6 h (45-minuterspass)Övningar: 2 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 30 h (45-minuterspass)Självstudietid: 60 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 30 h (45-minuterspass)Självstudietid: 60 h (45-minuterspass)
+Specialisering hn - Högfrekvens- och nanoelektronik
+End of row
+EITN80
+7,5
+A
+V
+4
+4
+X
+E1
+Elektrodynamik
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 154 h (45-minuterspass)
+Specialisering hn - Högfrekvens- och nanoelektronik
+End of row
+EITP25
+7,5
+A
+V
+4
+4
+X
+E
+Minnesteknologi för maskininlärning
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 4 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 168 h (45-minuterspass)
+Specialisering hn - Högfrekvens- och nanoelektronik
+End of row
+Specialisering mai - Maskinintelligens
+End of row
+EDAN20
+7,5
+A
+V
+4
+4
+X
+E
+Språkteknologi
+
+KS KE U W T
+
+1 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 14 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 160 h (45-minuterspass)
+
+
+
+Specialisering mai - Maskinintelligens
+End of row
+FMSF10
+7,5
+G2
+V
+4
+4
+X
+E
+Stationära stokastiska processer
+
+KS KE U W T
+
+1 Föreläsningar: 22 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 145 h (45-minuterspass)
+
+
+
+Specialisering mai - Maskinintelligens
+End of row
+FMAN70
+6
+A
+V
+4
+4
+X
+E1
+Matristeori
+
+KS KE U W T
+
+1 Föreläsningar: 18 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 56 h (45-minuterspass)
+2 Föreläsningar: 12 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 58 h (45-minuterspass)
+
+
+Specialisering mai - Maskinintelligens
+End of row
+FRTN35
+7,5
+A
+V
+4
+4
+X
+E1
+Systemidentifiering
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 14 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+2 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 14 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+
+
+Specialisering mai - Maskinintelligens
+End of row
+EXTQ40
+7,5
+A
+V
+4
+4
+-
+E1
+Introduktion till artificiella neuronnätverk och deep learning
+
+KS KE U W T
+
+
+2 Föreläsningar: 34 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 30 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 126 h (45-minuterspass)
+
+
+Specialisering mai - Maskinintelligens
+End of row
+EXTA65
+4,5
+G1
+V
+4
+4
+-
+S
+Kognition
+
+KS KE U W T
+
+
+2 Föreläsningar: 20 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 84 h (45-minuterspass)
+
+
+Specialisering mai - Maskinintelligens
+End of row
+FMAN60
+6
+A
+V
+4
+4
+X
+E1
+Optimering
+
+KS KE U W T
+
+
+2 Föreläsningar: 32 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 109 h (45-minuterspass)
+
+
+Specialisering mai - Maskinintelligens
+End of row
+EDAN95
+7,5
+A
+V
+4
+4
+X
+E
+Tillämpad maskininlärning
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 14 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 156 h (45-minuterspass)
+
+
+Specialisering mai - Maskinintelligens
+End of row
+EDAP01
+7,5
+A
+V
+4
+4
+X
+E
+Artificiell intelligens
+X Ersätter EDAF70
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 170 h (45-minuterspass)
+
+Specialisering mai - Maskinintelligens
+End of row
+FMAN85
+6
+A
+V
+4
+4
+X
+E1
+Datorseende
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 132 h (45-minuterspass)
+
+Specialisering mai - Maskinintelligens
+End of row
+FRTN15
+7,5
+A
+V
+4
+4
+X
+E1
+Prediktiv reglering
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 18 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 16 h (45-minuterspass)Självstudietid: 70 h (45-minuterspass)
+Specialisering mai - Maskinintelligens
+End of row
+FMSN30
+7,5
+A
+V
+4
+4
+X
+E
+Linjär och logistisk regression
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 24 h (45-minuterspass)Övningar: 0 hLaborationer: 26 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+Specialisering mai - Maskinintelligens
+End of row
+FMAN45
+7,5
+A
+V
+4
+4
+-
+E
+Maskininlärning
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 170 h (45-minuterspass)
+Specialisering mai - Maskinintelligens
+End of row
+EITP25
+7,5
+A
+V
+4
+4
+X
+E
+Minnesteknologi för maskininlärning
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 4 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 168 h (45-minuterspass)
+Specialisering mai - Maskinintelligens
+End of row
+FRTN50
+7,5
+A
+V
+5
+4
+X
+E
+Optimering för maskininlärning
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 130 h (45-minuterspass)
+
+
+
+Specialisering mai - Maskinintelligens
+End of row
+Specialisering mt - Medicinsk teknik
+End of row
+FAFN25
+7,5
+A
+V
+4
+4
+X
+E
+Atom- och molekylspektroskopi
+
+KS KE U W T
+
+1 Föreläsningar: 36 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 15 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 145 h (45-minuterspass)
+
+
+
+Specialisering mt - Medicinsk teknik
+End of row
+BMEN05
+7,5
+A
+V
+4
+4
+X
+E
+Biomekanik
+
+KS KE U W T
+
+1 Föreläsningar: 32 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 110 h (45-minuterspass)
+
+
+
+Specialisering mt - Medicinsk teknik
+End of row
+EITF75
+6
+G2
+V
+4
+4
+X
+E1
+Digital signalbehandling
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 96 h (45-minuterspass)
+
+
+
+Specialisering mt - Medicinsk teknik
+End of row
+EEMN21
+7,5
+A
+V
+4
+4
+X
+E1
+Introduktion till mikrofluidik och lab-on-a-chip system
+
+KS KE U W T
+
+1 Föreläsningar: 20 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 16 h (45-minuterspass)Självstudietid: 148 h (45-minuterspass)
+
+
+
+Specialisering mt - Medicinsk teknik
+End of row
+BMEF10
+7,5
+G2
+V
+4
+4
+-
+S
+Sensorteknik
+
+KS KE U W T
+
+1 Föreläsningar: 42 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 146 h (45-minuterspass)
+
+
+
+Specialisering mt - Medicinsk teknik
+End of row
+BMEN10
+7,5
+A
+V
+4
+4
+X
+E
+Biomekanik för vävnader
+
+KS KE U W T
+
+
+2 Föreläsningar: 24 h (45-minuterspass)Övningar: 0 hLaborationer: 20 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 100 h (45-minuterspass)
+
+
+Specialisering mt - Medicinsk teknik
+End of row
+EEMN10
+7,5
+A
+V
+4
+4
+X
+E1
+Datorbaserade mätsystem
+
+KS KE U W T
+
+
+2 Föreläsningar: 0 hÖvningar: 28 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 60 h (45-minuterspass)Självstudietid: 85 h (45-minuterspass)
+
+
+Specialisering mt - Medicinsk teknik
+End of row
+EEMN05
+7,5
+A
+V
+4
+4
+X
+E1
+EMC, störningar och störningsbegränsning
+
+KS KE U W T
+
+
+2 Föreläsningar: 14 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 60 h (45-minuterspass)Självstudietid: 85 h (45-minuterspass)
+
+
+Specialisering mt - Medicinsk teknik
+End of row
+EEMF05
+7,5
+G2
+V
+4
+4
+X
+E1
+Medicinsk mätteknik
+X Omtentamen enligt överenskommelse
+KS KE U W T
+
+
+2 Föreläsningar: 42 h (45-minuterspass)Övningar: 0 hLaborationer: 28 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 130 h (45-minuterspass)
+
+
+Specialisering mt - Medicinsk teknik
+End of row
+FAFN35
+7,5
+A
+V
+4
+4
+X
+E
+Medicinsk optik
+
+KS KE U W T
+
+
+2 Föreläsningar: 24 h (45-minuterspass)Övningar: 15 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 40 h (45-minuterspass)Självstudietid: 110 h (45-minuterspass)
+
+
+Specialisering mt - Medicinsk teknik
+End of row
+BMEF20
+7,5
+G2
+V
+4
+4
+-
+E
+Neuroteknik
+
+KS KE U T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 158 h (45-minuterspass)
+
+Specialisering mt - Medicinsk teknik
+End of row
+EEMN15
+7,5
+A
+V
+4
+4
+X
+E1
+Ultraljudsfysik och teknik
+X Omtentamen enligt överenskommelse.
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 28 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 66 h (45-minuterspass)
+
+Specialisering mt - Medicinsk teknik
+End of row
+EEMN26
+7,5
+A
+V
+4
+4
+X
+E1
+Lab-on-a-chip i biomedicinska tillämpningar
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 170 h (45-minuterspass)
+Specialisering mt - Medicinsk teknik
+End of row
+BMEN01
+7,5
+A
+V
+4
+4
+X
+E1
+Medicinsk signalbehandling
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 7 h (45-minuterspass)Självstudietid: 165 h (45-minuterspass)
+Specialisering mt - Medicinsk teknik
+End of row
+Specialisering nf - Nanofysik
+End of row
+FFFN30
+7,5
+A
+V
+4
+4
+X
+E1
+Halvledarfysik
+
+KS KE U W T
+
+1 Föreläsningar: 34 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 16 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 136 h (45-minuterspass)
+
+
+
+Specialisering nf - Nanofysik
+End of row
+EEMN21
+7,5
+A
+V
+4
+4
+X
+E1
+Introduktion till mikrofluidik och lab-on-a-chip system
+
+KS KE U W T
+
+1 Föreläsningar: 20 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 16 h (45-minuterspass)Självstudietid: 148 h (45-minuterspass)
+
+
+
+Specialisering nf - Nanofysik
+End of row
+FMFN01
+7,5
+A
+V
+4
+4
+X
+E1
+Kvantmekanik, fortsättningskurs 1
+
+KS KE U W T
+
+1 Föreläsningar: 20 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+
+
+Specialisering nf - Nanofysik
+End of row
+FFFF10
+7,5
+G2
+V
+4
+4
+X
+E
+Process- och komponentteknologi
+
+KS KE U W T
+
+1 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 20 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 140 h (45-minuterspass)
+
+
+
+Specialisering nf - Nanofysik
+End of row
+FFFN01
+7,5
+A
+V
+4
+4
+-
+E
+Avancerad framställning av nanostrukturer
+
+KS KE U W T
+
+1 Föreläsningar: 6 h (45-minuterspass)Övningar: 2 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 30 h (45-minuterspass)Självstudietid: 60 h (45-minuterspass)
+2 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 30 h (45-minuterspass)Självstudietid: 60 h (45-minuterspass)
+
+
+Specialisering nf - Nanofysik
+End of row
+FFFN35
+7,5
+A
+V
+4
+4
+X
+E
+Fysiken för låg-dimensionella strukturer och kvantkomponenter
+
+KS KE U W T
+
+
+2 Föreläsningar: 30 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 16 h (45-minuterspass)Handledd projekttid: 10 h (45-minuterspass)Självstudietid: 140 h (45-minuterspass)
+
+
+Specialisering nf - Nanofysik
+End of row
+EITP01
+7,5
+A
+V
+4
+4
+X
+E1
+Höghastighetselektronik
+
+KS KE U W T
+
+
+2 Föreläsningar: 32 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+Specialisering nf - Nanofysik
+End of row
+EITP05
+7,5
+A
+V
+4
+4
+X
+E1
+Nanoelektronik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 4 h (45-minuterspass)Handledd projekttid: 3 h (45-minuterspass)Självstudietid: 167 h (45-minuterspass)
+
+Specialisering nf - Nanofysik
+End of row
+FFFN25
+7,5
+A
+V
+4
+4
+X
+E
+Optoelektronik och optisk kommunikation
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 145 h (45-minuterspass)
+
+Specialisering nf - Nanofysik
+End of row
+FFFN01
+7,5
+A
+V
+4
+4
+-
+E
+Avancerad framställning av nanostrukturer
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 6 h (45-minuterspass)Övningar: 2 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 30 h (45-minuterspass)Självstudietid: 60 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 30 h (45-minuterspass)Självstudietid: 60 h (45-minuterspass)
+Specialisering nf - Nanofysik
+End of row
+FFFN20
+15
+A
+V
+4
+4
+X
+E
+Experimentell biofysik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 14 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 100 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 10 h (45-minuterspass)Laborationer: 20 h (45-minuterspass)Handledd projekttid: 20 h (45-minuterspass)Självstudietid: 200 h (45-minuterspass)
+Specialisering nf - Nanofysik
+End of row
+EXTP90
+7,5
+A
+V
+4
+4
+X
+E
+Fasta tillståndets teori
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 22 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+Specialisering nf - Nanofysik
+End of row
+EEMN01
+7,5
+A
+V
+4
+4
+X
+E1
+Mikrosensorer
+X Omtentamen enligt överenskommelse
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 0 hLaborationer: 28 h (45-minuterspass)Handledd projekttid: 60 h (45-minuterspass)Självstudietid: 108 h (45-minuterspass)
+Specialisering nf - Nanofysik
+End of row
+EXTP95
+7,5
+A
+V
+4
+4
+X
+E1
+Ytfysik
+X Kursen ges av naturvetenskapliga fakulteten och följer inte läsperiodsindelningen.
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 21 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 16 h (45-minuterspass)Självstudietid: 174 h (45-minuterspass)
+Specialisering nf - Nanofysik
+End of row
+Specialisering pv - Programvara
+End of row
+EDAP10
+7,5
+A
+V
+4
+4
+-
+S
+Flertrådad programmering
+X Ersätter EDAF55
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 160 h (45-minuterspass)
+
+
+
+Specialisering pv - Programvara
+End of row
+EDAN65
+7,5
+A
+V
+4
+4
+X
+E1
+Kompilatorer
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 160 h (45-minuterspass)
+
+
+
+Specialisering pv - Programvara
+End of row
+EDAN26
+7,5
+A
+V
+4
+4
+-
+S
+Multicoreprogrammering
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+1 Föreläsningar: 24 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+
+Specialisering pv - Programvara
+End of row
+EDAF60
+4,5
+G2
+V
+4
+4
+-
+S
+Objektorienterad modellering och design
+
+KS KE U W T
+
+1 Föreläsningar: 14 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 94 h (45-minuterspass)
+
+
+
+Specialisering pv - Programvara
+End of row
+ETSN05
+7,5
+A
+V
+4
+4
+-
+S
+Programvaruutveckling för stora system
+
+KS KE U W T
+
+1 Föreläsningar: 10 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 10 h (45-minuterspass)Självstudietid: 168 h (45-minuterspass)
+
+
+
+Specialisering pv - Programvara
+End of row
+EDAN20
+7,5
+A
+V
+4
+4
+X
+E
+Språkteknologi
+
+KS KE U W T
+
+1 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 14 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 160 h (45-minuterspass)
+
+
+
+Specialisering pv - Programvara
+End of row
+EDAN01
+7,5
+A
+V
+4
+4
+X
+E
+Constraint-programmering
+
+KS KE U W T
+
+
+2 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 160 h (45-minuterspass)
+
+
+Specialisering pv - Programvara
+End of row
+EDAP05
+7,5
+A
+V
+4
+4
+X
+E
+Programspråkskoncept
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 160 h (45-minuterspass)
+
+
+Specialisering pv - Programvara
+End of row
+ETSN20
+7,5
+A
+V
+4
+4
+X
+E
+Programvarutestning
+
+KS KE U W T
+
+
+2 Föreläsningar: 16 h (45-minuterspass)Övningar: 3 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 170 h (45-minuterspass)
+
+
+Specialisering pv - Programvara
+End of row
+EDAN95
+7,5
+A
+V
+4
+4
+X
+E
+Tillämpad maskininlärning
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 14 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 156 h (45-minuterspass)
+
+
+Specialisering pv - Programvara
+End of row
+ETSN15
+7,5
+A
+V
+4
+4
+-
+S
+Kravhantering
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 16 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 14 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+Specialisering pv - Programvara
+End of row
+FMAF35
+6
+G2
+V
+4
+4
+X
+E1
+Linjär och kombinatorisk optimering
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 4 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 130 h (45-minuterspass)
+
+Specialisering pv - Programvara
+End of row
+EDAF75
+7,5
+G2
+V
+4
+4
+X
+S
+Databasteknik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 24 h (45-minuterspass)Övningar: 2 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 112 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 50 h (45-minuterspass)
+Specialisering pv - Programvara
+End of row
+EDAF05
+5
+G2
+V
+4
+4
+X
+E1
+Algoritmer, datastrukturer och komplexitet
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 100 h (45-minuterspass)
+Specialisering pv - Programvara
+End of row
+EDAN40
+7,5
+A
+V
+4
+3
+X
+E
+Funktionsprogrammering
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 166 h (45-minuterspass)
+Specialisering pv - Programvara
+End of row
+EDAP15
+7,5
+A
+V
+4
+4
+X
+E
+Programanalys
+X Kursen ges vartannat läsår och ges nästa gång 2020/21.
+KS KE U W T
+
+Periodiserad Periodiserad: Kursen ges inte aktuellt läsår, men är planerad att ges nästa läsår.
+Specialisering pv - Programvara
+End of row
+EDAN75
+7,5
+A
+V
+5
+4
+X
+S
+Optimerande kompilatorer
+X Kursen ges vartannat läsår och ges nästa gång 2020/21.
+KS KE U W T
+
+Periodiserad Periodiserad: Kursen ges inte aktuellt läsår, men är planerad att ges nästa läsår.
+Specialisering pv - Programvara
+End of row
+Specialisering r - Reglersystem
+End of row
+FRTN10
+7,5
+A
+V
+4
+4
+X
+E1
+Flervariabel reglering
+
+KS KE U W T
+
+1 Föreläsningar: 30 h (45-minuterspass)Övningar: 30 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 128 h (45-minuterspass)
+
+
+
+Specialisering r - Reglersystem
+End of row
+BMEF10
+7,5
+G2
+V
+4
+4
+-
+S
+Sensorteknik
+
+KS KE U W T
+
+1 Föreläsningar: 42 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 146 h (45-minuterspass)
+
+
+
+Specialisering r - Reglersystem
+End of row
+FMSF10
+7,5
+G2
+V
+4
+4
+X
+E
+Stationära stokastiska processer
+
+KS KE U W T
+
+1 Föreläsningar: 22 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 145 h (45-minuterspass)
+
+
+
+Specialisering r - Reglersystem
+End of row
+FMAN70
+6
+A
+V
+4
+4
+X
+E1
+Matristeori
+
+KS KE U W T
+
+1 Föreläsningar: 18 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 56 h (45-minuterspass)
+2 Föreläsningar: 12 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 58 h (45-minuterspass)
+
+
+Specialisering r - Reglersystem
+End of row
+FRTN35
+7,5
+A
+V
+4
+4
+X
+E1
+Systemidentifiering
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 14 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+2 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 14 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+
+
+Specialisering r - Reglersystem
+End of row
+FMSN45
+7,5
+A
+V
+4
+4
+X
+E
+Matematisk statistik, tidsserieanalys
+
+KS KE U W T
+
+
+2 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 5 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+
+Specialisering r - Reglersystem
+End of row
+FRTN05
+7,5
+A
+V
+4
+4
+X
+E1
+Olinjär reglering och servosystem
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 130 h (45-minuterspass)
+
+
+Specialisering r - Reglersystem
+End of row
+FMAN60
+6
+A
+V
+4
+4
+X
+E1
+Optimering
+
+KS KE U W T
+
+
+2 Föreläsningar: 32 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 109 h (45-minuterspass)
+
+
+Specialisering r - Reglersystem
+End of row
+FRTN15
+7,5
+A
+V
+4
+4
+X
+E1
+Prediktiv reglering
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 18 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 16 h (45-minuterspass)Självstudietid: 70 h (45-minuterspass)
+Specialisering r - Reglersystem
+End of row
+FRTN01
+10
+A
+V
+4
+4
+X
+E
+Realtidssystem
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 18 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 90 h (45-minuterspass)
+4 Föreläsningar: 6 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 8 h (45-minuterspass)Självstudietid: 90 h (45-minuterspass)
+Specialisering r - Reglersystem
+End of row
+FMAN45
+7,5
+A
+V
+4
+4
+-
+E
+Maskininlärning
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 170 h (45-minuterspass)
+Specialisering r - Reglersystem
+End of row
+FRTN30
+7,5
+A
+V
+4
+4
+X
+E
+Nätverksdynamik
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 16 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 130 h (45-minuterspass)
+Specialisering r - Reglersystem
+End of row
+ETIF10
+7,5
+G2
+V
+4
+4
+X
+E1
+Signalbehandling - design och implementering
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 22 h (45-minuterspass)Övningar: 22 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 148 h (45-minuterspass)
+Specialisering r - Reglersystem
+End of row
+FRTN50
+7,5
+A
+V
+5
+4
+X
+E
+Optimering för maskininlärning
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 130 h (45-minuterspass)
+
+
+
+Specialisering r - Reglersystem
+End of row
+Specialisering ss - Signaler och sensorer
+End of row
+EITF75
+6
+G2
+V
+4
+4
+X
+E1
+Digital signalbehandling
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 96 h (45-minuterspass)
+
+
+
+Specialisering ss - Signaler och sensorer
+End of row
+BMEF10
+7,5
+G2
+V
+4
+4
+-
+S
+Sensorteknik
+
+KS KE U W T
+
+1 Föreläsningar: 42 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 146 h (45-minuterspass)
+
+
+
+Specialisering ss - Signaler och sensorer
+End of row
+FMSF10
+7,5
+G2
+V
+4
+4
+X
+E
+Stationära stokastiska processer
+
+KS KE U W T
+
+1 Föreläsningar: 22 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 145 h (45-minuterspass)
+
+
+
+Specialisering ss - Signaler och sensorer
+End of row
+EEMN10
+7,5
+A
+V
+4
+4
+X
+E1
+Datorbaserade mätsystem
+
+KS KE U W T
+
+
+2 Föreläsningar: 0 hÖvningar: 28 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 60 h (45-minuterspass)Självstudietid: 85 h (45-minuterspass)
+
+
+Specialisering ss - Signaler och sensorer
+End of row
+EEMN05
+7,5
+A
+V
+4
+4
+X
+E1
+EMC, störningar och störningsbegränsning
+
+KS KE U W T
+
+
+2 Föreläsningar: 14 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 60 h (45-minuterspass)Självstudietid: 85 h (45-minuterspass)
+
+
+Specialisering ss - Signaler och sensorer
+End of row
+FMSN45
+7,5
+A
+V
+4
+4
+X
+E
+Matematisk statistik, tidsserieanalys
+
+KS KE U W T
+
+
+2 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 5 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+
+Specialisering ss - Signaler och sensorer
+End of row
+BMEN15
+7,5
+A
+V
+4
+4
+X
+E
+Signalseparation - oberoende komponenter
+
+KS KE U W T
+
+
+2 Föreläsningar: 14 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+Specialisering ss - Signaler och sensorer
+End of row
+FMSN35
+7,5
+A
+V
+4
+4
+X
+E
+Stationär och icke-stationär spektralanalys
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+
+3 Föreläsningar: 18 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 5 h (45-minuterspass)Självstudietid: 170 h (45-minuterspass)
+
+Specialisering ss - Signaler och sensorer
+End of row
+EEMN15
+7,5
+A
+V
+4
+4
+X
+E1
+Ultraljudsfysik och teknik
+X Omtentamen enligt överenskommelse.
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 28 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 66 h (45-minuterspass)
+
+Specialisering ss - Signaler och sensorer
+End of row
+BMEN01
+7,5
+A
+V
+4
+4
+X
+E1
+Medicinsk signalbehandling
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 7 h (45-minuterspass)Självstudietid: 165 h (45-minuterspass)
+Specialisering ss - Signaler och sensorer
+End of row
+EEMN01
+7,5
+A
+V
+4
+4
+X
+E1
+Mikrosensorer
+X Omtentamen enligt överenskommelse
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 0 hLaborationer: 28 h (45-minuterspass)Handledd projekttid: 60 h (45-minuterspass)Självstudietid: 108 h (45-minuterspass)
+Specialisering ss - Signaler och sensorer
+End of row
+ETIF10
+7,5
+G2
+V
+4
+4
+X
+E1
+Signalbehandling - design och implementering
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 22 h (45-minuterspass)Övningar: 22 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 148 h (45-minuterspass)
+Specialisering ss - Signaler och sensorer
+End of row
+EITN60
+7,5
+A
+V
+5
+4
+X
+E
+Optimal och adaptiv signalbehandling
+
+KS KE U W T
+
+1 Föreläsningar: 16 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 148 h (45-minuterspass)
+
+
+
+Specialisering ss - Signaler och sensorer
+End of row
+FMAN80
+7,5
+A
+V
+5
+4
+X
+E1
+Funktionalanalys och harmonisk analys
+
+KS KE U W T
+
+1 Föreläsningar: 20 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 108 h (45-minuterspass)
+2 Föreläsningar: 8 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 50 h (45-minuterspass)
+
+
+Specialisering ss - Signaler och sensorer
+End of row
+Specialisering tf - Teoretisk fysik
+End of row
+FMFN01
+7,5
+A
+V
+4
+4
+X
+E1
+Kvantmekanik, fortsättningskurs 1
+
+KS KE U W T
+
+1 Föreläsningar: 20 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+
+
+Specialisering tf - Teoretisk fysik
+End of row
+FMAN70
+6
+A
+V
+4
+4
+X
+E1
+Matristeori
+
+KS KE U W T
+
+1 Föreläsningar: 18 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 56 h (45-minuterspass)
+2 Föreläsningar: 12 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 58 h (45-minuterspass)
+
+
+Specialisering tf - Teoretisk fysik
+End of row
+EXTQ40
+7,5
+A
+V
+4
+4
+-
+E1
+Introduktion till artificiella neuronnätverk och deep learning
+
+KS KE U W T
+
+
+2 Föreläsningar: 34 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 30 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 126 h (45-minuterspass)
+
+
+Specialisering tf - Teoretisk fysik
+End of row
+FMFN15
+7,5
+A
+V
+4
+4
+X
+E1
+Kärnstrukturteori
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+Specialisering tf - Teoretisk fysik
+End of row
+FMFN25
+7,5
+A
+V
+4
+4
+X
+E
+Statistisk mekanik
+
+KS KE U W T
+
+
+2 Föreläsningar: 32 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 136 h (45-minuterspass)
+
+
+Specialisering tf - Teoretisk fysik
+End of row
+FMEN02
+7,5
+A
+V
+4
+4
+X
+E
+Flerkroppsdynamik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 36 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 4 h (45-minuterspass)Självstudietid: 146 h (45-minuterspass)
+
+Specialisering tf - Teoretisk fysik
+End of row
+FMFF35
+7,5
+G2
+V
+4
+4
+X
+E
+Komplex ekonomi
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 158 h (45-minuterspass)
+
+Specialisering tf - Teoretisk fysik
+End of row
+FAFN05
+7,5
+A
+V
+4
+4
+X
+E
+Ljus - materia växelverkan
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 160 h (45-minuterspass)
+
+Specialisering tf - Teoretisk fysik
+End of row
+EITN90
+7,5
+A
+V
+4
+4
+X
+E
+Radar och fjärranalys
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 5 h (45-minuterspass)Självstudietid: 147 h (45-minuterspass)
+
+Specialisering tf - Teoretisk fysik
+End of row
+EXTQ01
+7,5
+A
+V
+4
+4
+X
+E
+Teoretisk biofysik
+X Kursen ges av naturvetenskapliga fakulteten och följer inte läsperiodsindelningen.
+KS KE U W T
+
+
+
+3 Föreläsningar: 40 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+Specialisering tf - Teoretisk fysik
+End of row
+EXTP90
+7,5
+A
+V
+4
+4
+X
+E
+Fasta tillståndets teori
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 22 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+Specialisering tf - Teoretisk fysik
+End of row
+FMFN05
+7,5
+A
+V
+4
+4
+X
+E1
+Kaos
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+Specialisering tf - Teoretisk fysik
+End of row
+FMFN10
+7,5
+A
+V
+4
+4
+X
+E
+Kvantmekanik, fortsättningskurs 2
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+Specialisering tf - Teoretisk fysik
+End of row
+FMAN80
+7,5
+A
+V
+5
+4
+X
+E1
+Funktionalanalys och harmonisk analys
+
+KS KE U W T
+
+1 Föreläsningar: 20 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 108 h (45-minuterspass)
+2 Föreläsningar: 8 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 50 h (45-minuterspass)
+
+
+Specialisering tf - Teoretisk fysik
+End of row
+Valfria kurser - F
+End of row
+FMAA60
+7,5
+G1
+1
+1
+-
+S
+Introduktion till reell analys
+
+KS KE U W T
+
+1 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 174 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FMAA25
+7,5
+G1
+1
+1
+X
+E1
+Diskret matematik
+
+KS KE U W T
+
+
+2 Föreläsningar: 54 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 144 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMAA25
+
+
+
+
+
+
+
+4 Föreläsningar: 54 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 144 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EDAA01
+7,5
+G1
+2
+2
+-
+S
+Programmeringsteknik - fördjupningskurs
+
+KS KE U W T
+
+1 Föreläsningar: 14 h (45-minuterspass)Övningar: 0 hLaborationer: 6 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 72 h (45-minuterspass)
+2 Föreläsningar: 14 h (45-minuterspass)Övningar: 0 hLaborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 86 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EITF70
+6
+G2
+2
+2
+-
+S
+Datorteknik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 14 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 16 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 122 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+EDAA01
+7,5
+G1
+2
+2
+-
+S
+Programmeringsteknik - fördjupningskurs
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 14 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 158 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FRTF15
+3
+G2
+2
+2
+-
+S
+Reglerteori
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 12 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 12 h (45-minuterspass)Självstudietid: 44 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FMFF30
+4,5
+G2
+2
+2
+-
+S
+Relativitetsteori
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 21 h (45-minuterspass)Övningar: 21 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 78 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+EITA05
+4,5
+G1
+2
+1
+-
+S
+Teknikhistoria
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 14 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 40 h (45-minuterspass)
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 7 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 40 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EDAA25
+3
+G1
+2
+2
+X
+S
+C-programmering
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EITF65
+9
+G2
+3
+3
+-
+S
+Digitalteknik
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 71 h (45-minuterspass)
+2 Föreläsningar: 10 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 63 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMAN10
+7,5
+A
+3
+3
+X
+E1
+Algebraiska strukturer
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 162 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FAFN25
+7,5
+A
+4
+4
+X
+E
+Atom- och molekylspektroskopi
+
+KS KE U W T
+
+1 Föreläsningar: 36 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 15 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 145 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FMNN25
+7,5
+A
+4
+4
+X
+E1
+Avancerad kurs i numeriska algoritmer med Python/SciPy
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 3 h (45-minuterspass)Självstudietid: 169 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FHLN05
+7,5
+A
+4
+4
+X
+E
+Beräkningsbaserad materialmodellering
+
+KS KE U W T
+
+1 Föreläsningar: 38 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 130 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FMAN20
+7,5
+A
+4
+4
+X
+E1
+Bildanalys
+
+KS KE U W T
+
+1 Föreläsningar: 32 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 166 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+BMEN05
+7,5
+A
+4
+4
+X
+E
+Biomekanik
+
+KS KE U W T
+
+1 Föreläsningar: 32 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 110 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+EDAF80
+7,5
+G2
+4
+4
+X
+E
+Datorgrafik
+
+KS KE U W T
+
+1 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 10 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 160 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+ETIN20
+7,5
+A
+4
+4
+X
+E
+Digital IC-konstruktion
+
+KS KE U W T
+
+1 Föreläsningar: 24 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+EITG05
+7,5
+G2
+4
+4
+X
+E
+Digital kommunikation
+
+KS KE U W T
+
+1 Föreläsningar: 24 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 144 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+EITF75
+6
+G2
+4
+4
+X
+E1
+Digital signalbehandling
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 96 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+EIEN41
+7,5
+A
+4
+4
+X
+E1
+El- och elhybridfordonsteknik
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 24 h (45-minuterspass)Självstudietid: 142 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+EIEN15
+7,5
+A
+4
+4
+X
+E1
+Elkraftsystem
+
+KS KE U W T
+
+1 Föreläsningar: 16 h (45-minuterspass)Övningar: 22 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 7 h (45-minuterspass)Självstudietid: 110 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+MVKP01
+7,5
+A
+4
+4
+-
+S
+Fjärrvärme och fjärrkyla
+
+KS KE U W T
+
+1 Föreläsningar: 15 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 9 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 147 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+EDAP10
+7,5
+A
+4
+4
+-
+S
+Flertrådad programmering
+X Ersätter EDAF55
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 160 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FRTN10
+7,5
+A
+4
+4
+X
+E1
+Flervariabel reglering
+
+KS KE U W T
+
+1 Föreläsningar: 30 h (45-minuterspass)Övningar: 30 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 128 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FFFN30
+7,5
+A
+4
+4
+X
+E1
+Halvledarfysik
+
+KS KE U W T
+
+1 Föreläsningar: 34 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 16 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 136 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+IYT000
+15
+G2
+4
+3
+-
+S
+Ingenjörsinriktad yrkesträning
+
+KS KE U W
+
+1 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 400 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+MAMN25
+7,5
+A
+4
+4
+-
+S
+Interaktionsdesign
+
+KS KE U W T
+
+1 Föreläsningar: 30 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 14 h (45-minuterspass)Självstudietid: 142 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+EEMN21
+7,5
+A
+4
+4
+X
+E1
+Introduktion till mikrofluidik och lab-on-a-chip system
+
+KS KE U W T
+
+1 Föreläsningar: 20 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 16 h (45-minuterspass)Självstudietid: 148 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+EITF50
+7,5
+G2
+4
+4
+X
+E
+Introduktion till trådlösa system
+
+KS KE U W T
+
+1 Föreläsningar: 18 h (45-minuterspass)Övningar: 18 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 152 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FKFN20
+7,5
+A
+4
+4
+X
+E
+Kärnfysik, fördjupningskurs
+
+KS KE U W T
+
+1 Föreläsningar: 40 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 20 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 130 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+EDAN65
+7,5
+A
+4
+4
+X
+E1
+Kompilatorer
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 160 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FMEN21
+7,5
+A
+4
+4
+X
+E
+Kontinuumsmekanik
+
+KS KE U W T
+
+1 Föreläsningar: 42 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 142 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FMFN01
+7,5
+A
+4
+4
+X
+E1
+Kvantmekanik, fortsättningskurs 1
+
+KS KE U W T
+
+1 Föreläsningar: 20 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FMSF15
+7,5
+G2
+4
+4
+X
+E
+Markovprocesser
+
+KS KE U W T
+
+1 Föreläsningar: 26 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 140 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+ETIN70
+7,5
+A
+4
+4
+X
+E1
+Modern elektronik
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+EDAN26
+7,5
+A
+4
+4
+-
+S
+Multicoreprogrammering
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+1 Föreläsningar: 24 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FMNN01
+7,5
+A
+4
+4
+X
+E
+Numerisk linjär algebra
+
+KS KE U W T
+
+1 Föreläsningar: 36 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 6 h (45-minuterspass)Självstudietid: 160 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+EDAF60
+4,5
+G2
+4
+4
+-
+S
+Objektorienterad modellering och design
+
+KS KE U W T
+
+1 Föreläsningar: 14 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 94 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FAFF01
+7,5
+G2
+4
+4
+X
+E
+Optik och optisk design
+
+KS KE U W T
+
+1 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 15 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FFFF10
+7,5
+G2
+4
+4
+X
+E
+Process- och komponentteknologi
+
+KS KE U W T
+
+1 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 20 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 140 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+EXTF90
+7,5
+G2
+4
+4
+X
+E
+Produktion av fotoner och neutroner för vetenskap
+X Kursen ges av naturvetenskapliga fakulteten och följer inte läsperiodsindelningen.
+KS KE U W T
+
+1 Föreläsningar: 24 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 9 h (45-minuterspass)Handledd projekttid: 6 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+ETSN05
+7,5
+A
+4
+4
+-
+S
+Programvaruutveckling för stora system
+
+KS KE U W T
+
+1 Föreläsningar: 10 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 10 h (45-minuterspass)Självstudietid: 168 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+EDAN70
+7,5
+A
+4
+4
+X
+E1
+Projekt i datavetenskap
+X Kursen ges en gång per läsperiod och är öppen för noll eller flera projektområden varje kursomgång. Förkunskapskraven beror på projektområdet.
+KS KE U W T
+
+1 Föreläsningar: 2 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 12 h (45-minuterspass)Självstudietid: 182 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FHLN35
+7,5
+A
+4
+4
+X
+E1
+Projekt i hållfasthetslära
+
+KS KE U W T
+
+1 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 20 h (45-minuterspass)Självstudietid: 180 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+BMEF10
+7,5
+G2
+4
+4
+-
+S
+Sensorteknik
+
+KS KE U W T
+
+1 Föreläsningar: 42 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 146 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+AEBF25
+7,5
+G2
+4
+4
+X
+E
+Solenergi - grundkurs i solvärmeteknik
+
+KS KE U W T
+
+1 Föreläsningar: 24 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 15 h (45-minuterspass)Handledd projekttid: 6 h (45-minuterspass)Självstudietid: 145 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+EDAN20
+7,5
+A
+4
+4
+X
+E
+Språkteknologi
+
+KS KE U W T
+
+1 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 14 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 160 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FMSF10
+7,5
+G2
+4
+4
+X
+E
+Stationära stokastiska processer
+
+KS KE U W T
+
+1 Föreläsningar: 22 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 145 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FRTF20
+7,5
+G2
+4
+4
+X
+E
+Tillämpad robotteknik
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 22 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 20 h (45-minuterspass)Självstudietid: 100 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+MAMN20
+7,5
+A
+4
+4
+X
+E1
+Aerosolteknologi, projekt
+
+KS KE U W T
+
+1 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 15 h (45-minuterspass)Självstudietid: 85 h (45-minuterspass)
+2 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 15 h (45-minuterspass)Självstudietid: 85 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FFFN01
+7,5
+A
+4
+4
+-
+E
+Avancerad framställning av nanostrukturer
+
+KS KE U W T
+
+1 Föreläsningar: 6 h (45-minuterspass)Övningar: 2 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 30 h (45-minuterspass)Självstudietid: 60 h (45-minuterspass)
+2 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 30 h (45-minuterspass)Självstudietid: 60 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMIN25
+7,5
+A
+4
+4
+-
+S
+Energisystemanalys: energi, miljö och naturresurser
+
+KS KE U W T
+
+1 Föreläsningar: 18 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 76 h (45-minuterspass)
+2 Föreläsningar: 18 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 76 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMAN70
+6
+A
+4
+4
+X
+E1
+Matristeori
+
+KS KE U W T
+
+1 Föreläsningar: 18 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 56 h (45-minuterspass)
+2 Föreläsningar: 12 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 58 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMIN30
+7,5
+A
+4
+4
+-
+S
+Miljösystemanalys, livscykelanalys
+
+KS KE U W T
+
+1 Föreläsningar: 12 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 81 h (45-minuterspass)
+2 Föreläsningar: 10 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 83 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMAN15
+7,5
+A
+4
+4
+X
+E
+Olinjära dynamiska system
+
+KS KE U W T
+
+1 Föreläsningar: 16 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 78 h (45-minuterspass)
+2 Föreläsningar: 14 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 78 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+TNSF05
+7,5
+G2
+4
+4
+-
+S
+Rehabiliteringsteknik
+
+KS KE U W T
+
+1 Föreläsningar: 16 h (45-minuterspass)Övningar: 0 hLaborationer: 6 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 96 h (45-minuterspass)
+2 Föreläsningar: 0 hÖvningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 12 h (45-minuterspass)Självstudietid: 64 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FRTN35
+7,5
+A
+4
+4
+X
+E1
+Systemidentifiering
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 14 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+2 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 14 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EIEN45
+10
+A
+4
+4
+X
+E1
+Tillämpad mekatronik
+
+KS KE U W T
+
+1 Föreläsningar: 22 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 8 h (45-minuterspass)Självstudietid: 90 h (45-minuterspass)
+2 Föreläsningar: 14 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 14 h (45-minuterspass)Självstudietid: 90 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+MVKP05
+7,5
+A
+4
+4
+X
+E1
+Projekt - formula student
+
+KS KE U W T
+
+1 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 13 h (45-minuterspass)Självstudietid: 40 h (45-minuterspass)
+2 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 13 h (45-minuterspass)Självstudietid: 40 h (45-minuterspass)
+3 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 12 h (45-minuterspass)Självstudietid: 35 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 12 h (45-minuterspass)Självstudietid: 35 h (45-minuterspass)
+Valfria kurser - F
+End of row
+MAMF55
+7,5
+G2
+4
+4
+X
+E1
+Aerosolteknologi
+
+KS KE U W T
+
+
+2 Föreläsningar: 38 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 14 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 125 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+VTAN01
+7,5
+A
+4
+4
+X
+E
+Akustik
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 132 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+ETIN25
+7,5
+A
+4
+4
+X
+E
+Analog IC-konstruktion
+
+KS KE U W T
+
+
+2 Föreläsningar: 22 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 152 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMEN15
+7,5
+A
+4
+4
+X
+E
+Analytisk mekanik
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+2 Föreläsningar: 42 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 144 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+ETEN10
+7,5
+A
+4
+4
+X
+E
+Antennteknik
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 152 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+BMEN10
+7,5
+A
+4
+4
+X
+E
+Biomekanik för vävnader
+
+KS KE U W T
+
+
+2 Föreläsningar: 24 h (45-minuterspass)Övningar: 0 hLaborationer: 20 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 100 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EDAN01
+7,5
+A
+4
+4
+X
+E
+Constraint-programmering
+
+KS KE U W T
+
+
+2 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 160 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EITF20
+7,5
+G2
+4
+4
+X
+E
+Datorarkitektur
+
+KS KE U W T
+
+
+2 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 16 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 164 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EEMN10
+7,5
+A
+4
+4
+X
+E1
+Datorbaserade mätsystem
+
+KS KE U W T
+
+
+2 Föreläsningar: 0 hÖvningar: 28 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 60 h (45-minuterspass)Självstudietid: 85 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EITF45
+7,5
+G2
+4
+4
+-
+S
+Datorkommunikation
+
+KS KE U W T
+
+
+2 Föreläsningar: 18 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 156 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EEMN05
+7,5
+A
+4
+4
+X
+E1
+EMC, störningar och störningsbegränsning
+
+KS KE U W T
+
+
+2 Föreläsningar: 14 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 60 h (45-minuterspass)Självstudietid: 85 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EXTN90
+7,5
+A
+4
+4
+X
+E
+Experimentella metoder och instrumentering för synkrotronljusforskning
+X Kursen ges av naturvetenskapliga fakulteten och följer inte läsperiodsindelningen.
+KS KE U W T
+
+
+2 Föreläsningar: 26 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 6 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EXTF45
+6
+G2
+4
+4
+-
+S
+Finansiell ekonomi
+
+KS KE U W T
+
+
+2 Föreläsningar: 32 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 110 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FHLN20
+7,5
+A
+4
+4
+X
+E
+Finita elementmetoden - olinjära system
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 28 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 144 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FFFN35
+7,5
+A
+4
+4
+X
+E
+Fysiken för låg-dimensionella strukturer och kvantkomponenter
+
+KS KE U W T
+
+
+2 Föreläsningar: 30 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 16 h (45-minuterspass)Handledd projekttid: 10 h (45-minuterspass)Självstudietid: 140 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+ETIN50
+7,5
+A
+4
+4
+X
+E
+Högfrekvensförstärkare
+
+KS KE U W T
+
+
+2 Föreläsningar: 18 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 16 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EITP01
+7,5
+A
+4
+4
+X
+E1
+Höghastighetselektronik
+
+KS KE U W T
+
+
+2 Föreläsningar: 32 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EITP10
+7,5
+A
+4
+4
+X
+E
+Högpresterande fibernät
+
+KS KE U T
+
+
+2 Föreläsningar: 20 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 166 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+IYT000
+15
+G2
+4
+3
+-
+S
+Ingenjörsinriktad yrkesträning
+
+KS KE U W
+
+
+2 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 400 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EXTQ40
+7,5
+A
+4
+4
+-
+E1
+Introduktion till artificiella neuronnätverk och deep learning
+
+KS KE U W T
+
+
+2 Föreläsningar: 34 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 30 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 126 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMFN15
+7,5
+A
+4
+4
+X
+E1
+Kärnstrukturteori
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EXTA65
+4,5
+G1
+4
+4
+-
+S
+Kognition
+
+KS KE U W T
+
+
+2 Föreläsningar: 20 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 84 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EDAN10
+7,5
+A
+4
+4
+X
+E
+Konfigurationshantering
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 144 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+MVKN65
+7,5
+A
+4
+4
+X
+E1
+Kraftverksteknik
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 144 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EDIN01
+7,5
+A
+4
+4
+X
+E1
+Kryptoteknik
+
+KS KE U W T
+
+
+2 Föreläsningar: 36 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 148 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EXTP85
+7,5
+A
+4
+4
+-
+S
+Kvantitativ humanfysiologi
+
+KS KE U W T
+
+
+2 Föreläsningar: 38 h (45-minuterspass)Övningar: 0 hLaborationer: 18 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 126 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FAFN01
+7,5
+A
+4
+4
+X
+E
+Lasrar
+
+KS KE U W T
+
+
+2 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMSN45
+7,5
+A
+4
+4
+X
+E
+Matematisk statistik, tidsserieanalys
+
+KS KE U W T
+
+
+2 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 5 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMAN30
+7,5
+A
+4
+4
+X
+E1
+Medicinsk bildanalys
+
+KS KE U W T
+
+
+2 Föreläsningar: 32 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 3 h (45-minuterspass)Självstudietid: 165 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EEMF05
+7,5
+G2
+4
+4
+X
+E1
+Medicinsk mätteknik
+X Omtentamen enligt överenskommelse
+KS KE U W T
+
+
+2 Föreläsningar: 42 h (45-minuterspass)Övningar: 0 hLaborationer: 28 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 130 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FAFN35
+7,5
+A
+4
+4
+X
+E
+Medicinsk optik
+
+KS KE U W T
+
+
+2 Föreläsningar: 24 h (45-minuterspass)Övningar: 15 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 40 h (45-minuterspass)Självstudietid: 110 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMEN11
+7,5
+A
+4
+4
+X
+E
+Mekaniska vibrationer
+
+KS KE U W T
+
+
+2 Föreläsningar: 42 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 144 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FHLN10
+7,5
+A
+4
+4
+X
+E
+Modern experimentell mekanik
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 28 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 100 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FFFN05
+7,5
+A
+4
+4
+X
+E
+Nanomaterial - Termodynamik och kinetik
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 158 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FRTN05
+7,5
+A
+4
+4
+X
+E1
+Olinjär reglering och servosystem
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 130 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMAN60
+6
+A
+4
+4
+X
+E1
+Optimering
+
+KS KE U W T
+
+
+2 Föreläsningar: 32 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 109 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EXTF85
+7,5
+G2
+4
+4
+X
+E1
+Partikelfysik, kosmologi och acceleratorer
+X Kursen ges av naturvetenskapliga fakulteten och följer inte läsperiodsindelningen.
+KS KE U W T
+
+
+2 Föreläsningar: 27 h (45-minuterspass)Övningar: 3 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 120 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EDAP05
+7,5
+A
+4
+4
+X
+E
+Programspråkskoncept
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 160 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+ETSN20
+7,5
+A
+4
+4
+X
+E
+Programvarutestning
+
+KS KE U W T
+
+
+2 Föreläsningar: 16 h (45-minuterspass)Övningar: 3 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 170 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EDAN70
+7,5
+A
+4
+4
+X
+E1
+Projekt i datavetenskap
+X Kursen ges en gång per läsperiod och är öppen för noll eller flera projektområden varje kursomgång. Förkunskapskraven beror på projektområdet.
+KS KE U W T
+
+
+2 Föreläsningar: 2 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 12 h (45-minuterspass)Självstudietid: 182 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FHLN35
+7,5
+A
+4
+4
+X
+E1
+Projekt i hållfasthetslära
+
+KS KE U W T
+
+
+2 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 20 h (45-minuterspass)Självstudietid: 180 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMAN35
+3
+A
+4
+4
+X
+E1
+Projekt i matematik
+
+KS KE U W T
+
+
+2 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 70 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FRTN40
+7,5
+A
+4
+4
+X
+E1
+Projekt i reglerteknik
+
+KS KE U W T
+
+
+2 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 50 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMAN40
+3
+A
+4
+4
+X
+E1
+Projekt i tillämpad matematik
+
+KS KE U W T
+
+
+2 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 70 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+BMEN15
+7,5
+A
+4
+4
+X
+E
+Signalseparation - oberoende komponenter
+
+KS KE U W T
+
+
+2 Föreläsningar: 14 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMSN20
+7,5
+A
+4
+4
+X
+E
+Spatial statistik med bildanalys
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 21 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMFN25
+7,5
+A
+4
+4
+X
+E
+Statistisk mekanik
+
+KS KE U W T
+
+
+2 Föreläsningar: 32 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 136 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EDAN95
+7,5
+A
+4
+4
+X
+E
+Tillämpad maskininlärning
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 14 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 156 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EIEN10
+7,5
+A
+4
+4
+X
+E1
+Vindkraftsystem
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 16 h (45-minuterspass)Självstudietid: 110 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EDAF45
+7,5
+G2
+4
+4
+-
+S
+Programvaruutveckling i grupp - projekt
+
+KS KE U W T
+
+
+2 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 10 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 50 h (45-minuterspass)
+3 Föreläsningar: 2 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 48 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 54 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+MAMF15
+6
+G2
+4
+3
+-
+S
+Arbetsorganisation och ledarskap
+X Endast en av kurserna MAMF15 och MAMN30 får ingå i examen.
+KS KE U W T
+
+
+
+3 Föreläsningar: 30 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 14 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+EDAP01
+7,5
+A
+4
+4
+X
+E
+Artificiell intelligens
+X Ersätter EDAF70
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 170 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+EIEF45
+7,5
+G2
+4
+4
+X
+E1
+Automation
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 42 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 8 h (45-minuterspass)Självstudietid: 135 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+EITA25
+7,5
+G1
+4
+4
+X
+S
+Datasäkerhet
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 160 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FMAN85
+6
+A
+4
+4
+X
+E1
+Datorseende
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 132 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+MVKN20
+7,5
+A
+4
+4
+-
+S
+Energianvändning
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 4 h (45-minuterspass)Övningar: 24 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 170 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FMEN02
+7,5
+A
+4
+4
+X
+E
+Flerkroppsdynamik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 36 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 4 h (45-minuterspass)Självstudietid: 146 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+MIOF25
+6
+G2
+4
+4
+-
+S
+Industriell ekonomi, fortsättningskurs
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 36 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 101 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+IYT000
+15
+G2
+4
+3
+-
+S
+Ingenjörsinriktad yrkesträning
+
+KS KE U W
+
+
+
+3 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 400 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+INNN15
+7,5
+A
+4
+4
+X
+E
+Innovationsmanagement
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 14 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 165 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FMFF35
+7,5
+G2
+4
+4
+X
+E
+Komplex ekonomi
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 158 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FKMA01
+7,5
+G1
+4
+4
+X
+E
+Konstruktionsmaterial, allmän kurs
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 56 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 120 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+ETSN15
+7,5
+A
+4
+4
+-
+S
+Kravhantering
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 16 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 14 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FAFN15
+7,5
+A
+4
+4
+X
+E
+Kristalltillväxt och halvledarepitaxi
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 18 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 170 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FBRN05
+7,5
+A
+4
+4
+X
+E1
+Laserbaserad diagnostik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 10 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FMAF35
+6
+G2
+4
+4
+X
+E1
+Linjär och kombinatorisk optimering
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 4 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 130 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FAFN05
+7,5
+A
+4
+4
+X
+E
+Ljus - materia växelverkan
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 160 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FRTN45
+4,5
+A
+4
+4
+-
+S
+Matematisk modellering, fortsättningskurs
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 4 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 6 h (45-minuterspass)Självstudietid: 100 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FMAN65
+6
+A
+4
+4
+-
+S
+Matematiska strukturer
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 118 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+EXTQ45
+7,5
+A
+4
+4
+-
+E
+Modern röntgenfysik - diffraktion och avbildning
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 32 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 144 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FMSN50
+7,5
+A
+4
+4
+X
+E
+Monte Carlo-baserade statistiska metoder
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 14 h (45-minuterspass)Handledd projekttid: 5 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+EITP05
+7,5
+A
+4
+4
+X
+E1
+Nanoelektronik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 4 h (45-minuterspass)Handledd projekttid: 3 h (45-minuterspass)Självstudietid: 167 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+BMEF20
+7,5
+G2
+4
+4
+-
+E
+Neuroteknik
+
+KS KE U T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 158 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FFFN25
+7,5
+A
+4
+4
+X
+E
+Optoelektronik och optisk kommunikation
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 145 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+EDAN70
+7,5
+A
+4
+4
+X
+E1
+Projekt i datavetenskap
+X Kursen ges en gång per läsperiod och är öppen för noll eller flera projektområden varje kursomgång. Förkunskapskraven beror på projektområdet.
+KS KE U W T
+
+
+
+3 Föreläsningar: 2 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 12 h (45-minuterspass)Självstudietid: 182 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FHLN35
+7,5
+A
+4
+4
+X
+E1
+Projekt i hållfasthetslära
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 20 h (45-minuterspass)Självstudietid: 180 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+BMEN20
+7,5
+A
+4
+4
+X
+E1
+Projektkurs i signalbehandling – från idé till app
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 8 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 8 h (45-minuterspass)Självstudietid: 172 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+EITN90
+7,5
+A
+4
+4
+X
+E
+Radar och fjärranalys
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 5 h (45-minuterspass)Självstudietid: 147 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FMSF05
+7,5
+G2
+4
+4
+X
+E
+Sannolikhetsteori
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 160 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FMNN05
+7,5
+A
+4
+4
+X
+E1
+Simuleringsverktyg
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 3 h (45-minuterspass)Självstudietid: 169 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+AEBF30
+7,5
+G2
+4
+4
+X
+E
+Solel - grundkurs i solcellsteknik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 24 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 6 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+EXTN85
+7,5
+A
+4
+4
+X
+E
+Spridningsmetoder
+X Kursen ges av naturvetenskapliga fakulteten och följer inte läsperiodsindelningen.
+KS KE U W T
+
+
+
+3 Föreläsningar: 17 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 18 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 158 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FMSN35
+7,5
+A
+4
+4
+X
+E
+Stationär och icke-stationär spektralanalys
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+
+3 Föreläsningar: 18 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 5 h (45-minuterspass)Självstudietid: 170 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+MMVF10
+7,5
+G2
+4
+4
+X
+E1
+Strömningslära
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 40 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 124 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+VSMN10
+7,5
+A
+4
+4
+X
+E1
+Strukturdynamiska beräkningar
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 8 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 170 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FHLN01
+7,5
+A
+4
+4
+X
+E
+Strukturoptimering
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 26 h (45-minuterspass)Laborationer: 2 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 100 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+EXTQ01
+7,5
+A
+4
+4
+X
+E
+Teoretisk biofysik
+X Kursen ges av naturvetenskapliga fakulteten och följer inte läsperiodsindelningen.
+KS KE U W T
+
+
+
+3 Föreläsningar: 40 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+FKFN25
+7,5
+A
+4
+4
+X
+E1
+Tillämpad kärn-, neutron- och reaktorfysik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 14 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 15 h (45-minuterspass)Handledd projekttid: 10 h (45-minuterspass)Självstudietid: 155 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+EEMN15
+7,5
+A
+4
+4
+X
+E1
+Ultraljudsfysik och teknik
+X Omtentamen enligt överenskommelse.
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 28 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 66 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+EXTQ35
+7,5
+A
+4
+4
+X
+E
+Värdering och hantering av finansiell risk
+X Kursen samläses med NEKN83, som ges av Nationalekonomiska institutionen. Följer inte läsperiodsindelningen.
+KS KE U W T
+
+
+
+3 Föreläsningar: 40 h (45-minuterspass)Övningar: 0 hLaborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+MMVF05
+7,5
+G2
+4
+4
+X
+E
+Värmeöverföring
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 42 h (45-minuterspass)Övningar: 38 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 14 h (45-minuterspass)Självstudietid: 106 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+EDAF90
+7,5
+G2
+4
+4
+X
+S
+Webbprogrammering
+
+KS KE U T
+
+
+
+3 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 8 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 168 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+MAMN20
+7,5
+A
+4
+4
+X
+E1
+Aerosolteknologi, projekt
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 15 h (45-minuterspass)Självstudietid: 85 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 15 h (45-minuterspass)Självstudietid: 85 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FFFN01
+7,5
+A
+4
+4
+-
+E
+Avancerad framställning av nanostrukturer
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 6 h (45-minuterspass)Övningar: 2 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 30 h (45-minuterspass)Självstudietid: 60 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 30 h (45-minuterspass)Självstudietid: 60 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EXTG15
+7,5
+G2
+4
+4
+X
+E1
+Biologisk översiktskurs
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 16 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 65 h (45-minuterspass)
+4 Föreläsningar: 27 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 65 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FMAN01
+7,5
+A
+4
+4
+X
+E1
+Biomatematik
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+
+3 Föreläsningar: 14 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 79 h (45-minuterspass)
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 79 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EDAF50
+7,5
+G2
+4
+4
+X
+S
+C++ - programmering
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 24 h (45-minuterspass)Övningar: 0 hLaborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 100 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 60 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EDAF75
+7,5
+G2
+4
+4
+X
+S
+Databasteknik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 24 h (45-minuterspass)Övningar: 2 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 112 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 50 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FMIN20
+7,5
+A
+4
+4
+-
+S
+Energisystemanalys: Förnybara energikällor
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 92 h (45-minuterspass)
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 48 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FFFN20
+15
+A
+4
+4
+X
+E
+Experimentell biofysik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 14 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 100 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 10 h (45-minuterspass)Laborationer: 20 h (45-minuterspass)Handledd projekttid: 20 h (45-minuterspass)Självstudietid: 200 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FKFN35
+7,5
+A
+4
+4
+X
+E
+Miljömätteknik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 10 h (45-minuterspass)Övningar: 0 hLaborationer: 10 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 80 h (45-minuterspass)
+4 Föreläsningar: 8 h (45-minuterspass)Övningar: 0 hLaborationer: 4 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 80 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FMIN05
+7,5
+A
+4
+4
+X
+E1
+Miljösystemanalys: Klimat som vetenskap och politik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 14 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 80 h (45-minuterspass)
+4 Föreläsningar: 16 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 80 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FRTN15
+7,5
+A
+4
+4
+X
+E1
+Prediktiv reglering
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 18 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 16 h (45-minuterspass)Självstudietid: 70 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FRTN01
+10
+A
+4
+4
+X
+E
+Realtidssystem
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 18 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 90 h (45-minuterspass)
+4 Föreläsningar: 6 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 8 h (45-minuterspass)Självstudietid: 90 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FMAN25
+7,5
+A
+4
+4
+X
+E1
+Variationskalkyl
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 18 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 82 h (45-minuterspass)
+4 Föreläsningar: 16 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 84 h (45-minuterspass)
+Valfria kurser - F
+End of row
+MAMF45
+7,5
+G2
+4
+4
+-
+S
+Virtual Reality i teori och praktik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 16 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 68 h (45-minuterspass)
+4 Föreläsningar: 4 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 22 h (45-minuterspass)Självstudietid: 70 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EDAF05
+5
+G2
+4
+4
+X
+E1
+Algoritmer, datastrukturer och komplexitet
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 100 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EDAF15
+5
+G2
+4
+4
+-
+S
+Algoritmimplementering
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 24 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 85 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FKFF05
+5
+G2
+4
+4
+X
+E
+Atmosfärskemi och -fysik
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 20 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 4 h (45-minuterspass)Självstudietid: 100 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EIEN35
+7,5
+A
+4
+4
+X
+E1
+Automation för komplexa system
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 42 h (45-minuterspass)Övningar: 0 hLaborationer: 60 h (45-minuterspass)Handledd projekttid: 20 h (45-minuterspass)Självstudietid: 70 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FAFN10
+7,5
+A
+4
+4
+X
+E
+Avancerade laser- och optiksystem
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 26 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FHLN25
+7,5
+A
+4
+4
+X
+E
+Brottmekanik, fortsättningskurs
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 144 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EITN80
+7,5
+A
+4
+4
+X
+E1
+Elektrodynamik
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 154 h (45-minuterspass)
+Valfria kurser - F
+End of row
+MVKN15
+7,5
+A
+4
+4
+-
+S
+Energiförsörjning
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 4 h (45-minuterspass)Övningar: 24 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 170 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EXTP90
+7,5
+A
+4
+4
+X
+E
+Fasta tillståndets teori
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 22 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FMAN90
+7,5
+A
+4
+4
+X
+E1
+Fördjupningskurs i valt område av matematiken
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 171 h (45-minuterspass)
+Valfria kurser - F
+End of row
+MIOF20
+6
+G2
+4
+4
+-
+S
+Företagsorganisation
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 42 h (45-minuterspass)Övningar: 0 hLaborationer: 14 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 104 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FMSF65
+7,5
+G2
+4
+4
+X
+E
+Försöksplanering
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 14 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EDAN40
+7,5
+A
+4
+3
+X
+E
+Funktionsprogrammering
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 166 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FBRF01
+7,5
+G2
+4
+4
+X
+E
+Grundläggande förbränning
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 60 h (45-minuterspass)Självstudietid: 100 h (45-minuterspass)
+Valfria kurser - F
+End of row
+MIOF25
+6
+G2
+4
+4
+-
+S
+Industriell ekonomi, fortsättningskurs
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 36 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 101 h (45-minuterspass)
+Valfria kurser - F
+End of row
+KIIF01
+7,5
+G2
+4
+4
+X
+E1
+Industriellt miljöarbete
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 32 h (45-minuterspass)Självstudietid: 80 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EITN45
+7,5
+A
+4
+4
+X
+E
+Informationsteori
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 26 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 160 h (45-minuterspass)
+Valfria kurser - F
+End of row
+IYT000
+15
+G2
+4
+3
+-
+S
+Ingenjörsinriktad yrkesträning
+
+KS KE U W
+
+
+
+
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 400 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FMNN30
+7,5
+A
+4
+4
+X
+E
+Iterativ lösning av storskaliga system i beräkningsteknik
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 26 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 168 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FMFN05
+7,5
+A
+4
+4
+X
+E1
+Kaos
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FMFN10
+7,5
+A
+4
+4
+X
+E
+Kvantmekanik, fortsättningskurs 2
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EEMN26
+7,5
+A
+4
+4
+X
+E1
+Lab-on-a-chip i biomedicinska tillämpningar
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 170 h (45-minuterspass)
+Valfria kurser - F
+End of row
+MAMN30
+7,5
+A
+4
+3
+-
+S
+Ledarskap, arbetsorganisation och projektledning
+X Endast en av kurserna MAMF15 och MAMN30 får ingå i examen.
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 30 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 14 h (45-minuterspass)Självstudietid: 142 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FMSN30
+7,5
+A
+4
+4
+X
+E
+Linjär och logistisk regression
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 24 h (45-minuterspass)Övningar: 0 hLaborationer: 26 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FMAN45
+7,5
+A
+4
+4
+-
+E
+Maskininlärning
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 170 h (45-minuterspass)
+Valfria kurser - F
+End of row
+BMEN01
+7,5
+A
+4
+4
+X
+E1
+Medicinsk signalbehandling
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 7 h (45-minuterspass)Självstudietid: 165 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EEMN01
+7,5
+A
+4
+4
+X
+E1
+Mikrosensorer
+X Omtentamen enligt överenskommelse
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 0 hLaborationer: 28 h (45-minuterspass)Handledd projekttid: 60 h (45-minuterspass)Självstudietid: 108 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FMIN50
+7,5
+A
+4
+4
+X
+E
+Miljöfrågor i ett internationellt perspektiv, projektkurs
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 4 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 5 h (45-minuterspass)Självstudietid: 179 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EITP25
+7,5
+A
+4
+4
+X
+E
+Minnesteknologi för maskininlärning
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 4 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 168 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FKFN30
+7,5
+A
+4
+4
+X
+E
+Modern subatomär fysik
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 27 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 8 h (45-minuterspass)Självstudietid: 165 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FMEN25
+7,5
+A
+4
+4
+X
+E1
+Nanomekanik och flerskalig modellering
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 42 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 8 h (45-minuterspass)Självstudietid: 150 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FRTN30
+7,5
+A
+4
+4
+X
+E
+Nätverksdynamik
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 16 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 130 h (45-minuterspass)
+Valfria kurser - F
+End of row
+MMVN05
+7,5
+A
+4
+4
+X
+E1
+Numerisk strömningsmekanik och värmeöverföring
+
+KS KE U T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 24 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EDAF35
+7,5
+G2
+4
+4
+X
+E1
+Operativsystem
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 165 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EXTF85
+7,5
+G2
+4
+4
+X
+E1
+Partikelfysik, kosmologi och acceleratorer
+X Kursen ges av naturvetenskapliga fakulteten och följer inte läsperiodsindelningen.
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 27 h (45-minuterspass)Övningar: 3 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 120 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FAFF50
+7,5
+G2
+4
+4
+-
+S
+Perspektiv på hållbar utveckling
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 22 h (45-minuterspass)Övningar: 32 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 140 h (45-minuterspass)
+Valfria kurser - F
+End of row
+VSMN20
+7,5
+A
+4
+4
+X
+E1
+Programutveckling för tekniska tillämpningar
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 16 h (45-minuterspass)Övningar: 32 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 152 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EDAN70
+7,5
+A
+4
+4
+X
+E1
+Projekt i datavetenskap
+X Kursen ges en gång per läsperiod och är öppen för noll eller flera projektområden varje kursomgång. Förkunskapskraven beror på projektområdet.
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 2 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 12 h (45-minuterspass)Självstudietid: 182 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FHLN35
+7,5
+A
+4
+4
+X
+E1
+Projekt i hållfasthetslära
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 20 h (45-minuterspass)Självstudietid: 180 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FMAN35
+3
+A
+4
+4
+X
+E1
+Projekt i matematik
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 70 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FMAN40
+3
+A
+4
+4
+X
+E1
+Projekt i tillämpad matematik
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 70 h (45-minuterspass)
+Valfria kurser - F
+End of row
+ETIF10
+7,5
+G2
+4
+4
+X
+E1
+Signalbehandling - design och implementering
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 22 h (45-minuterspass)Övningar: 22 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 148 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FMSN55
+7,5
+A
+4
+4
+X
+E
+Statistisk modellering av extremvärden
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 9 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+Valfria kurser - F
+End of row
+FAFN30
+7,5
+A
+4
+4
+X
+E
+Svepspetsmikroskopi
+X Kursen ges vartannat läsår och ges 2019/20, 21/22.
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 26 h (45-minuterspass)Handledd projekttid: 16 h (45-minuterspass)Självstudietid: 130 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EXTP95
+7,5
+A
+4
+4
+X
+E1
+Ytfysik
+X Kursen ges av naturvetenskapliga fakulteten och följer inte läsperiodsindelningen.
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 21 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 16 h (45-minuterspass)Självstudietid: 174 h (45-minuterspass)
+Valfria kurser - F
+End of row
+MVKN70
+7,5
+A
+5
+4
+X
+E
+Avancerade metoder inom numerisk strömningsmekanik och värmeöverföring
+
+KS KE U T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 24 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 134 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+EXTQ25
+7,5
+A
+5
+4
+X
+E
+Finansiell ekonomi, avancerad kurs
+X Kursen samläses med NEKN81, som ges av Nationalekonomiska institutionen. Följer inte läsperiodsindelningen.
+KS KE U W T
+
+1 Föreläsningar: 40 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 155 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+EITN60
+7,5
+A
+5
+4
+X
+E
+Optimal och adaptiv signalbehandling
+
+KS KE U W T
+
+1 Föreläsningar: 16 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 148 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FRTN50
+7,5
+A
+5
+4
+X
+E
+Optimering för maskininlärning
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 130 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FMSN25
+7,5
+A
+5
+4
+X
+E
+Prissättning av derivattillgångar
+
+KS KE U W T
+
+1 Föreläsningar: 32 h (45-minuterspass)Övningar: 26 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+EITN35
+7,5
+A
+5
+4
+X
+E1
+Projekt i elektro- och informationsteknik
+X Kursstart endast enligt överenskommelse med institutionen. Kursen är inte knuten till någon specifik läsperiod. Uppgifterna om timmar förutsätter att kursen går över en läsperiod. Individuell studieplan ska upprättas och godkännas.
+KS KE U W T
+
+1 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 200 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+FMEN30
+7,5
+A
+5
+4
+X
+E1
+Utmattning - ingenjörs- och materialaspekter
+
+KS KE U W T
+
+1 Föreläsningar: 42 h (45-minuterspass)Övningar: 0 hLaborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+
+Valfria kurser - F
+End of row
+MVKN30
+7,5
+A
+5
+5
+-
+S
+Avancerad energihushållning
+
+KS KE U W T
+
+1 Föreläsningar: 2 h (45-minuterspass)Övningar: 9 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 3 h (45-minuterspass)Självstudietid: 88 h (45-minuterspass)
+2 Föreläsningar: 0 hÖvningar: 9 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 88 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMAN80
+7,5
+A
+5
+4
+X
+E1
+Funktionalanalys och harmonisk analys
+
+KS KE U W T
+
+1 Föreläsningar: 20 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 108 h (45-minuterspass)
+2 Föreläsningar: 8 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 50 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FKMN20
+7,5
+A
+5
+4
+X
+E
+Avancerad materialteknologi
+
+KS KE U W T
+
+
+2 Föreläsningar: 42 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 10 h (45-minuterspass)Självstudietid: 70 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EXTQ30
+7,5
+A
+5
+4
+X
+E
+Empirisk finansiell ekonomi
+X Kursen samläses med NEKN82, som ges av Nationalekonomiska institutionen. Följer inte läsperiodsindelningen.
+KS KE U W T
+
+
+2 Föreläsningar: 34 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 100 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+INNA01
+7,5
+G1
+5
+5
+X
+E
+Entreprenörskap - att bygga en skalbar start-up
+
+KS KE U W T
+
+
+2 Föreläsningar: 20 h (45-minuterspass)Övningar: 42 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 145 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMSN60
+7,5
+A
+5
+4
+X
+E
+Finansiell statistik
+
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 16 h (45-minuterspass)Handledd projekttid: 5 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EITN35
+7,5
+A
+5
+4
+X
+E1
+Projekt i elektro- och informationsteknik
+X Kursstart endast enligt överenskommelse med institutionen. Kursen är inte knuten till någon specifik läsperiod. Uppgifterna om timmar förutsätter att kursen går över en läsperiod. Individuell studieplan ska upprättas och godkännas.
+KS KE U W T
+
+
+2 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 200 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+FMSN15
+7,5
+A
+5
+4
+X
+E
+Statistisk modellering av multivariata extremvärden
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 9 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+MVKN90
+7,5
+A
+5
+4
+X
+E
+Turbulens - teori och modellering
+
+KS KE U W T
+
+
+2 Föreläsningar: 24 h (45-minuterspass)Övningar: 34 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 120 h (45-minuterspass)
+
+
+Valfria kurser - F
+End of row
+EDAN80
+9
+A
+5
+4
+-
+S
+Coachning av programvaruteam
+
+KS KE U W T
+
+
+2 Föreläsningar: 14 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 26 h (45-minuterspass)
+3 Föreläsningar: 14 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 48 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 118 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+EITN35
+7,5
+A
+5
+4
+X
+E1
+Projekt i elektro- och informationsteknik
+X Kursstart endast enligt överenskommelse med institutionen. Kursen är inte knuten till någon specifik läsperiod. Uppgifterna om timmar förutsätter att kursen går över en läsperiod. Individuell studieplan ska upprättas och godkännas.
+KS KE U W T
+
+
+
+3 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 200 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+MVKN85
+7,5
+A
+5
+4
+X
+E
+Turbulent förbränning
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+
+3 Föreläsningar: 20 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 8 h (45-minuterspass)Självstudietid: 65 h (45-minuterspass)
+
+Valfria kurser - F
+End of row
+EITN35
+7,5
+A
+5
+4
+X
+E1
+Projekt i elektro- och informationsteknik
+X Kursstart endast enligt överenskommelse med institutionen. Kursen är inte knuten till någon specifik läsperiod. Uppgifterna om timmar förutsätter att kursen går över en läsperiod. Individuell studieplan ska upprättas och godkännas.
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 200 h (45-minuterspass)
+Valfria kurser - F
+End of row
+EDAN35
+7,5
+A
+4
+4
+X
+E
+Högpresterande datorgrafik
+X Kursen är inställd läsåret 2019/20 men planeras att ges 2020/2021.
+KS KE U W T
+
+Periodiserad Periodiserad: Kursen ges inte aktuellt läsår, men är planerad att ges nästa läsår.
+Valfria kurser - F
+End of row
+EDAP15
+7,5
+A
+4
+4
+X
+E
+Programanalys
+X Kursen ges vartannat läsår och ges nästa gång 2020/21.
+KS KE U W T
+
+Periodiserad Periodiserad: Kursen ges inte aktuellt läsår, men är planerad att ges nästa läsår.
+Valfria kurser - F
+End of row
+EXTN95
+7,5
+A
+4
+4
+X
+E
+Acceleratorer och frielektronlasrar
+X Kursen ges av naturvetenskapliga fakulteten och följer inte läsperiodsindelningen. Kursen ges vartannat läsår och ges nästa gång 2020/21.
+KS KE U W T
+
+Periodiserad Periodiserad: Kursen ges inte aktuellt läsår, men är planerad att ges nästa läsår.
+Valfria kurser - F
+End of row
+ETIN30
+7,5
+A
+4
+4
+X
+E
+Integrerad radioelektronik
+X Kursen ges vartannat läsår och ges nästa gång läsåret 2020/21.
+KS KE U W T
+
+Periodiserad Periodiserad: Kursen ges inte aktuellt läsår, men är planerad att ges nästa läsår.
+Valfria kurser - F
+End of row
+FAFN40
+7,5
+A
+4
+4
+X
+E
+Kvantinformation
+X Kursen ges vartannat läsår och ges nästa gång läsåret 2020/21.
+KS KE U W T
+
+Periodiserad Periodiserad: Kursen ges inte aktuellt läsår, men är planerad att ges nästa läsår.
+Valfria kurser - F
+End of row
+EDAN75
+7,5
+A
+5
+4
+X
+S
+Optimerande kompilatorer
+X Kursen ges vartannat läsår och ges nästa gång 2020/21.
+KS KE U W T
+
+Periodiserad Periodiserad: Kursen ges inte aktuellt läsår, men är planerad att ges nästa läsår.
+Valfria kurser - F
+End of row
+Externt valfria kurser - F
+End of row
+GEMA20
+7,5
+G1
+2
+1
+-
+E
+Engelska för tekniker
+X LTH-gemensamma kurser (GEM-kurser) räknas som externt valfri kurs i examensfordringarna fr o m kull H11 och senare.
+KS KE U W T
+
+1 Föreläsningar: 30 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+2 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 80 h (45-minuterspass)
+
+
+Externt valfria kurser - F
+End of row
+GEMA20
+
+X LTH-gemensamma kurser (GEM-kurser) räknas som externt valfri kurs i examensfordringarna fr o m kull H11 och senare.
+
+
+
+
+3 Föreläsningar: 30 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+4 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 80 h (45-minuterspass)
+Externt valfria kurser - F
+End of row
+GEMA25
+7,5
+G1
+3
+1
+-
+S
+Tyska för tekniker
+X LTH-gemensamma kurser (GEM-kurser) räknas som externt valfri kurs i examensfordringarna fr o m kull H11 och senare.
+KS KE U W T
+
+1 Föreläsningar: 0 hÖvningar: 40 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 60 h (45-minuterspass)
+2 Föreläsningar: 0 hÖvningar: 40 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 60 h (45-minuterspass)
+
+
+Externt valfria kurser - F
+End of row
+GEMA01
+7,5
+G1
+3
+1
+-
+S
+Franska för tekniker: språk, kultur och samhällsliv, grundkurs
+X LTH-gemensamma kurser (GEM-kurser) räknas som externt valfri kurs i examensfordringarna fr o m kull H11 och senare.
+KS KE U W T
+
+
+
+3 Föreläsningar: 0 hÖvningar: 26 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 74 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 26 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 74 h (45-minuterspass)
+Externt valfria kurser - F
+End of row
+GEMA65
+7,5
+G1
+3
+1
+-
+S
+Kinesiska för tekniker
+X LTH-gemensamma kurser (GEM-kurser) räknas som externt valfri kurs i examensfordringarna fr o m kull H11 och senare.
+KS KE U W T
+
+
+
+3 Föreläsningar: 0 hÖvningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 80 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 80 h (45-minuterspass)
+Externt valfria kurser - F
+End of row
+GEMA70
+15
+G1
+4
+1
+-
+S
+Japanska för tekniker
+X LTH-gemensamma kurser (GEM-kurser) räknas som externt valfri kurs i examensfordringarna fr o m kull H11 och senare.
+KS KE U W T
+
+1 Föreläsningar: 0 hÖvningar: 34 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 165 h (45-minuterspass)
+2 Föreläsningar: 0 hÖvningar: 32 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 165 h (45-minuterspass)
+
+
+Externt valfria kurser - F
+End of row
+Kandidatarbeten - F
+End of row
+MAML10
+15
+Kandidatarbete i aerosolteknologi
+KS KE U W
+Kandidatarbeten - F
+End of row
+BMEL01
+15
+Kandidatarbete i biomedicinsk teknik
+KS KE U
+Kandidatarbeten - F
+End of row
+EDAL01
+15
+Kandidatarbete i datavetenskap
+KS KE U W
+Kandidatarbeten - F
+End of row
+EEML01
+15
+Kandidatarbete i elektrisk mätteknik
+KS KE U
+Kandidatarbeten - F
+End of row
+EITL01
+15
+Kandidatarbete i elektro- och informationsteknik
+KS KE U W
+Kandidatarbeten - F
+End of row
+MVKL01
+15
+Kandidatarbete i energivetenskaper
+KS KE U W
+Kandidatarbeten - F
+End of row
+PHYL01
+15
+Kandidatarbete i fysik
+KS KE U
+Kandidatarbeten - F
+End of row
+FHLL01
+15
+Kandidatarbete i hållfasthetslära
+KS KE U
+Kandidatarbeten - F
+End of row
+EIEL01
+15
+Kandidatarbete i industriell elektroteknik och automation
+KS KE U
+Kandidatarbeten - F
+End of row
+FMAL01
+15
+Kandidatarbete i matematik
+KS KE U
+Kandidatarbeten - F
+End of row
+FMSL01
+15
+Kandidatarbete i matematisk statistik
+KS KE U W
+Kandidatarbeten - F
+End of row
+FMEL01
+15
+Kandidatarbete i mekanik
+KS KE U
+Kandidatarbeten - F
+End of row
+FMIL01
+15
+Kandidatarbete i miljö- och energisystem
+KS KE U
+Kandidatarbeten - F
+End of row
+FMNL01
+15
+Kandidatarbete i numerisk analys
+KS KE U W
+Kandidatarbeten - F
+End of row
+FRTL01
+15
+Kandidatarbete i reglerteknik
+KS KE U
+Kandidatarbeten - F
+End of row
+VSML05
+15
+Kandidatarbete i strukturmekanik
+KS KE U
+Kandidatarbeten - F
+End of row
+Examensarbeten - F
+End of row
+MAMM05
+30
+Examensarbete i aerosolteknologi
+KS KE U W
+Examensarbeten - F
+End of row
+BMEM01
+30
+Examensarbete i biomedicinsk teknik
+KS KE U W
+Examensarbeten - F
+End of row
+EDAM05
+30
+Examensarbete i datavetenskap
+KS KE U W
+Examensarbeten - F
+End of row
+BMEM05
+30
+Examensarbete i elektrisk mätteknik
+KS KE U W
+Examensarbeten - F
+End of row
+EITM01
+30
+Examensarbete i elektro- och informationsteknik
+KS KE U W
+Examensarbeten - F
+End of row
+MVKM01
+30
+Examensarbete i energivetenskaper
+KS KE U W
+Examensarbeten - F
+End of row
+PHYM01
+30
+Examensarbete i fysik
+KS KE U W
+Examensarbeten - F
+End of row
+FHLM01
+30
+Examensarbete i hållfasthetslära
+KS KE U W
+Examensarbeten - F
+End of row
+EIEM01
+30
+Examensarbete i industriell elektroteknik och automation
+KS KE U W
+Examensarbeten - F
+End of row
+FMAM05
+30
+Examensarbete i matematik
+KS KE U
+Examensarbeten - F
+End of row
+FMSM01
+30
+Examensarbete i matematisk statistik
+KS KE U W
+Examensarbeten - F
+End of row
+FMEM01
+30
+Examensarbete i mekanik
+KS KE U W
+Examensarbeten - F
+End of row
+FMIM01
+30
+Examensarbete i miljö- och energisystem
+KS KE U W
+Examensarbeten - F
+End of row
+FMNM01
+30
+Examensarbete i numerisk analys
+KS KE U W
+Examensarbeten - F
+End of row
+FRTM01
+30
+Examensarbete i reglerteknik
+KS KE U W
+Examensarbeten - F
+End of row
+VSMM05
+30
+Examensarbete i strukturmekanik
+KS KE U W
+Examensarbeten - F
+End of row

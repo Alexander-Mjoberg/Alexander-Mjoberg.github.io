@@ -1,0 +1,1402 @@
+Årskurs 1 (obligatoriska kurser)
+End of row
+FMAA05
+15
+G1
+-
+S
+Endimensionell analys
+
+KS KE U W T
+
+1 Föreläsningar: 50 h (45-minuterspass)Övningar: 30 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 133 h (45-minuterspass)
+2 Föreläsningar: 50 h (45-minuterspass)Övningar: 30 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 107 h (45-minuterspass)
+
+
+Årskurs 1 (obligatoriska kurser)
+End of row
+VFTA05
+15
+G1
+-
+S
+Grundläggande juridik med fastighetsrätt
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 143 h (45-minuterspass)
+2 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 143 h (45-minuterspass)
+
+
+Årskurs 1 (obligatoriska kurser)
+End of row
+FMAB20
+6
+G1
+-
+S
+Linjär algebra
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 40 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 106 h (45-minuterspass)
+
+Årskurs 1 (obligatoriska kurser)
+End of row
+VTVA01
+12
+G1
+-
+S
+Infrastrukturteknik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 50 h (45-minuterspass)Övningar: 35 h (45-minuterspass)Laborationer: 2 h (45-minuterspass)Handledd projekttid: 1 h (45-minuterspass)Självstudietid: 142 h (45-minuterspass)
+4 Föreläsningar: 10 h (45-minuterspass)Övningar: 15 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 65 h (45-minuterspass)
+Årskurs 1 (obligatoriska kurser)
+End of row
+VTVA05
+12
+G1
+-
+S
+Hållbart byggande
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 56 h (45-minuterspass)Övningar: 60 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 202 h (45-minuterspass)
+Årskurs 1 (obligatoriska kurser)
+End of row
+Årskurs 2 (obligatoriska kurser)
+End of row
+FMAB30
+6
+G1
+-
+S
+Flerdimensionell analys
+
+KS KE U W T
+
+1 Föreläsningar: 44 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 2 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 100 h (45-minuterspass)
+
+
+
+Årskurs 2 (obligatoriska kurser)
+End of row
+EDAA20
+7,5
+G1
+-
+S
+Programmering och databaser
+
+KS KE U W T
+
+1 Föreläsningar: 32 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 32 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 130 h (45-minuterspass)
+
+
+
+Årskurs 2 (obligatoriska kurser)
+End of row
+FMSF50
+7,5
+G2
+-
+S
+Matematisk statistik, allmän kurs
+
+KS KE U W T
+
+
+2 Föreläsningar: 26 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 140 h (45-minuterspass)
+
+
+Årskurs 2 (obligatoriska kurser)
+End of row
+EXTA50
+9
+G1
+-
+S
+Samhällsmätning
+
+KS KE U W T
+
+
+2 Föreläsningar: 40 h (45-minuterspass)Övningar: 18 h (45-minuterspass)Laborationer: 14 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 168 h (45-minuterspass)
+
+
+Årskurs 2 (obligatoriska kurser)
+End of row
+VFTA01
+18
+G1
+-
+S
+Fastighetsteknik och fysisk planering
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 50 h (45-minuterspass)Övningar: 26 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 162 h (45-minuterspass)
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 60 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 164 h (45-minuterspass)
+Årskurs 2 (obligatoriska kurser)
+End of row
+EXTF80
+12
+G2
+-
+S
+Geografisk informationsteknik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 22 h (45-minuterspass)Övningar: 2 h (45-minuterspass)Laborationer: 23 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 113 h (45-minuterspass)
+4 Föreläsningar: 22 h (45-minuterspass)Övningar: 0 hLaborationer: 25 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 113 h (45-minuterspass)
+Årskurs 2 (obligatoriska kurser)
+End of row
+Årskurs 3 (obligatoriska kurser)
+End of row
+VFTF01
+15
+G2
+-
+S
+National- och företagsekonomi
+
+KS KE U W T
+
+1 Föreläsningar: 60 h (45-minuterspass)Övningar: 24 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 316 h (45-minuterspass)
+
+
+
+Årskurs 3 (obligatoriska kurser)
+End of row
+VFTF25
+10
+G2
+-
+S
+Fastighetsvärdering och analys
+
+KS KE U W T
+
+
+2 Föreläsningar: 36 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 209 h (45-minuterspass)
+
+
+Årskurs 3 (obligatoriska kurser)
+End of row
+VFTF30
+5
+G2
+-
+S
+Värdering och ersättning vid markåtkomst
+
+KS KE U W T
+
+
+2 Föreläsningar: 20 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 103 h (45-minuterspass)
+
+
+Årskurs 3 (obligatoriska kurser)
+End of row
+VFTF10
+15
+G2
+-
+S
+Fastighetsbildning
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 20 h (45-minuterspass)Övningar: 15 h (45-minuterspass)Laborationer: 5 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 158 h (45-minuterspass)
+4 Föreläsningar: 20 h (45-minuterspass)Övningar: 15 h (45-minuterspass)Laborationer: 5 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 158 h (45-minuterspass)
+Årskurs 3 (obligatoriska kurser)
+End of row
+Årskurs 3 (alternativobligatoriska kurser)
+End of row
+EXTG70
+7,5
+G2
+-
+S
+Miljörätt
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 30 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+Årskurs 3 (alternativobligatoriska kurser)
+End of row
+EDAA01
+7,5
+G1
+-
+S
+Programmeringsteknik - fördjupningskurs
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 0 hLaborationer: 14 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 158 h (45-minuterspass)
+
+Årskurs 3 (alternativobligatoriska kurser)
+End of row
+VBEF05
+7,5
+G2
+-
+S
+Byggprocessen och projektledning
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 32 h (45-minuterspass)Övningar: 40 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 128 h (45-minuterspass)
+Årskurs 3 (alternativobligatoriska kurser)
+End of row
+VGMF10
+7,5
+G2
+X
+E1
+Geodesi
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 20 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 16 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 144 h (45-minuterspass)
+Årskurs 3 (alternativobligatoriska kurser)
+End of row
+ASBF10
+7,5
+G2
+-
+S
+Hållbart stadsbyggande
+
+KS KE U T
+
+
+
+
+4 Föreläsningar: 37 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 7 h (45-minuterspass)Självstudietid: 148 h (45-minuterspass)
+Årskurs 3 (alternativobligatoriska kurser)
+End of row
+Specialisering fe - Fastighetsekonomi
+End of row
+VFRN10
+7,5
+A
+V
+4
+4
+-
+S
+Detaljplan och bygglov
+
+KS KE U W T
+
+1 Föreläsningar: 24 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 154 h (45-minuterspass)
+
+
+
+Specialisering fe - Fastighetsekonomi
+End of row
+VFTN50
+7,5
+A
+V
+4
+4
+-
+S
+Fastighetsmarknaden
+
+KS KE U W T
+
+1 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 6 h (45-minuterspass)Självstudietid: 152 h (45-minuterspass)
+
+
+
+Specialisering fe - Fastighetsekonomi
+End of row
+VFTN35
+7,5
+A
+V
+4
+4
+-
+S
+Evolutionära urbana processer
+
+KS KE U T
+
+
+2 Föreläsningar: 16 h (45-minuterspass)Övningar: 24 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 4 h (45-minuterspass)Självstudietid: 156 h (45-minuterspass)
+
+
+Specialisering fe - Fastighetsekonomi
+End of row
+VFTN40
+7,5
+A
+V
+4
+4
+-
+E
+Fastighetsfinansiering
+
+KS KE U W T
+
+
+2 Föreläsningar: 30 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 158 h (45-minuterspass)
+
+
+Specialisering fe - Fastighetsekonomi
+End of row
+ABKF01
+7,5
+G2
+V
+4
+4
+-
+S
+Teknisk byggnadsförvaltning
+
+KS KE U W T
+
+
+2 Föreläsningar: 20 h (45-minuterspass)Övningar: 23 h (45-minuterspass)Laborationer: 2 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 155 h (45-minuterspass)
+
+
+Specialisering fe - Fastighetsekonomi
+End of row
+VBEF10
+7,5
+G2
+V
+4
+4
+-
+S
+Fastighetsförvaltning
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 134 h (45-minuterspass)
+
+Specialisering fe - Fastighetsekonomi
+End of row
+VFTN01
+7,5
+A
+V
+4
+4
+-
+S
+Fastighetsvärderingssystem
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 156 h (45-minuterspass)
+
+Specialisering fe - Fastighetsekonomi
+End of row
+VFRN05
+7,5
+A
+V
+4
+4
+-
+S
+Kommersiella fastighetsköp
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 156 h (45-minuterspass)
+
+Specialisering fe - Fastighetsekonomi
+End of row
+VBEN01
+7,5
+A
+V
+4
+4
+-
+S
+Beställarrollen
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 144 h (45-minuterspass)
+Specialisering fe - Fastighetsekonomi
+End of row
+FMSN30
+7,5
+A
+V
+4
+4
+X
+E
+Linjär och logistisk regression
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 24 h (45-minuterspass)Övningar: 0 hLaborationer: 26 h (45-minuterspass)Handledd projekttid: 2 h (45-minuterspass)Självstudietid: 120 h (45-minuterspass)
+Specialisering fe - Fastighetsekonomi
+End of row
+VFRN01
+7,5
+A
+V
+4
+4
+-
+S
+Lokalhyra och arrenden
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 26 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 158 h (45-minuterspass)
+Specialisering fe - Fastighetsekonomi
+End of row
+VFTN15
+7,5
+A
+V
+5
+4
+-
+S
+Rättsekonomi
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+1 Föreläsningar: 24 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 4 h (45-minuterspass)Självstudietid: 156 h (45-minuterspass)
+
+
+
+Specialisering fe - Fastighetsekonomi
+End of row
+VFTN10
+7,5
+A
+V
+5
+5
+X
+E1
+Urban ekonomi
+
+KS KE U W T
+
+1 Föreläsningar: 20 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 6 h (45-minuterspass)Självstudietid: 170 h (45-minuterspass)
+
+
+
+Specialisering fe - Fastighetsekonomi
+End of row
+VFTN20
+7,5
+A
+V
+5
+5
+-
+S
+Fastighetsrättsliga ersättningsprinciper
+
+KS KE U W T
+
+
+2 Föreläsningar: 30 h (45-minuterspass)Övningar: 30 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 140 h (45-minuterspass)
+
+
+Specialisering fe - Fastighetsekonomi
+End of row
+Specialisering fr - Fastighetsrätt
+End of row
+VFRN10
+7,5
+A
+V
+4
+4
+-
+S
+Detaljplan och bygglov
+
+KS KE U W T
+
+1 Föreläsningar: 24 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 154 h (45-minuterspass)
+
+
+
+Specialisering fr - Fastighetsrätt
+End of row
+VFTN05
+7,5
+A
+V
+4
+4
+-
+S
+Fastighetsbildningsprocessen
+
+KS KE U W T
+
+1 Föreläsningar: 30 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 150 h (45-minuterspass)
+
+
+
+Specialisering fr - Fastighetsrätt
+End of row
+VFTN35
+7,5
+A
+V
+4
+4
+-
+S
+Evolutionära urbana processer
+
+KS KE U T
+
+
+2 Föreläsningar: 16 h (45-minuterspass)Övningar: 24 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 4 h (45-minuterspass)Självstudietid: 156 h (45-minuterspass)
+
+
+Specialisering fr - Fastighetsrätt
+End of row
+EXTN10
+7,5
+A
+V
+4
+4
+X
+E1
+Webb-GIS
+X Tentamenstid meddelas av kursledaren.
+KS KE U W T
+
+
+2 Föreläsningar: 22 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 30 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 142 h (45-minuterspass)
+
+
+Specialisering fr - Fastighetsrätt
+End of row
+VFTN55
+7,5
+A
+V
+4
+4
+-
+S
+Borätt
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 158 h (45-minuterspass)
+
+Specialisering fr - Fastighetsrätt
+End of row
+VFRN05
+7,5
+A
+V
+4
+4
+-
+S
+Kommersiella fastighetsköp
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 156 h (45-minuterspass)
+
+Specialisering fr - Fastighetsrätt
+End of row
+VFRN01
+7,5
+A
+V
+4
+4
+-
+S
+Lokalhyra och arrenden
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 26 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 158 h (45-minuterspass)
+Specialisering fr - Fastighetsrätt
+End of row
+FMIN45
+7,5
+A
+V
+4
+4
+-
+S
+Miljökonsekvensbeskrivning
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 36 h (45-minuterspass)Övningar: 22 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 140 h (45-minuterspass)
+Specialisering fr - Fastighetsrätt
+End of row
+VFTN15
+7,5
+A
+V
+5
+4
+-
+S
+Rättsekonomi
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+1 Föreläsningar: 24 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 4 h (45-minuterspass)Självstudietid: 156 h (45-minuterspass)
+
+
+
+Specialisering fr - Fastighetsrätt
+End of row
+ASBN50
+7,5
+A
+V
+5
+5
+X
+S
+Stadsförnyelse
+
+KS KE U T
+
+1 Föreläsningar: 19 h (45-minuterspass)Övningar: 51 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 6 h (45-minuterspass)Självstudietid: 124 h (45-minuterspass)
+
+
+
+Specialisering fr - Fastighetsrätt
+End of row
+VFTN10
+7,5
+A
+V
+5
+5
+X
+E1
+Urban ekonomi
+
+KS KE U W T
+
+1 Föreläsningar: 20 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 6 h (45-minuterspass)Självstudietid: 170 h (45-minuterspass)
+
+
+
+Specialisering fr - Fastighetsrätt
+End of row
+VFTN20
+7,5
+A
+V
+5
+5
+-
+S
+Fastighetsrättsliga ersättningsprinciper
+
+KS KE U W T
+
+
+2 Föreläsningar: 30 h (45-minuterspass)Övningar: 30 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 140 h (45-minuterspass)
+
+
+Specialisering fr - Fastighetsrätt
+End of row
+VFTN45
+7,5
+A
+V
+5
+4
+-
+S
+Speciell fastighetsrätt
+X Kursen ges vartannat läsår och ges 2019/20, 2021/22.
+KS KE U W T
+
+
+2 Föreläsningar: 22 h (45-minuterspass)Övningar: 22 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 156 h (45-minuterspass)
+
+
+Specialisering fr - Fastighetsrätt
+End of row
+VFTN30
+7,5
+A
+V
+5
+4
+X
+E1
+Internationell fastighetsteknik
+X Kursen ges vartannat läsår och ges nästa gång 2020/21.
+KS KE U W T
+
+Periodiserad Periodiserad: Kursen ges inte aktuellt läsår, men är planerad att ges nästa läsår.
+Specialisering fr - Fastighetsrätt
+End of row
+Specialisering gi - Geografisk informationsteknik
+End of row
+EDAF80
+7,5
+G2
+V
+4
+4
+X
+E
+Datorgrafik
+
+KS KE U W T
+
+1 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 10 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 160 h (45-minuterspass)
+
+
+
+Specialisering gi - Geografisk informationsteknik
+End of row
+ETSN05
+7,5
+A
+V
+4
+4
+-
+S
+Programvaruutveckling för stora system
+
+KS KE U W T
+
+1 Föreläsningar: 10 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 10 h (45-minuterspass)Självstudietid: 168 h (45-minuterspass)
+
+
+
+Specialisering gi - Geografisk informationsteknik
+End of row
+EXTQ05
+7,5
+A
+V
+4
+4
+X
+E1
+Algoritmer i geografisk informationsbehandling
+X Tentamenstid meddelas av kursledaren.
+KS KE U W T
+
+
+2 Föreläsningar: 22 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 30 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 144 h (45-minuterspass)
+
+
+Specialisering gi - Geografisk informationsteknik
+End of row
+EXTN10
+7,5
+A
+V
+4
+4
+X
+E1
+Webb-GIS
+X Tentamenstid meddelas av kursledaren.
+KS KE U W T
+
+
+2 Föreläsningar: 22 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 30 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 142 h (45-minuterspass)
+
+
+Specialisering gi - Geografisk informationsteknik
+End of row
+EXTN70
+7,5
+A
+V
+4
+4
+X
+E1
+Geografiska databaser
+X Tentamenstid meddelas av kursledaren.
+KS KE U W T
+
+
+
+3 Föreläsningar: 20 h (45-minuterspass)Övningar: 2 h (45-minuterspass)Laborationer: 30 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 148 h (45-minuterspass)
+
+Specialisering gi - Geografisk informationsteknik
+End of row
+EXTN75
+7,5
+A
+V
+4
+4
+X
+E1
+Rumslig analys
+X Tentamenstid meddelas av kursledaren.
+KS KE U W T
+
+
+
+3 Föreläsningar: 22 h (45-minuterspass)Övningar: 1 h (45-minuterspass)Laborationer: 39 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 138 h (45-minuterspass)
+
+Specialisering gi - Geografisk informationsteknik
+End of row
+FMAF10
+5
+G2
+V
+4
+4
+-
+S
+Tillämpad matematik - Linjära system
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 93 h (45-minuterspass)
+
+Specialisering gi - Geografisk informationsteknik
+End of row
+EDAF90
+7,5
+G2
+V
+4
+4
+X
+S
+Webbprogrammering
+
+KS KE U T
+
+
+
+3 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 8 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 168 h (45-minuterspass)
+
+Specialisering gi - Geografisk informationsteknik
+End of row
+EDAF75
+7,5
+G2
+V
+4
+4
+X
+S
+Databasteknik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 24 h (45-minuterspass)Övningar: 2 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 112 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 50 h (45-minuterspass)
+Specialisering gi - Geografisk informationsteknik
+End of row
+EDAF05
+5
+G2
+V
+4
+4
+X
+E1
+Algoritmer, datastrukturer och komplexitet
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 100 h (45-minuterspass)
+Specialisering gi - Geografisk informationsteknik
+End of row
+EDAN40
+7,5
+A
+V
+4
+4
+X
+E
+Funktionsprogrammering
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 166 h (45-minuterspass)
+Specialisering gi - Geografisk informationsteknik
+End of row
+VGMF10
+7,5
+G2
+V
+4
+4
+X
+E1
+Geodesi
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 20 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 16 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 144 h (45-minuterspass)
+Specialisering gi - Geografisk informationsteknik
+End of row
+FMAN20
+7,5
+A
+V
+5
+5
+X
+E1
+Bildanalys
+
+KS KE U W T
+
+1 Föreläsningar: 32 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 166 h (45-minuterspass)
+
+
+
+Specialisering gi - Geografisk informationsteknik
+End of row
+MAMN25
+7,5
+A
+V
+5
+5
+-
+S
+Interaktionsdesign
+
+KS KE U W T
+
+1 Föreläsningar: 30 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 14 h (45-minuterspass)Självstudietid: 142 h (45-minuterspass)
+
+
+
+Specialisering gi - Geografisk informationsteknik
+End of row
+EDAF60
+4,5
+G2
+V
+5
+5
+-
+S
+Objektorienterad modellering och design
+
+KS KE U W T
+
+1 Föreläsningar: 14 h (45-minuterspass)Övningar: 10 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 94 h (45-minuterspass)
+
+
+
+Specialisering gi - Geografisk informationsteknik
+End of row
+EXTP40
+7,5
+A
+V
+5
+5
+X
+E
+GIT-projekt med Pythonprogrammering
+X Tentamenstid meddelas av kursledaren.
+KS KE U W T
+
+
+2 Föreläsningar: 4 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 178 h (45-minuterspass)
+
+
+Specialisering gi - Geografisk informationsteknik
+End of row
+EDAA25
+3
+G1
+V
+5
+4
+X
+S
+C-programmering
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+Specialisering gi - Geografisk informationsteknik
+End of row
+EDAN35
+7,5
+A
+V
+5
+5
+X
+E
+Högpresterande datorgrafik
+X Kursen är inställd läsåret 2019/20 men planeras att ges 2020/2021.
+KS KE U W T
+
+Periodiserad Periodiserad: Kursen ges inte aktuellt läsår, men är planerad att ges nästa läsår.
+Specialisering gi - Geografisk informationsteknik
+End of row
+Valfria kurser - L
+End of row
+IYT000
+15
+G2
+4
+3
+-
+S
+Ingenjörsinriktad yrkesträning
+
+KS KE U W
+
+1 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 400 h (45-minuterspass)
+
+
+
+Valfria kurser - L
+End of row
+IYT000
+
+
+
+
+
+2 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 400 h (45-minuterspass)
+
+
+Valfria kurser - L
+End of row
+VTTF01
+7,5
+G2
+4
+4
+-
+S
+Trafikteknik
+
+KS KE U W T
+
+
+2 Föreläsningar: 36 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 136 h (45-minuterspass)
+
+
+Valfria kurser - L
+End of row
+IYT000
+15
+G2
+4
+3
+-
+S
+Ingenjörsinriktad yrkesträning
+
+KS KE U W
+
+
+
+3 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 400 h (45-minuterspass)
+
+Valfria kurser - L
+End of row
+VFTN25
+7,5
+A
+4
+4
+-
+S
+Fastighetsvetenskapliga seminarier
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 42 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 158 h (45-minuterspass)
+Valfria kurser - L
+End of row
+IYT000
+15
+G2
+4
+3
+-
+S
+Ingenjörsinriktad yrkesträning
+
+KS KE U W
+
+
+
+
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 400 h (45-minuterspass)
+Valfria kurser - L
+End of row
+Externt valfria kurser - L
+End of row
+GEMA20
+7,5
+G1
+4
+1
+-
+E
+Engelska för tekniker
+X LTH-gemensamma kurser (GEM-kurser) räknas som externt valfri kurs i examensfordringarna fr o m kull H11 och senare.
+KS KE U W T
+
+1 Föreläsningar: 30 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+2 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 80 h (45-minuterspass)
+
+
+Externt valfria kurser - L
+End of row
+GEMA70
+15
+G1
+4
+1
+-
+S
+Japanska för tekniker
+X LTH-gemensamma kurser (GEM-kurser) räknas som externt valfri kurs i examensfordringarna fr o m kull H11 och senare.
+KS KE U W T
+
+1 Föreläsningar: 0 hÖvningar: 34 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 165 h (45-minuterspass)
+2 Föreläsningar: 0 hÖvningar: 32 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 165 h (45-minuterspass)
+
+
+Externt valfria kurser - L
+End of row
+GEMA25
+7,5
+G1
+4
+1
+-
+S
+Tyska för tekniker
+X LTH-gemensamma kurser (GEM-kurser) räknas som externt valfri kurs i examensfordringarna fr o m kull H11 och senare.
+KS KE U W T
+
+1 Föreläsningar: 0 hÖvningar: 40 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 60 h (45-minuterspass)
+2 Föreläsningar: 0 hÖvningar: 40 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 60 h (45-minuterspass)
+
+
+Externt valfria kurser - L
+End of row
+GEMA20
+7,5
+G1
+4
+1
+-
+E
+Engelska för tekniker
+X LTH-gemensamma kurser (GEM-kurser) räknas som externt valfri kurs i examensfordringarna fr o m kull H11 och senare.
+KS KE U W T
+
+
+
+3 Föreläsningar: 30 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+4 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 80 h (45-minuterspass)
+Externt valfria kurser - L
+End of row
+GEMA01
+7,5
+G1
+4
+1
+-
+S
+Franska för tekniker: språk, kultur och samhällsliv, grundkurs
+X LTH-gemensamma kurser (GEM-kurser) räknas som externt valfri kurs i examensfordringarna fr o m kull H11 och senare.
+KS KE U W T
+
+
+
+3 Föreläsningar: 0 hÖvningar: 26 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 74 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 26 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 74 h (45-minuterspass)
+Externt valfria kurser - L
+End of row
+GEMA65
+7,5
+G1
+4
+1
+-
+S
+Kinesiska för tekniker
+X LTH-gemensamma kurser (GEM-kurser) räknas som externt valfri kurs i examensfordringarna fr o m kull H11 och senare.
+KS KE U W T
+
+
+
+3 Föreläsningar: 0 hÖvningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 80 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 80 h (45-minuterspass)
+Externt valfria kurser - L
+End of row
+Kandidatarbeten - L
+End of row
+VBEL01
+15
+Kandidatarbete i byggproduktion
+KS KE U W
+Kandidatarbeten - L
+End of row
+VFTL01
+15
+Kandidatarbete i fastighetsvetenskap
+KS KE U W
+Kandidatarbeten - L
+End of row
+VGML01
+15
+Kandidatarbete i geodetisk mätningsteknik
+KS KE U
+Kandidatarbeten - L
+End of row
+EXTL01
+15
+Kandidatarbete i geografisk informationsteknik
+KS KE U W
+Kandidatarbeten - L
+End of row
+ASBL01
+15
+Kandidatarbete i stadsbyggnad
+KS KE U
+Kandidatarbeten - L
+End of row
+Examensarbeten - L
+End of row
+VBEM01
+30
+Examensarbete i byggproduktion
+KS KE U W
+Examensarbeten - L
+End of row
+VFTM01
+30
+Examensarbete i fastighetsvetenskap
+KS KE U W
+Examensarbeten - L
+End of row
+VGMM01
+30
+Examensarbete i geodetisk mätningsteknik
+KS KE U W
+Examensarbeten - L
+End of row
+EXTM05
+30
+Examensarbete i geografisk informationsteknik
+KS KE U W
+Examensarbeten - L
+End of row
+ASBM05
+30
+Examensarbete i stadsbyggnad
+KS KE U W
+Examensarbeten - L
+End of row

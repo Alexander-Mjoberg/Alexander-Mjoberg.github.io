@@ -1,0 +1,667 @@
+Årskurs 1 (obligatoriska kurser)
+End of row
+VBFA05
+4
+G1
+-
+S
+Husbyggnadsteknik
+
+KS KE U T
+
+1 Föreläsningar: 22 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 71 h (45-minuterspass)
+
+
+
+Årskurs 1 (obligatoriska kurser)
+End of row
+FMAA05
+15
+G1
+-
+S
+Endimensionell analys
+
+KS KE U W T
+
+1 Föreläsningar: 50 h (45-minuterspass)Övningar: 30 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 133 h (45-minuterspass)
+2 Föreläsningar: 50 h (45-minuterspass)Övningar: 30 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 107 h (45-minuterspass)
+
+
+Årskurs 1 (obligatoriska kurser)
+End of row
+VBRA06
+6
+G1
+-
+S
+Introduktion till brandteknik
+
+KS KE U T
+
+1 Föreläsningar: 32 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 70 h (45-minuterspass)
+2 Föreläsningar: 8 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 16 h (45-minuterspass)
+
+
+Årskurs 1 (obligatoriska kurser)
+End of row
+VBMA25
+5
+G1
+-
+S
+Byggnadsmaterial
+
+KS KE U W T
+
+
+2 Föreläsningar: 20 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 80 h (45-minuterspass)
+
+
+Årskurs 1 (obligatoriska kurser)
+End of row
+FAFA30
+8
+G1
+-
+S
+Fysik - elektricitetslära, gaser och vätskor
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 42 h (45-minuterspass)Övningar: 30 h (45-minuterspass)Laborationer: 12 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 129 h (45-minuterspass)
+
+Årskurs 1 (obligatoriska kurser)
+End of row
+FMAB20
+6
+G1
+-
+S
+Linjär algebra
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 40 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 106 h (45-minuterspass)
+
+Årskurs 1 (obligatoriska kurser)
+End of row
+KOOA05
+8
+G1
+-
+S
+Allmän kemi
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 42 h (45-minuterspass)Övningar: 28 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 110 h (45-minuterspass)
+Årskurs 1 (obligatoriska kurser)
+End of row
+VSMA15
+8
+G1
+-
+S
+Mekanik
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 42 h (45-minuterspass)Övningar: 42 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 129 h (45-minuterspass)
+Årskurs 1 (obligatoriska kurser)
+End of row
+Årskurs 2 (obligatoriska kurser)
+End of row
+FMAB30
+6
+G1
+-
+S
+Flerdimensionell analys
+
+KS KE U W T
+
+1 Föreläsningar: 44 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 2 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 100 h (45-minuterspass)
+
+
+
+Årskurs 2 (obligatoriska kurser)
+End of row
+MMVA01
+5
+G1
+-
+S
+Termodynamik med strömningslära
+
+KS KE U W T
+
+1 Föreläsningar: 20 h (45-minuterspass)Övningar: 30 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 85 h (45-minuterspass)
+
+
+
+Årskurs 2 (obligatoriska kurser)
+End of row
+VBKF10
+6
+G2
+-
+S
+Konstruktionsteknik
+
+KS KE U T
+
+1 Föreläsningar: 22 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 77 h (45-minuterspass)
+2 Föreläsningar: 0 hÖvningar: 4 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 1 h (45-minuterspass)Självstudietid: 35 h (45-minuterspass)
+
+
+Årskurs 2 (obligatoriska kurser)
+End of row
+VBRF20
+13
+G2
+-
+S
+Brandkemi - värmetransport
+
+KS KE U T
+
+
+2 Föreläsningar: 42 h (45-minuterspass)Övningar: 30 h (45-minuterspass)Laborationer: 16 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 258 h (45-minuterspass)
+
+
+Årskurs 2 (obligatoriska kurser)
+End of row
+EXTA60
+7,5
+G1
+-
+S
+Statistik
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 24 h (45-minuterspass)Övningar: 26 h (45-minuterspass)Laborationer: 10 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 140 h (45-minuterspass)
+
+Årskurs 2 (obligatoriska kurser)
+End of row
+VBRF10
+15
+G2
+-
+S
+Branddynamik
+
+KS KE U T
+
+
+
+3 Föreläsningar: 28 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 6 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 116 h (45-minuterspass)
+4 Föreläsningar: 12 h (45-minuterspass)Övningar: 6 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 210 h (45-minuterspass)
+Årskurs 2 (obligatoriska kurser)
+End of row
+VBRN45
+7,5
+A
+-
+E1
+Riskanalys inom brandteknik
+
+KS KE U T
+
+
+
+
+4 Föreläsningar: 28 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 154 h (45-minuterspass)
+Årskurs 2 (obligatoriska kurser)
+End of row
+Årskurs 3 (obligatoriska kurser)
+End of row
+VBRN60
+15
+A
+-
+S
+Brandskyddssystem
+
+KS KE U T
+
+1 Föreläsningar: 54 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 18 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 308 h (45-minuterspass)
+
+
+
+Årskurs 3 (obligatoriska kurser)
+End of row
+VBRN65
+7,5
+A
+-
+S
+Industribrandskydd
+
+KS KE U T
+
+
+2 Föreläsningar: 10 h (45-minuterspass)Övningar: 8 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 26 h (45-minuterspass)Självstudietid: 156 h (45-minuterspass)
+
+
+Årskurs 3 (obligatoriska kurser)
+End of row
+VRSN25
+7,5
+A
+-
+S
+Riskanalys inom säkerhetsområdet
+
+KS KE U T
+
+
+2 Föreläsningar: 32 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 2 h (45-minuterspass)Självstudietid: 146 h (45-minuterspass)
+
+
+Årskurs 3 (obligatoriska kurser)
+End of row
+VBRN75
+7,5
+A
+-
+E
+Människors beteende vid brand
+
+KS KE U T
+
+
+
+3 Föreläsningar: 26 h (45-minuterspass)Övningar: 0 hLaborationer: 18 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 152 h (45-minuterspass)
+
+Årskurs 3 (obligatoriska kurser)
+End of row
+VRSN30
+7,5
+A
+-
+E1
+Samhällsplanering
+X Vissa moment i kursen samläses med studenter som läser kursen VRSN20.
+KS KE U T
+
+
+
+3 Föreläsningar: 20 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 20 h (45-minuterspass)Självstudietid: 148 h (45-minuterspass)
+
+Årskurs 3 (obligatoriska kurser)
+End of row
+VBRN70
+9
+A
+-
+S
+Brandteknisk riskvärdering
+
+KS KE U T
+
+
+
+3 Föreläsningar: 4 h (45-minuterspass)Övningar: 2 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 64 h (45-minuterspass)
+4 Föreläsningar: 8 h (45-minuterspass)Övningar: 2 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 4 h (45-minuterspass)Självstudietid: 146 h (45-minuterspass)
+Årskurs 3 (obligatoriska kurser)
+End of row
+VTGF05
+6
+G2
+-
+S
+Geoteknologi
+
+KS KE U W T
+
+
+
+
+4 Föreläsningar: 30 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 106 h (45-minuterspass)
+Årskurs 3 (obligatoriska kurser)
+End of row
+Valfria kurser - BI
+End of row
+VBRA15
+4,5
+G1
+1
+1
+-
+S
+Brandmannautbildning
+X Kursen ges under sommaren efter åk1
+KS KE U T
+
+
+
+
+4 Föreläsningar: 10 h (45-minuterspass)Övningar: 100 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 0 h
+Valfria kurser - BI
+End of row
+IYT000
+15
+G2
+3
+3
+-
+S
+Ingenjörsinriktad yrkesträning
+
+KS KE U W
+
+1 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 400 h (45-minuterspass)
+
+
+
+Valfria kurser - BI
+End of row
+IYT000
+
+
+
+
+
+2 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 400 h (45-minuterspass)
+
+
+Valfria kurser - BI
+End of row
+IYT000
+
+
+
+
+
+
+3 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 400 h (45-minuterspass)
+
+Valfria kurser - BI
+End of row
+IYT000
+
+
+
+
+
+
+
+4 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 400 h (45-minuterspass)
+Valfria kurser - BI
+End of row
+MIOA12
+6
+G1
+4
+4
+-
+S
+Industriell ekonomi, allmän kurs
+X Endast en av kurserna MIO012, MIOA12 och MIOA01 får ingå i examen.
+KS KE U W T
+
+1 Föreläsningar: 50 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 5 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 93 h (45-minuterspass)
+
+
+
+Valfria kurser - BI
+End of row
+VBRN80
+7,5
+A
+4
+4
+-
+S
+Kvalificerad brandutredningsmetodik
+
+KS KE U T
+
+1 Föreläsningar: 40 h (45-minuterspass)Övningar: 4 h (45-minuterspass)Laborationer: 4 h (45-minuterspass)Handledd projekttid: 4 h (45-minuterspass)Självstudietid: 148 h (45-minuterspass)
+
+
+
+Valfria kurser - BI
+End of row
+MAMN45
+7,5
+A
+4
+4
+-
+S
+Människa, teknik, organisation och hantering av risker
+
+KS KE U W T
+
+1 Föreläsningar: 32 h (45-minuterspass)Övningar: 14 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 24 h (45-minuterspass)Självstudietid: 138 h (45-minuterspass)
+
+
+
+Valfria kurser - BI
+End of row
+VRSN01
+7,5
+A
+4
+4
+X
+E
+Samhällssäkerhet och resiliens
+
+KS KE U T
+
+1 Föreläsningar: 25 h (45-minuterspass)Övningar: 16 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 159 h (45-minuterspass)
+
+
+
+Valfria kurser - BI
+End of row
+VBRN85
+7,5
+A
+4
+4
+-
+S
+Avancerad CFD
+
+KS KE U T
+
+1 Föreläsningar: 16 h (45-minuterspass)Övningar: 0 hLaborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 76 h (45-minuterspass)
+2 Föreläsningar: 16 h (45-minuterspass)Övningar: 0 hLaborationer: 8 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 76 h (45-minuterspass)
+
+
+Valfria kurser - BI
+End of row
+MIOA15
+7,5
+G1
+4
+3
+-
+S
+Industriell ekonomi, allmän kurs
+
+KS KE U W T
+
+
+2 Föreläsningar: 54 h (45-minuterspass)Övningar: 12 h (45-minuterspass)Laborationer: 9 h (45-minuterspass)Handledd projekttid: 0 hSjälvstudietid: 125 h (45-minuterspass)
+
+
+Valfria kurser - BI
+End of row
+EITA05
+4,5
+G1
+4
+3
+-
+S
+Teknikhistoria
+
+KS KE U W T
+
+
+
+3 Föreläsningar: 14 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 40 h (45-minuterspass)
+4 Föreläsningar: 14 h (45-minuterspass)Övningar: 7 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 40 h (45-minuterspass)
+Valfria kurser - BI
+End of row
+VBRN40
+7,5
+A
+4
+4
+X
+E
+Beredskap och planering
+
+KS KE U T
+
+
+
+
+4 Föreläsningar: 34 h (45-minuterspass)Övningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 10 h (45-minuterspass)Självstudietid: 136 h (45-minuterspass)
+Valfria kurser - BI
+End of row
+VBRA10
+7,5
+G1
+4
+4
+-
+S
+Konsekvensberäkningar
+X Kursen ges vartannat läsår och ges nästa gång läsåret 2020/21.
+KS KE U T
+
+Periodiserad Periodiserad: Kursen ges inte aktuellt läsår, men är planerad att ges nästa läsår.
+Valfria kurser - BI
+End of row
+Externt valfria kurser - BI
+End of row
+GEMA20
+7,5
+G1
+4
+1
+-
+E
+Engelska för tekniker
+X LTH-gemensamma kurser (GEM-kurser) räknas som externt valfri kurs i examensfordringarna fr o m kull H11 och senare. Brandingenjörsstudenter får läsa kursen men kan ej inkludera den i sin Brandingenjörsexamen.
+KS KE U W T
+
+1 Föreläsningar: 30 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+2 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 80 h (45-minuterspass)
+
+
+Externt valfria kurser - BI
+End of row
+GEMA70
+15
+G1
+4
+1
+-
+S
+Japanska för tekniker
+X LTH-gemensamma kurser (GEM-kurser) räknas som externt valfri kurs i examensfordringarna fr o m kull H11 och senare. Brandingenjörsstudenter får läsa kursen men kan ej inkludera den i sin Brandingenjörsexamen.
+KS KE U W T
+
+1 Föreläsningar: 0 hÖvningar: 34 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 165 h (45-minuterspass)
+2 Föreläsningar: 0 hÖvningar: 32 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 165 h (45-minuterspass)
+
+
+Externt valfria kurser - BI
+End of row
+GEMA25
+7,5
+G1
+4
+1
+-
+S
+Tyska för tekniker
+X LTH-gemensamma kurser (GEM-kurser) räknas som externt valfri kurs i examensfordringarna fr o m kull H11 och senare. Brandingenjörsstudenter får läsa kursen men kan ej inkludera den i sin Brandingenjörsexamen.
+KS KE U W T
+
+1 Föreläsningar: 0 hÖvningar: 40 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 60 h (45-minuterspass)
+2 Föreläsningar: 0 hÖvningar: 40 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 60 h (45-minuterspass)
+
+
+Externt valfria kurser - BI
+End of row
+GEMA20
+7,5
+G1
+4
+1
+-
+E
+Engelska för tekniker
+X LTH-gemensamma kurser (GEM-kurser) räknas som externt valfri kurs i examensfordringarna fr o m kull H11 och senare. Brandingenjörsstudenter får läsa kursen men kan ej inkludera den i sin Brandingenjörsexamen.
+KS KE U W T
+
+
+
+3 Föreläsningar: 30 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 70 h (45-minuterspass)
+4 Föreläsningar: 20 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 80 h (45-minuterspass)
+Externt valfria kurser - BI
+End of row
+GEMA01
+7,5
+G1
+4
+1
+-
+S
+Franska för tekniker: språk, kultur och samhällsliv, grundkurs
+X LTH-gemensamma kurser (GEM-kurser) räknas som externt valfri kurs i examensfordringarna fr o m kull H11 och senare. Brandingenjörsstudenter får läsa kursen men kan ej inkludera den i sin Brandingenjörsexamen.
+KS KE U W T
+
+
+
+3 Föreläsningar: 0 hÖvningar: 26 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 74 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 26 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 74 h (45-minuterspass)
+Externt valfria kurser - BI
+End of row
+GEMA65
+7,5
+G1
+4
+1
+-
+S
+Kinesiska för tekniker
+X LTH-gemensamma kurser (GEM-kurser) räknas som externt valfri kurs i examensfordringarna fr o m kull H11 och senare. Brandingenjörsstudenter får läsa kursen men kan ej inkludera den i sin Brandingenjörsexamen.
+KS KE U W T
+
+
+
+3 Föreläsningar: 0 hÖvningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 80 h (45-minuterspass)
+4 Föreläsningar: 0 hÖvningar: 20 h (45-minuterspass)Laborationer: 0 hHandledd projekttid: 0 hSjälvstudietid: 80 h (45-minuterspass)
+Externt valfria kurser - BI
+End of row
+Examensarbeten - BI
+End of row
+VBRM01
+22,5
+Examensarbete i brandteknik
+KS KE U
+Examensarbeten - BI
+End of row
