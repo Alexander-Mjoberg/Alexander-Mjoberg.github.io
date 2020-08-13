@@ -39,6 +39,7 @@ for program in programs:
 
 	fileName='scraperData/html_data_'+program+'.txt'
 	#Output to textfile
-	with open(fileName, 'w') as filehandle:
+	with open(fileName, 'w') as filehandler:
 	    for listitem in courseData:
-	        filehandle.write('%s\n' % listitem)
+	        filehandler.write('%s\n' % listitem)
+	        filehandler.close()
