@@ -6,6 +6,7 @@
                 border-radius: 8px;
                 color: white;
                 padding: 2px 4px;
+                width:18vw;
                 text-align: center;
                 text-decoration: none;
                 display: inline-block;
@@ -64,15 +65,104 @@
             .buttonFUnpressed {
                 background-color: white; 
                 color: black; 
-                border: 2px solid #F280A1;
+                border: 2px solid #F7941E;
             }
             .buttonFPressed {
-                background-color: #F280A1; 
+                background-color: #F7941E; 
                 color: white; 
-                border: 2px solid #F280A1;
+                border: 2px solid #F7941E;
             }
             .buttonFUnpressed:hover {
-                background-color: #F280A1;
+                background-color: #F7941E;
+                color: white;
+            }
+            
+                        .buttonIUnpressed {
+                background-color: white; 
+                color: black; 
+                border: 2px solid #981B1E;
+            }
+            .buttonIPressed {
+                background-color: #981B1E; 
+                color: white; 
+                border: 2px solid #981B1E;
+            }
+            .buttonIUnpressed:hover {
+                background-color: #981B1E;
+                color: white;
+            }
+            
+                        .buttonKUnpressed {
+                background-color: white; 
+                color: black; 
+                border: 2px solid #FFF200;
+            }
+            .buttonKPressed {
+                background-color: #FFF200; 
+                color: white; 
+                border: 2px solid #FFF200;
+            }
+            .buttonKUnpressed:hover {
+                background-color: #FFF200;
+                color: white;
+            }
+            
+                        .buttonMUnpressed {
+                background-color: white; 
+                color: black; 
+                border: 2px solid #ED1F24;
+            }
+            .buttonMPressed {
+                background-color: #ED1F24; 
+                color: white; 
+                border: 2px solid #ED1F24;
+            }
+            .buttonMUnpressed:hover {
+                background-color: #ED1F24;
+                color: white;
+            }
+            
+                                    .buttonVUnpressed {
+                background-color: white; 
+                color: black; 
+                border: 2px solid #3853A4;
+            }
+            .buttonVPressed {
+                background-color: #3853A4; 
+                color: white; 
+                border: 2px solid #3853A4;
+            }
+            .buttonVUnpressed:hover {
+                background-color: #3853A4;
+                color: white;
+            }
+                                    .buttonWUnpressed {
+                background-color: white; 
+                color: black; 
+                border: 2px solid #6ECDDD;
+            }
+            .buttonWPressed {
+                background-color: #6ECDDD; 
+                color: white; 
+                border: 2px solid #6ECDDD;
+            }
+            .buttonWUnpressed:hover {
+                background-color: #6ECDDD;
+                color: white;
+            }
+            
+                                     .buttonSpecUnpressed {
+                background-color: white; 
+                color: black; 
+                border: 2px solid #8E5614;
+            }
+            .buttonSpecPressed {
+                background-color: #8E5614; 
+                color: white; 
+                border: 2px solid #8E5614;
+            }
+            .buttonSpecUnpressed:hover {
+                background-color: #8E5614;
                 color: white;
             }
 
@@ -80,21 +170,25 @@
     </head>
 
     <body>
-        <div style="" >
-            <h2 style="border-top-color: dimgrey;border-bottom-color: dimgrey;border-top-style: solid;border-bottom-style: solid;color:#8E5614;font-family: Georgia,serif;font-weight: 400;font-size: 28px;padding: 4px;width:68vw;text-align: center;margin-top:25">
-                Välj program
+        <h1 style="text-align: center;font-size:32">Kursval specialisering LTH</h1>
+        <p style="text-align: center;font-size: 20;">Den här sidan kan du ta hjälp av för att planera vilka kurser du ska läsa i specialiseringen</p>
+        <div >
+            <div style="padding-left: 5vw;padding-right: 5vw;padding-top: 1vw">
+            <h2 style="border-top-color: dimgrey;border-bottom-color: dimgrey;border-top-style: solid;border-bottom-style: solid;color:#8E5614;font-family: Georgia,serif;font-weight: 400;font-size: 28px;padding-top: 0.5vw;padding-bottom: 0.5vw;width:100%;text-align: center">
+                Program
             </h2>
+            </div>
 
-            <table style="border-spacing:5vw 0;text-align: center;align-content: center;justify-content:center">
+            <table style="border-spacing:7.5vw 0;text-align: center;align-content: center;justify-content:center">
                 <tr>
                     <td style="padding-bottom: 2vw">
-                        <img src="guildLogos/A.png" style="height:15vw;width:15vw">
+                        <img src="guildLogos/A.png" style="height:22.5vw;width:22.5vw">
                     </td>
                     <td style="padding-bottom: 2vw">
-                        <img src="guildLogos/D.png" style="height:15vw;width:12vw">
+                        <img src="guildLogos/D.png" style="height:22.5vw;width:18vw">
                     </td>
                     <td style="padding-bottom: 2vw">
-                        <img src="guildLogos/E.png" style="height:15vw;width: 13vw">
+                        <img src="guildLogos/E.png" style="height:22.5vw;width: 19.5vw">
                     </td>
                 </tr>
                 <tr>
@@ -119,17 +213,17 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>Teknisk fysik</td>
-                    <td>Industriell Ekonomi</td>
-                    <td>Bioteknik</td>
+                    <td><button class="button buttonFUnpressed">Teknisk fysik</button></td>
+                    <td><button class="button buttonIUnpressed">Industriell Ekonomi</button></td>
+                    <td><button class="button buttonKUnpressed">Bioteknik</button></td>
                 </tr>
                 <tr>
-                    <td>Teknisk Matematik</td>
+                    <td><button class="button buttonFUnpressed">Teknisk Matematik</button></td>
                     <td> </td>
-                    <td>Kemiteknik</td>
+                    <td><button class="button buttonKUnpressed">Kemiteknik</button></td>
                 </tr>
                 <tr>
-                    <td>Teknisk Nanovetenskap</td>
+                    <td><button class="button buttonFUnpressed">Teknisk Nanovetenskap</button></td>
                     <td> </td>
                     <td> </td>
                 </tr>
@@ -145,20 +239,40 @@
                     </td>
                 </tr>
                 <tr>
-                    <td>Maskinteknik</td>
-                    <td>Väg och vatten</td>
-                    <td>Ekosystemteknik</td>
+                    <td><button class="button buttonMUnpressed">Maskinteknik</button></td>
+                    <td><button class="button buttonVUnpressed">Väg och vatten</button></td>
+                    <td><button class="button buttonWUnpressed">Ekosystemteknik</button></td>
                 </tr>
                 <tr>
-                    <td>Teknisk Design</td>
-                    <td>Lantmäteri,Riskhantering,Brandingenjör</td>
+                    <td><button class="button buttonMUnpressed">Teknisk Design</button></td>
+                    <td><button class="button buttonVUnpressed">Lantmäteri</button></td>
+                    <td> </td>
+                </tr>
+                <tr>
+                    <td> </td>
+                    <td><button class="button buttonVUnpressed">Riskhantering</button></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td> </td>
+                    <td><button class="button buttonVUnpressed">Brandingenjör</button></td>
                     <td> </td>
                 </tr>
             </table>
 
-            <h2 style="border-top-color: dimgrey;border-bottom-color: dimgrey;border-top-style: solid;border-bottom-style: solid;color:#8E5614;font-family: Georgia,serif;font-weight: 400;font-size: 28px;padding: 4px;width:68vw;text-align: center;margin-top:25">
-                Välj specialisering
+            <div style="padding-left: 5vw;padding-right: 5vw;padding-top: 1vw">
+            <h2 style="border-top-color: dimgrey;border-bottom-color: dimgrey;border-top-style: solid;border-bottom-style: solid;color:#8E5614;font-family: Georgia,serif;font-weight: 400;font-size: 28px;padding-top: 0.5vw;padding-bottom: 0.5vw;width:100%;text-align: center">
+                Specialisering
             </h2>
+            </div>
+            
+            <div style="align-content: center;text-align: center">
+            <button class="button buttonSpecUnpressed">Specialisering 1</button><br>
+            <button class="button buttonSpecUnpressed">Specialisering 2</button>
+            </div>
+
+            
+            
         </div>
     </body>
 
