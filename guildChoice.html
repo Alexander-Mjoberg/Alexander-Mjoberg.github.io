@@ -209,7 +209,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><button class="button buttonAUnpressed" id="SelectA">Arktiekt</button></td>
+                    <td><button class="button buttonAUnpressed" id="SelectA">Arkitekt</button></td>
                     <td><button class="button buttonDUnpressed" id="SelectD">Datateknik</button></td>
                     <td><button class="button buttonEUnpressed" id="SelectE">Elektroteknik</button></td>
                 </tr>
@@ -299,9 +299,10 @@
         <script src="courseData/allSpecializations.txt"></script>
         <script type="text/javascript">
             let Specializations = ['Beräkning och simulering', 'Beräkningsmekanik', 'Bildanalys och maskinintelligens', 'Biologisk, ekologisk och medicinsk modellering', 'Finansiell modellering', 'Programvara', 'System, signaler och reglering']
+            let program = "";
             
             
-            Specializations.forEach(listSpecialization);
+            
 
             function listSpecialization(item, index){
                 //document.getElementById("programTable").style.display = 'None'
@@ -324,17 +325,24 @@
             button.onclick = selectProgram;
                 
             function selectProgram(){
-                prog = this.id.substr(-1);
-                console.log(prog);
+                program = this.id.substr(-1);
+                console.log(program);
                 //document.getElementById("programTable").style.display = 'None'
                 pt = document.getElementById("programTable")
                 pt.setAttribute('class','progDiv')
                 pt.style.opacity=0;
-                setTimeout(selectSpecializations, 1000)
+                setTimeout(showSpecializations, 1000)
                 document.getElementById("SpecializationSelector").style.display = 'Flex';
+                let selectString = program.concat('Specializations');
+                let dict = {};
+                dict['D'] = DSpecializations;
+                dict['E'] = ESpecializations;
+                //program == 'D' ? Specializations = DSpecializations : "";
+                Specializations = dict['D'];
+                Specializations.forEach(listSpecialization);
             }
             
-            function selectSpecializations(){
+            function showSpecializations(){
                 document.getElementById("programTable").style.display = 'None';
                 //document.getElementById("SpecializationSelector").style.display = 'Flex';
                 document.getElementById("SpecializationSelector").style.opacity = 1;
