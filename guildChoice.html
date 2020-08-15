@@ -209,14 +209,14 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><button class="button buttonAUnpressed" id="SelectA">Arkitekt</button></td>
-                    <td><button class="button buttonDUnpressed" id="SelectD">Datateknik</button></td>
-                    <td><button class="button buttonEUnpressed" id="SelectE">Elektroteknik</button></td>
+                    <td><button class="button buttonAUnpressed" id="SelectProgramA">Arkitekt</button></td>
+                    <td><button class="button buttonDUnpressed" id="SelectProgramD">Datateknik</button></td>
+                    <td><button class="button buttonEUnpressed" id="SelectProgramE">Elektroteknik</button></td>
                 </tr>
                 <tr>
                     <td> </td>
-                    <td><button class="button buttonDUnpressed">Infocom</button></td>
-                    <td><button class="button buttonEUnpressed">Medicin och teknik</button></td>
+                    <td><button class="button buttonDUnpressed" id="SelectProgramC">Infocom</button></td>
+                    <td><button class="button buttonEUnpressed" id="SelectProgramBME">Medicin och teknik</button></td>
                 </tr>
                 <tr>
                     <td style="padding-top: 2vw;padding-bottom: 2vw">
@@ -230,17 +230,17 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><button class="button buttonFUnpressed">Teknisk fysik</button></td>
-                    <td><button class="button buttonIUnpressed">Industriell Ekonomi</button></td>
-                    <td><button class="button buttonKUnpressed">Bioteknik</button></td>
+                    <td><button class="button buttonFUnpressed" id="SelectProgramF">Teknisk fysik</button></td>
+                    <td><button class="button buttonIUnpressed" id="SelectProgramI">Industriell Ekonomi</button></td>
+                    <td><button class="button buttonKUnpressed" id="SelectProgramB">Bioteknik</button></td>
                 </tr>
                 <tr>
-                    <td><button class="button buttonFUnpressed">Teknisk Matematik</button></td>
+                    <td><button class="button buttonFUnpressed" id="SelectProgramPi">Teknisk Matematik</button></td>
                     <td> </td>
-                    <td><button class="button buttonKUnpressed">Kemiteknik</button></td>
+                    <td><button class="button buttonKUnpressed" id="SelectProgramK">Kemiteknik</button></td>
                 </tr>
                 <tr>
-                    <td><button class="button buttonFUnpressed">Teknisk Nanovetenskap</button></td>
+                    <td><button class="button buttonFUnpressed" id="SelectProgramN">Teknisk Nanovetenskap</button></td>
                     <td> </td>
                     <td> </td>
                 </tr>
@@ -256,23 +256,23 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><button class="button buttonMUnpressed">Maskinteknik</button></td>
-                    <td><button class="button buttonVUnpressed">Väg och vatten</button></td>
-                    <td><button class="button buttonWUnpressed">Ekosystemteknik</button></td>
+                    <td><button class="button buttonMUnpressed" id="SelectProgramM">Maskinteknik</button></td>
+                    <td><button class="button buttonVUnpressed" id="SelectProgramV">Väg och vatten</button></td>
+                    <td><button class="button buttonWUnpressed" id="SelectProgramW">Ekosystemteknik</button></td>
                 </tr>
                 <tr>
-                    <td><button class="button buttonMUnpressed">Teknisk Design</button></td>
-                    <td><button class="button buttonVUnpressed">Lantmäteri</button></td>
+                    <td><button class="button buttonMUnpressed" id="SelectProgramTD">Teknisk Design</button></td>
+                    <td><button class="button buttonVUnpressed" id="SelectProgramL">Lantmäteri</button></td>
                     <td> </td>
                 </tr>
                 <tr>
                     <td> </td>
-                    <td><button class="button buttonVUnpressed">Riskhantering</button></td>
+                    <td><button class="button buttonVUnpressed" id="SelectProgramR">Riskhantering</button></td>
                     <td></td>
                 </tr>
                 <tr>
                     <td> </td>
-                    <td><button class="button buttonVUnpressed">Brandingenjör</button></td>
+                    <td><button class="button buttonVUnpressed" id="SelectProgramBI">Brandingenjör</button></td>
                     <td> </td>
                 </tr>
             </table>
@@ -302,7 +302,9 @@
             let program = "";
             
             
-            
+            //document.querySelectorAll("#SelectProgram")[0];
+            console.log(document.querySelectorAll("button[id^='SelectProgram']")[0]);
+            document.querySelectorAll("button[id^='SelectProgram']").forEach((item,index) => item.onclick = selectProgram);
 
             function listSpecialization(item, index){
                 //document.getElementById("programTable").style.display = 'None'
@@ -318,14 +320,16 @@
                 rowDiv.appendChild(specButton)
             }
             
-            button = document.getElementById("SelectD");
-            
+            button = document.getElementById("SelectProgramD");
+            button2 = document.getElementById("SelectProgramE");
             //välja alla knappar med ID som innehåller select...
             //https://stackoverflow.com/questions/8714090/queryselector-wildcard-element-match
             button.onclick = selectProgram;
+            button2.onclick = selectProgram;
+            
                 
             function selectProgram(){
-                program = this.id.substr(-1);
+                program = this.id.split("SelectProgram").pop();
                 console.log(program);
                 //document.getElementById("programTable").style.display = 'None'
                 pt = document.getElementById("programTable")
@@ -333,12 +337,7 @@
                 pt.style.opacity=0;
                 setTimeout(showSpecializations, 1000)
                 document.getElementById("SpecializationSelector").style.display = 'Flex';
-                let selectString = program.concat('Specializations');
-                let dict = {};
-                dict['D'] = DSpecializations;
-                dict['E'] = ESpecializations;
-                //program == 'D' ? Specializations = DSpecializations : "";
-                Specializations = dict['D'];
+                Specializations = specializationDict[program];
                 Specializations.forEach(listSpecialization);
             }
             
