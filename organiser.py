@@ -6,6 +6,7 @@ with open('courseData/allSpecializations.txt', 'w', encoding="utf-8") as filehan
 	filehandler.write('let programmes = ')
 	filehandler.write('%s' % programs)
 	filehandler.write('\n')
+	filehandler.write('let specializationDict = {};\n')
 	filehandler.close()
 
 for program in programs:
@@ -113,9 +114,9 @@ for program in programs:
 	specializations.sort()
 	#Output to textfile
 	with open('courseData/allSpecializations.txt', 'a', encoding="utf-8") as filehandler:
-		filehandler.write('let ')
+		filehandler.write('specializationDict[\'')
 		filehandler.write('%s' % program)
-		filehandler.write('Specializations = ')
+		filehandler.write('\'] = ')
 		filehandler.write('%s' % specializations)
 		filehandler.write('\n')
 		filehandler.close()
