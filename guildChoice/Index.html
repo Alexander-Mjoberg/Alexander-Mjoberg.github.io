@@ -6,7 +6,7 @@
                 border-radius: 8px;
                 color: white;
                 padding: 2px 4px;
-                width:18vw;
+
                 text-align: center;
                 text-decoration: none;
                 display: inline-block;
@@ -59,7 +59,7 @@
             .buttonEUnpressed:hover {
                 background-color: #000000;
                 color: white;
-                
+
             }
 
             .buttonFUnpressed {
@@ -76,8 +76,8 @@
                 background-color: #F7941E;
                 color: white;
             }
-            
-                        .buttonIUnpressed {
+
+            .buttonIUnpressed {
                 background-color: white; 
                 color: black; 
                 border: 2px solid #981B1E;
@@ -91,8 +91,8 @@
                 background-color: #981B1E;
                 color: white;
             }
-            
-                        .buttonKUnpressed {
+
+            .buttonKUnpressed {
                 background-color: white; 
                 color: black; 
                 border: 2px solid #FFF200;
@@ -106,8 +106,8 @@
                 background-color: #FFF200;
                 color: white;
             }
-            
-                        .buttonMUnpressed {
+
+            .buttonMUnpressed {
                 background-color: white; 
                 color: black; 
                 border: 2px solid #ED1F24;
@@ -121,8 +121,8 @@
                 background-color: #ED1F24;
                 color: white;
             }
-            
-                                    .buttonVUnpressed {
+
+            .buttonVUnpressed {
                 background-color: white; 
                 color: black; 
                 border: 2px solid #3853A4;
@@ -136,7 +136,7 @@
                 background-color: #3853A4;
                 color: white;
             }
-                                    .buttonWUnpressed {
+            .buttonWUnpressed {
                 background-color: white; 
                 color: black; 
                 border: 2px solid #6ECDDD;
@@ -150,11 +150,14 @@
                 background-color: #6ECDDD;
                 color: white;
             }
-            
-                                     .buttonSpecUnpressed {
+
+            .buttonSpecUnpressed {
                 background-color: white; 
                 color: black; 
                 border: 2px solid #8E5614;
+                margin-bottom:1.1vw;
+                width:100%;
+                display: table-cell
             }
             .buttonSpecPressed {
                 background-color: #8E5614; 
@@ -166,19 +169,34 @@
                 color: white;
             }
 
+            .rowDiv {
+                display: table-row
+            }
+            
+            progDiv {
+            transition: opacity 1s ease-out;
+            opacity: 0;
+            height: 0;
+            overflow: hidden;
+            }
+            progDiv.active {
+            opacity: 1;
+            height: auto;
+            }
+
         </style>
     </head>
 
     <body>        
-        <div style="border-color:#C6A882;border-width:1.2vw;border-style: solid;margin: 1.5vw;display: inline-block;border-radius: 0.5vw">
+        <div style="border-color:#C6A882;border-width:1.2vw;border-style: solid;margin: 1.5vw;display: inline-block;border-radius: 0.5vw;" >
             <div style="padding-left: 5vw;padding-right: 5vw;padding-top: 1vw">
-            <h2 style="border-top-color: dimgrey;border-bottom-color: dimgrey;border-top-style: solid;border-bottom-style: solid;color:#8E5614;font-family: Georgia,serif;font-weight: 400;font-size: 3.4vw;padding-top: 0.5vw;padding-bottom: 0.5vw;width:100%;text-align: center">
-                Kursval specialisering LTH
-            </h2>
+                <h2 style="border-top-color: dimgrey;border-bottom-color: dimgrey;border-top-style: solid;border-bottom-style: solid;color:#8E5614;font-family: Georgia,serif;font-weight: 400;font-size: 3.4vw;padding-top: 0.5vw;padding-bottom: 0.5vw;width:100%;text-align: center">
+                    Kursval specialisering LTH
+                </h2>
                 <p style="text-align: center;font-size: 20;"><em>Den här sidan kan du ta hjälp av för att planera vilka kurser du ska läsa i specialiseringen. Obs! Under uppbyggnad</em></p>
             </div>
-
-            <table style="border-spacing:7.5vw 0;text-align: center;align-content: center;justify-content:center;padding-top: 3vw">
+            <div id="programTable" style="transition: opacity 1s ease-out;">
+            <table style="border-spacing:7.5vw 0;text-align: center;align-content: center;justify-content:center;padding-top: 3vw"  >
                 <tr>
                     <td style="padding-bottom: 2vw">
                         <img src="guildLogos/A.png" style="height:22.5vw;width:22.5vw">
@@ -191,9 +209,9 @@
                     </td>
                 </tr>
                 <tr>
-                    <td><button class="button buttonAUnpressed">Arktiekt</button></td>
-                    <td><button class="button buttonDUnpressed">Datateknik</button></td>
-                    <td><button class="button buttonEUnpressed">Elektroteknik</button></td>
+                    <td><button class="button buttonAUnpressed" id="SelectA">Arktiekt</button></td>
+                    <td><button class="button buttonDUnpressed" id="SelectD">Datateknik</button></td>
+                    <td><button class="button buttonEUnpressed" id="SelectE">Elektroteknik</button></td>
                 </tr>
                 <tr>
                     <td> </td>
@@ -258,9 +276,55 @@
                     <td> </td>
                 </tr>
             </table>
-            <br><br>
+            </div>
             
+            <!-- Set it to flex and it works! !-->
+            <div id="SpecializationSelector" style="min-height: 25vw;width:90%;margin-left:auto;margin-right:auto;display: none;
+                            flex-direction: column;
+                            flex-wrap: wrap;
+                            justify-content: center;
+                            align-items: center;">
+                <div id="test" style="">
+                </div>
+
+
+
+            </div>
+            <br><br>
+
         </div>
+        
+        <script src="courseData/allSpecializations.txt"></script>
+        <script type="text/javascript">
+            let Specializations = ['Beräkning och simulering', 'Beräkningsmekanik', 'Bildanalys och maskinintelligens', 'Biologisk, ekologisk och medicinsk modellering', 'Finansiell modellering', 'Programvara', 'System, signaler och reglering']
+
+            Specializations.forEach(listSpecialization);
+
+            function listSpecialization(item, index){
+                console.log(item)
+                let body = document.getElementById("test");
+                let rowDiv = document.createElement("div")
+                rowDiv.setAttribute('class','rowDiv')
+                let specButton = document.createElement("button");
+                specButton.setAttribute('class','button buttonSpecUnpressed');
+                specButton.textContent = item;
+                specButton.setAttribute('id',item);
+                body.appendChild(rowDiv);
+                rowDiv.appendChild(specButton)
+            }
+            
+            button = document.getElementById("SelectD");
+            button.onclick = selectProgram;
+                
+            function selectProgram(){
+                prog = this.id.substr(-1);
+                console.log(prog);
+                //document.getElementById("programTable").style.display = 'None'
+                document.getElementById("programTable").setAttribute('class','progDiv')
+                document.getElementById("programTable").style.opacity=0;
+            }
+
+        </script>
     </body>
 
 </html>
