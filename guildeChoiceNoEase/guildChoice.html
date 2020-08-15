@@ -283,9 +283,7 @@
                             flex-direction: column;
                             flex-wrap: wrap;
                             justify-content: center;
-                            align-items: center;
-                                                    opacity: 0;
-                                                    transition: opacity 0.6s ease-in;">
+                            align-items: center;">
                 <div id="test" style="">
                 </div>
 
@@ -331,13 +329,11 @@
                 pt.setAttribute('class','progDiv')
                 pt.style.opacity=0;
                 setTimeout(selectSpecializations, 1000)
-                document.getElementById("SpecializationSelector").style.display = 'Flex';
             }
             
             function selectSpecializations(){
                 document.getElementById("programTable").style.display = 'None';
-                //document.getElementById("SpecializationSelector").style.display = 'Flex';
-                document.getElementById("SpecializationSelector").style.opacity = 1;
+                document.getElementById("SpecializationSelector").style.display = 'Flex';
             }
             
             

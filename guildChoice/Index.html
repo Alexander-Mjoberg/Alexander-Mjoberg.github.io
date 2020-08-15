@@ -283,7 +283,9 @@
                             flex-direction: column;
                             flex-wrap: wrap;
                             justify-content: center;
-                            align-items: center;">
+                            align-items: center;
+                                                    opacity: 0;
+                                                    transition: opacity 0.6s ease-in;">
                 <div id="test" style="">
                 </div>
 
@@ -297,10 +299,12 @@
         <script src="courseData/allSpecializations.txt"></script>
         <script type="text/javascript">
             let Specializations = ['Beräkning och simulering', 'Beräkningsmekanik', 'Bildanalys och maskinintelligens', 'Biologisk, ekologisk och medicinsk modellering', 'Finansiell modellering', 'Programvara', 'System, signaler och reglering']
-
+            
+            
             Specializations.forEach(listSpecialization);
 
             function listSpecialization(item, index){
+                //document.getElementById("programTable").style.display = 'None'
                 console.log(item)
                 let body = document.getElementById("test");
                 let rowDiv = document.createElement("div")
@@ -314,15 +318,29 @@
             }
             
             button = document.getElementById("SelectD");
+            
+            //välja alla knappar med ID som innehåller select...
+            //https://stackoverflow.com/questions/8714090/queryselector-wildcard-element-match
             button.onclick = selectProgram;
                 
             function selectProgram(){
                 prog = this.id.substr(-1);
                 console.log(prog);
                 //document.getElementById("programTable").style.display = 'None'
-                document.getElementById("programTable").setAttribute('class','progDiv')
-                document.getElementById("programTable").style.opacity=0;
+                pt = document.getElementById("programTable")
+                pt.setAttribute('class','progDiv')
+                pt.style.opacity=0;
+                setTimeout(selectSpecializations, 1000)
+                document.getElementById("SpecializationSelector").style.display = 'Flex';
             }
+            
+            function selectSpecializations(){
+                document.getElementById("programTable").style.display = 'None';
+                //document.getElementById("SpecializationSelector").style.display = 'Flex';
+                document.getElementById("SpecializationSelector").style.opacity = 1;
+            }
+            
+            
 
         </script>
     </body>
