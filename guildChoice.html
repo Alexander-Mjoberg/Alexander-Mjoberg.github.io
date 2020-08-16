@@ -320,9 +320,11 @@
 
                 <!-- Set it to flex and it works! !-->
                 <div id="SpecializationSelector" class="specializationOptions">
+                    <div style="width: 90%;text-align: left"><img src="resources/BackButton.png" style="height: 8vw;max-height: 60px"></div>
+                    
                     <div id="SpecializationCenteredColumn">
                     </div>
-                    <img src="resources/BackButton.png" style="height: 8vw;max-height: 60px">
+                    
                 </div>
             </div>
         </div>
@@ -351,17 +353,9 @@
                 rowDiv.appendChild(specButton)
             }
 
-            button = document.getElementById("SelectProgramD");
-            button2 = document.getElementById("SelectProgramE");
-            //välja alla knappar med ID som innehåller select...
-            //https://stackoverflow.com/questions/8714090/queryselector-wildcard-element-match
-            button.onclick = selectProgram;
-            button2.onclick = selectProgram;
-
 
             function selectProgram(){
                 program = this.id.split("SelectProgram").pop();
-                console.log(program);
                 //document.getElementById("programTable").style.display = 'None'
                 pt = document.getElementById("programTable")
                 pt.setAttribute('class','progDiv')
@@ -370,6 +364,12 @@
                 document.getElementById("SpecializationSelector").style.display = 'Flex';
                 Specializations = specializationDict[program];
                 Specializations.forEach(listSpecialization);
+            }
+            
+            function unselectProgram(){
+                program = '';
+                pt.childNodes
+                
             }
 
             function showSpecializations(){
