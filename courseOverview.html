@@ -13,7 +13,7 @@
                 width:100%;
                 margin: 0;
             }
-            
+
             h3 {
                 font-size:1.5em;
             }
@@ -254,7 +254,7 @@
                 padding: 4px;
                 font-size: 18px;
             }
-            
+
             /* Headers på kurstabell */
             .courseTableHeaderCell1 {
                 background-color: #C6A882;
@@ -284,23 +284,56 @@
 
     <body style="margin: 0">
         <div style="border-bottom-style: solid;border-bottom-color: dimgrey;height: 5vw;width: 100%;position: fixed;background-color: white;margin-bottom: 5vw;top: 0;">
-            <table style="width: 100%;text-align: center;margin-top: 1.5vw">
+            <table style="width: 100%;text-align: center;margin-top: 1.5vw;">
                 <tr>
-                    <td style="width: 33%"><strong>Meny</strong></td>
-                    <td style="width: 33%"><strong>Filter</strong></td>
-                    <td style="width: 33%"><strong>Poäng-sammanfattning</strong></td>
+                    <td style="width: 33%" colspan="4"><strong>Meny</strong></td>
+                    <td style="width: 33%;border-left: 2px solid;border-left-color: dimgray;border-right: 2px solid;border-right-color: dimgray" colspan="5"><strong>Filter</strong></td>
+                    <td style="width: 33%" colspan="4"><strong>Poäng-sammanfattning</strong></td>
+                </tr>
+                <tr>
+                    <td>Välj program</td>
+                    <td>Excel</td>
+                    <td>PDF</td>
+                    <td>Länk</td>
+
+                    <td>Vald</td>
+                    <td colspan="2">Högskolepoäng</td>
+                    <td>Nivå</td>
+                    <td>Läsperiod</td>
+
+                    <td>Högskolepoäng</td>
+                    <td>Varav spec</td>
+                    <td>Avancerade poäng</td>
+                    <td>Varav spec</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
                 </tr>
             </table>
         </div>
         <div class="outerBox" >
-            <div class="innerBox">
+            <div class="innerBox" id="innerBox">
                 <h2>
                     Kursval specialisering LTH
                 </h2>
                 <p style="font-size: 20;"><em>Den här sidan kan du ta hjälp av för att planera vilka kurser du ska läsa i specialiseringen. Obs! Under uppbyggnad</em></p>
-                
+
                 <h3 style="text-align: center">Specialisering Programvara </h3>
-                <table class="courseTable">
+                <table class="courseTable" id="testTable">
                     <tr>
                         <th class="courseTableHeaderCell">Vald</th>
                         <th class="courseTableHeaderCell">Kurskod</th>
