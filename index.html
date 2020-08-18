@@ -503,6 +503,8 @@
                 cb = document.getElementById("courseBox");
                 document.getElementById("SpecializationSelector").style.opacity = 0;
                 courses = courseDict[program];
+                specializations.push('Valfria kurser');
+                specializations.push('Externt valfria kurser');
                 specializations.forEach(spec => tableCreate(spec))
                 setTimeout(() => cb.style.display ='block',780);
                 setTimeout(hideSpecializations, 800);
