@@ -287,7 +287,7 @@
             <table style="width: 100%;text-align: center;margin-top: 0.3vw;border-spacing: 0;">
                 <tr>
                     <td style="width: 33%" colspan="4"><strong>Meny</strong></td>
-                    <td style="width: 33%;border-left: 2px solid;border-left-color: dimgray;border-right: 2px solid;border-right-color: dimgray" colspan="5"><strong>Filter</strong></td>
+                    <td style="width: 33%;border-left: 2px solid;border-left-color: dimgray;border-right: 2px solid;border-right-color: dimgray" colspan="4"><strong>Filter</strong></td>
                     <td style="width: 33%" colspan="4"><strong>Poäng-sammanfattning</strong></td>
                 </tr>
                 <tr>
@@ -297,7 +297,7 @@
                     <td>Hjälp</td>
 
                     <td style="border-left: 2px solid;border-left-color: dimgray;">Vald</td>
-                    <td colspan="2">Högskolepoäng</td>
+                    <td>Högskolepoäng</td>
                     <td>Nivå</td>
                     <td style="border-right: 2px solid;border-right-color: dimgray">Läsperiod</td> 
 
@@ -320,13 +320,11 @@
                         </select>
                     </td>
                     <td>
-                        <select name="HP-Method" id="HP-Method" disabled>
+                                                <select name="HP-Method" id="HP-Method" disabled>
                             <option value="Fler än">Fler än</option>
                             <option value="Färre än">Färre än</option>
                             <option value="Lika med">Lika med</option>
                         </select>
-                    </td>
-                    <td>
                         <select name="HP-Points" id="HP-Points" disabled>
                             <option value="0">0</option>
                             <option value="7.5">7.5</option>
@@ -615,6 +613,7 @@
                 course.selected = !course.selected;
                 //Räkna om kurser
                 updateCounters();
+                course.domCheckboxes.forEach((box,index) => box.checked = course.selected);
                 //TODO: Uppdatera andra ställen där kursen finns
                 //Exempel på att fylla i checkbox
                 //document.getElementById("EITF35").setAttribute('checked','');
