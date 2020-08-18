@@ -9,6 +9,10 @@ with open('courseData/allSpecializations.txt', 'w', encoding="utf-8") as filehan
 	filehandler.write('let specializationDict = {};\n')
 	filehandler.close()
 
+with open('courseData/allCourses.txt', 'w', encoding="utf-8") as filehandler:
+	filehandler.write('let courseDict = {};\n')
+	filehandler.close()
+
 for program in programs:
 	#Open and load the course data
 	rawFilePath = "scraperData/html_data_" + program + ".txt"
@@ -187,35 +191,32 @@ for program in programs:
 
 	#Output to textfile
 	outputFilePath = 'courseData/courses' + program + '.txt'
-	with open(outputFilePath, 'w', encoding="utf-8") as filehandle:
-		filehandle.write('let specializations = ')
-		filehandle.write('%s' % specializations)
+	with open('courseData/allCourses.txt', 'a', encoding="utf-8") as filehandler:
 
-		filehandle.write('\nlet courses = [\n')
+		filehandler.write('\ncourseDict [\'')
+		filehandler.write('%s' % program)
+		filehandler.write('\'] = [')
 		for listitem in coursesOrganized:
-			filehandle.write('{\nselected:false,\ncode:\'')
-			filehandle.write('%s' % listitem[0])
-			filehandle.write('\',\nname:\'')
-			filehandle.write('%s' % listitem[1])
-			filehandle.write('\',\nhp:')
-			filehandle.write('%s' % listitem[2])
-			filehandle.write(',\nlevel:\'')
-			filehandle.write('%s' % listitem[3])
-			filehandle.write('\',\nlp1:')
-			filehandle.write('%s' % listitem[4])
-			filehandle.write(',\nlp2:')
-			filehandle.write('%s' % listitem[5])
-			filehandle.write(',\nlp3:')
-			filehandle.write('%s' % listitem[6])
-			filehandle.write(',\nlp4:')
-			filehandle.write('%s' % listitem[7])
-			filehandle.write(',\nspecialization:')
-			filehandle.write('%s' % listitem[8])
-			filehandle.write(',\nsortNo:')
-			filehandle.write('%s' % listitem[9])
-			filehandle.write('\n},\n')
-		filehandle.write(']')
-		filehandle.close()
-
-
-
+			filehandler.write('{\nselected:false,\ncode:\'')
+			filehandler.write('%s' % listitem[0])
+			filehandler.write('\',\nname:\'')
+			filehandler.write('%s' % listitem[1])
+			filehandler.write('\',\nhp:')
+			filehandler.write('%s' % listitem[2])
+			filehandler.write(',\nlevel:\'')
+			filehandler.write('%s' % listitem[3])
+			filehandler.write('\',\nlp1:')
+			filehandler.write('%s' % listitem[4])
+			filehandler.write(',\nlp2:')
+			filehandler.write('%s' % listitem[5])
+			filehandler.write(',\nlp3:')
+			filehandler.write('%s' % listitem[6])
+			filehandler.write(',\nlp4:')
+			filehandler.write('%s' % listitem[7])
+			filehandler.write(',\nspecialization:')
+			filehandler.write('%s' % listitem[8])
+			filehandler.write(',\nsortNo:')
+			filehandler.write('%s' % listitem[9])
+			filehandler.write('\n},\n')
+		filehandler.write(']')
+		filehandler.close()
