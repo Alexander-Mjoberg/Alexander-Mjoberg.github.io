@@ -603,30 +603,29 @@
                 //Filter out courses per specialiazation
                 let filterSpecGroup = (course => course.specialization.includes(spec));
                 let specCourses = courses.filter(filterSpecGroup);
-                //Gör filter här
                 specCourses = specCourses.sort(compare);
-                console.log(specCourses);
 
                 // cells creation
                 for (var j = 0; j < specCourses.length; j++) {
+                    let course = specCourses[j];
                     // table row creation
                     var row = document.createElement("tr");
-                    let course = textifyCourse(specCourses[j]);
+                    let courseToText = textifyCourse(course);
 
-                    for (var i = 0; i < course.length; i++) {
+                    for (var i = 0; i < courseToText.length; i++) {
                         // create element <td> and text node 
                         //Make text node the contents of <td> element
                         // put <td> at end of the table row
-                        var cell = document.createElement("td");
+                        let cell = document.createElement("td");
                         cell.setAttribute('class', ((j%2) ? 'courseTableCellLight' : 'courseTableCellDark'));
-                        var cellText = document.createTextNode(course[i]);
+                        let cellText = document.createTextNode(courseToText[i]);
                         if (i==0){
-                            var box = document.createElement("input");
+                            let box = document.createElement("input");
                             box.setAttribute("type", "checkbox");
                             //Sätta checked som default
                             //x.setAttribute('checked','');
                             //Ge boxen ett ID som består av kurskod+specialisering plats i array av specialisering
-                            box.setAttribute("id", course[1])
+                            box.setAttribute("id", courseToText[1])
                             box.onclick = onSelected;
                             cell.appendChild(box);
                         }
