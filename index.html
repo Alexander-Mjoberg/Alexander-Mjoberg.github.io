@@ -562,14 +562,48 @@
             }
 
 
-            function compare(a, b) {
+            function compareSortValue(a, b) {
                 if (a.sortNo > b.sortNo) return 1;
                 return -1;
             }
+            
+            function compareHp(course,desiredVal){
+                if(course.hp == desiredVal)
+                    return 0;
+                else if (course.hp > desiredVal)
+                    return 1;
+                return -1;
+            }
 
-            //En funktion för att tillämpa filter innan dom skrivs ut i tabeller
-            function doFilters(specCourses){
-
+            //En funktion för att tillämpa filter innan dom skrivs ut i tabeller. Filtret hittar det som inte passar
+            function doFilters(){
+                //Dessa variabler ska flyttas ut.
+                let desireSelected = true;
+                let desiredUnselected = false;
+                let desiredLevel = 'All'
+                let desiredHp = 0;
+                let desiredComparatorValue = 1;
+                let desiredPeriods = [true, true, true, true];
+                
+                //Filtret hittar kurser som inte passar användarens inställda filter så att dessa kan döljas
+                let allFilters = ((course,index) => 
+                                  !((desireSelected && course.selected == true) || (desiredUnselected && course.selected == false)) || 
+                                  course.level != desiredLevel && desiredLevel != 'All' ||
+                                  !(compareHp(course,desiredHp) == desiredComparatorValue) ||
+                                  false);
+                coursesToHide = courses.filter(allFilters);
+                console.log(coursesToHide);
+                
+                coursesToHide.forEach((course,index) => course.domRows.forEach((tr,index2) => tr.style.display = 'None'));
+                
+                    //course.level != desiredLevel || //Hittar alla kurser som inte stämmer med önskad nivå
+                    //course.points < desiredPoints || // Tre möjliga svar från comparator -1 mindre, 0 samma, 1 större. Input jämförelsevärde och önskat svar. 
+                     //!(course.period == true && course.period == desiredPeriods[0] || period1.. )
+                
+                
+                
+                //If no filter enabled, show all
+                
             }
 
 
@@ -603,7 +637,7 @@
                 //Filter out courses per specialiazation
                 let filterSpecGroup = (course => course.specialization.includes(spec));
                 let specCourses = courses.filter(filterSpecGroup);
-                specCourses = specCourses.sort(compare);
+                specCourses = specCourses.sort(compareSortValue);
 
                 // cells creation
                 for (var j = 0; j < specCourses.length; j++) {
@@ -628,6 +662,7 @@
                             box.setAttribute("id", courseToText[1])
                             box.onclick = onSelected;
                             cell.appendChild(box);
+                            course.domCheckboxes.push(box);
                         }
                         else {
                             cell.appendChild(cellText);
@@ -635,9 +670,9 @@
 
                         row.appendChild(cell);
                     }
-
                     //row added to end of table body
                     tblBody.appendChild(row);
+                    course.domRows.push(row);
                 }
 
                 // append the <tbody> inside the <table>
