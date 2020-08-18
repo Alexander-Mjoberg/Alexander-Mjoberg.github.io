@@ -217,6 +217,8 @@ for program in programs:
 			filehandler.write('%s' % listitem[8])
 			filehandler.write(',\nsortNo:')
 			filehandler.write('%s' % listitem[9])
+			filehandler.write(',\ndomRows:[]')
+			filehandler.write(',\ndomCheckboxes:[]')
 			filehandler.write('\n},\n')
 		filehandler.write(']')
 		filehandler.close()
