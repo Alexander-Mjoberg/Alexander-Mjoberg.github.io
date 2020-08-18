@@ -605,7 +605,8 @@
                 return textToShow;
             }
 
-            function onSelected(){
+            //
+            function onCourseSelected(){
                 console.log(this.id)
                 //Invertera selection
                 let id = this.id;
@@ -614,9 +615,6 @@
                 //Räkna om kurser
                 updateCounters();
                 course.domCheckboxes.forEach((box,index) => box.checked = course.selected);
-                //TODO: Uppdatera andra ställen där kursen finns
-                //Exempel på att fylla i checkbox
-                //document.getElementById("EITF35").setAttribute('checked','');
             }
 
 
@@ -718,7 +716,7 @@
                             //x.setAttribute('checked','');
                             //Ge boxen ett ID som består av kurskod+specialisering plats i array av specialisering
                             box.setAttribute("id", courseToText[1])
-                            box.onclick = onSelected;
+                            box.onclick = onCourseSelected;
                             cell.appendChild(box);
                             course.domCheckboxes.push(box);
                         }
