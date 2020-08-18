@@ -284,7 +284,7 @@
 
     <body style="margin: 0">
         <div style="border-bottom-style: solid;border-bottom-color: dimgrey;height: 5vw;width: 100%;position: fixed;background-color: white;margin-bottom: 5vw;top: 0;z-index: 9999;" id="menuBar">
-            <table style="width: 100%;text-align: center;margin-top: 1.5vw;">
+            <table style="width: 100%;text-align: center;margin-top: 0.4vw;border-spacing: 0;">
                 <tr>
                     <td style="width: 33%" colspan="4"><strong>Meny</strong></td>
                     <td style="width: 33%;border-left: 2px solid;border-left-color: dimgray;border-right: 2px solid;border-right-color: dimgray" colspan="5"><strong>Filter</strong></td>
@@ -296,10 +296,10 @@
                     <td>Länk</td>
                     <td>Hjälp</td>
 
-                    <td>Vald</td>
+                    <td style="border-left: 2px solid;border-left-color: dimgray;">Vald</td>
                     <td colspan="2">Högskolepoäng</td>
                     <td>Nivå</td>
-                    <td>Läsperiod</td>
+                    <td style="border-right: 2px solid;border-right-color: dimgray">Läsperiod</td>
 
                     <td>Högskolepoäng</td>
                     <td>Varav spec</td>
@@ -312,101 +312,26 @@
                     <td></td>
                     <td></td>
 
+                    <td style="border-left: 2px solid;border-left-color: dimgray;"></td>
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
-                    <td></td>
+                    <td style="border-right: 2px solid;border-right-color: dimgray"></td>
 
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <td id="totalHp">0</td> 
+                    <td id="hpSpec">0</td>
+                    <td id="totalAp">0</td>
+                    <td id="apSpec">0</td>
                 </tr>
             </table>
         </div>
         <div class="outerBox" >
             <div class="innerBox" id="innerBox">
-                <div id="WelcomeText">
-                    <h2>Kursval specialisering LTH</h2>
+                <div id="welcomeText">
+                    <h2 id="topText">Kursval specialisering LTH</h2>
                     <p style="font-size: 20;"><em>Den här sidan kan du ta hjälp av för att planera vilka kurser du ska läsa i specialiseringen. Obs! Under uppbyggnad</em></p>
                 </div>
-                <div id="courseBox" style="display: none">
-
-                    <h3 style="text-align: center">Specialisering Programvara </h3>
-                    <table class="courseTable" id="testTable">
-                        <tr>
-                            <th class="courseTableHeaderCell">Vald</th>
-                            <th class="courseTableHeaderCell">Kurskod</th>
-                            <th class="courseTableHeaderCell" style="width:250">Kursnamn</th>
-                            <th class="courseTableHeaderCell">Högskolepoäng</th>
-                            <th class="courseTableHeaderCell">Nivå</th>
-                            <th class="courseTableHeaderCell">LP1</th>
-                            <th class="courseTableHeaderCell">LP2</th>
-                            <th class="courseTableHeaderCell">LP3</th>
-                            <th class="courseTableHeaderCell">LP4</th>
-                        </tr>
-                        <tr>
-                            <td class="courseTableCellDark"><input type="checkbox" id="chkbox"></td>
-                            <td class="courseTableCellDark">FRTF05</td>
-                            <td class="courseTableCellDark">Introduktion till artificiella neuronnätverk och deep learning</td>
-                            <td class="courseTableCellDark">7,5</td>
-                            <td class="courseTableCellDark">G2</td>
-                            <td class="courseTableCellDark">✓</td>
-                            <td class="courseTableCellDark"> </td>
-                            <td class="courseTableCellDark"> </td>
-                            <td class="courseTableCellDark"> </td>
-                        </tr>
-                        <tr>
-                            <td class="courseTableCellLight"><input type="checkbox"></td>
-                            <td class="courseTableCellLight">EDAP10</td>
-                            <td class="courseTableCellLight">Flertrådad programmering</td>
-                            <td class="courseTableCellLight">7,5</td>
-                            <td class="courseTableCellLight">G2</td>
-                            <td class="courseTableCellLight"> </td>
-                            <td class="courseTableCellLight">✓</td>
-                            <td class="courseTableCellLight"> </td>
-                            <td class="courseTableCellLight"></td>
-                        </tr>
-                    </table>
-
-                    <h3 style="text-align: center">Specialisering Programvara </h3>
-                    <table class="courseTable">
-                        <tr>
-                            <th class="courseTableHeaderCell1">Vald</th>
-                            <th class="courseTableHeaderCell1">Kurskod</th>
-                            <th class="courseTableHeaderCell1" style="width:250">Kursnamn</th>
-                            <th class="courseTableHeaderCell1">Högskolepoäng</th>
-                            <th class="courseTableHeaderCell1">Nivå</th>
-                            <th class="courseTableHeaderCell1">LP1</th>
-                            <th class="courseTableHeaderCell1">LP2</th>
-                            <th class="courseTableHeaderCell1">LP3</th>
-                            <th class="courseTableHeaderCell1">LP4</th>
-                        </tr>
-                        <tr>
-                            <td style="background-color: #EBE5D8;border-color: #EBE5D8;border-style: solid"><input type="checkbox"></td>
-                            <td style="background-color: #EBE5D8">FRTF05</td>
-                            <td style="background-color: #EBE5D8">Reglerteknik, Allmän kurs</td>
-                            <td style="background-color: #EBE5D8">7,5</td>
-                            <td style="background-color: #EBE5D8">G2</td>
-                            <td style="background-color: #EBE5D8">✓</td>
-                            <td style="background-color: #EBE5D8"> </td>
-                            <td style="background-color: #EBE5D8"> </td>
-                            <td style="background-color: #EBE5D8"> </td>
-                        </tr>
-                        <tr>
-                            <td style="border-color: #EBE5D8;border-style: solid"><input type="checkbox"></td>
-                            <td style="border-color: #EBE5D8;border-style: solid">EDAP10</td>
-                            <td style="border-color: #EBE5D8;border-style: solid">Flertrådad programmering</td>
-                            <td style="border-color: #EBE5D8;border-style: solid">7,5</td>
-                            <td style="border-color: #EBE5D8;border-style: solid">G2</td>
-                            <td style="border-color: #EBE5D8;border-style: solid"> </td>
-                            <td style="border-color: #EBE5D8;border-style: solid">✓</td>
-                            <td style="border-color: #EBE5D8;border-style: solid"> </td>
-                            <td style="border-color: #EBE5D8;border-style: solid"></td>
-                        </tr>
-                    </table>
-                </div>
+                <div id="courseBox" style="display: none"></div>
 
                 <div id="programTable" style="transition: opacity 1s ease-out;transition: opacity 0.6s ease-in">
                     <table style="border-spacing:7.5vw 0;text-align: center;padding-top: 3vw"  >
@@ -507,9 +432,10 @@
         <script src="courseData/allSpecializations.txt"></script>
         <script src="courseData/allCourses.txt"></script>
         <script type="text/javascript">
-            let Specializations = ['']
-            let specialiazation = "";
+            let specializations = ['']
+            let specialization = "";
             let program = "";
+            let courses = "";
 
 
             //document.querySelectorAll("#SelectProgram")[0];
@@ -542,8 +468,8 @@
                 pt.style.opacity=0;
                 setTimeout(showSpecializations, 1000)
                 document.getElementById("SpecializationSelector").style.display = 'Flex';
-                Specializations = specializationDict[program];
-                Specializations.forEach(listSpecialization);
+                specializations = specializationDict[program];
+                specializations.forEach(listSpecialization);
             }
 
 
@@ -573,17 +499,152 @@
             }
 
             function selectSpecialiazation(){
-                specialiazation = this.id;
+                specialization = this.id;
                 cb = document.getElementById("courseBox");
                 document.getElementById("SpecializationSelector").style.opacity = 0;
+                courses = courseDict[program];
+                specializations.forEach(spec => tableCreate(spec))
                 setTimeout(() => cb.style.display ='block',780);
                 setTimeout(hideSpecializations, 800);
                 setTimeout(() => cb.style.opacity =1,800);
+                document.getElementById("topText").innerHTML = "Kursval " + program + " - " + specialization;
+                scrollTo(150,0);
                 //hide speciliazation
                 //turn on opacity for coursesBox
                 //run createTable
 
 
+            }
+            //Code from index
+            function updateCounters() {
+                //Skapa filter för att beräkna antal poäng
+                let filterTotal = (course => course.selected);
+                let filterTotalSpec = (course => course.selected && course.specialization.includes(specialization));
+                let filterAdvanced = (course => course.selected && (course.level=="A"));
+                let filterAdvancedSpec = (course => course.selected && (course.level=="A") && course.specialization.includes(specialization));
+
+                //Summera poäng med hjälp av filter, uppdatera på sidan
+                document.getElementById("totalHp").innerHTML = courses.filter(course => course.selected).map(x => x.hp).reduce((total, amount) => total + amount, 0);
+                document.getElementById("hpSpec").innerHTML = courses.filter(filterTotalSpec).map(x => x.hp).reduce((total, amount) => total + amount, 0);
+                document.getElementById("totalAp").innerHTML = courses.filter(filterAdvanced).map(x => x.hp).reduce((total, amount) => total + amount, 0);
+                document.getElementById("apSpec").innerHTML = courses.filter(filterAdvancedSpec).map(x => x.hp).reduce((total, amount) => total + amount, 0);
+
+                //Green checkmark if enough points
+            }
+
+            function textifyCourse(course){
+                let textToShow = [];
+                textToShow[0] = course.selected ? "✓" : "";
+                textToShow[1] = course.code;
+                textToShow[2] = course.name;
+                textToShow[3] = course.hp;
+                textToShow[4] = course.level;
+                textToShow[5] = course.lp1 ? "✓" : "";
+                textToShow[6] = course.lp2 ? "✓" : "";
+                textToShow[7] = course.lp3 ? "✓" : "";
+                textToShow[8] = course.lp4 ? "✓" : "";
+                return textToShow;
+            }
+
+            function onSelected(){
+                console.log(this.id)
+                //Invertera selection
+                let id = this.id;
+                let course = courses.find(searchCourse => searchCourse.code == id);
+                course.selected = !course.selected;
+                //Räkna om kurser
+                updateCounters();
+                //TODO: Uppdatera andra ställen där kursen finns
+                //Exempel på att fylla i checkbox
+                //document.getElementById("EITF35").setAttribute('checked','');
+            }
+
+
+            function compare(a, b) {
+                if (a.sortNo > b.sortNo) return 1;
+                return -1;
+            }
+
+            //En funktion för att tillämpa filter innan dom skrivs ut i tabeller
+            function doFilters(specCourses){
+
+            }
+
+
+            function tableCreate(spec) {
+                //add h3 text
+                let h3=document.createElement("h3");
+                h3.innerHTML = spec;
+
+
+                //body reference 
+                let body = document.getElementById("courseBox");
+                //Add h3 text
+                body.appendChild(h3);
+
+                // create elements <table> and a <tbody>
+                let tbl = document.createElement("table");
+                let tblBody = document.createElement("tbody");
+                tbl.setAttribute('class', 'courseTable')
+
+                //Header creation
+                let header = ['Vald','Kurskod','Kursnamn','Högskolepoäng','Nivå','LP1','LP2','LP3','LP4'];
+                let headerRow = tblBody.insertRow(-1);
+                for (var i = 0; i < header.length; i++) {
+                    let headerCell = document.createElement("TH");
+                    headerCell.setAttribute('class', 'courseTableHeaderCell')
+                    headerCell.innerHTML = header[i];
+                    i==2 ? headerCell.setAttribute('width','350') : '';
+                    headerRow.appendChild(headerCell);
+                }
+
+                //Filter out courses per specialiazation
+                let filterSpecGroup = (course => course.specialization.includes(spec));
+                let specCourses = courses.filter(filterSpecGroup);
+                //Gör filter här
+                specCourses = specCourses.sort(compare);
+                console.log(specCourses);
+
+                // cells creation
+                for (var j = 0; j < specCourses.length; j++) {
+                    // table row creation
+                    var row = document.createElement("tr");
+                    let course = textifyCourse(specCourses[j]);
+
+                    for (var i = 0; i < course.length; i++) {
+                        // create element <td> and text node 
+                        //Make text node the contents of <td> element
+                        // put <td> at end of the table row
+                        var cell = document.createElement("td");
+                        cell.setAttribute('class', ((j%2) ? 'courseTableCellLight' : 'courseTableCellDark'));
+                        var cellText = document.createTextNode(course[i]);
+                        if (i==0){
+                            var box = document.createElement("input");
+                            box.setAttribute("type", "checkbox");
+                            //Sätta checked som default
+                            //x.setAttribute('checked','');
+                            //Ge boxen ett ID som består av kurskod+specialisering plats i array av specialisering
+                            box.setAttribute("id", course[1])
+                            box.onclick = onSelected;
+                            cell.appendChild(box);
+                        }
+                        else {
+                            cell.appendChild(cellText);
+                        }
+
+                        row.appendChild(cell);
+                    }
+
+                    //row added to end of table body
+                    tblBody.appendChild(row);
+                }
+
+                // append the <tbody> inside the <table>
+                tbl.appendChild(tblBody);
+                // put <table> in the <body>
+                body.appendChild(tbl);
+                // tbl border attribute to 
+                //tbl.setAttribute("border", "2");
             }
 
 
