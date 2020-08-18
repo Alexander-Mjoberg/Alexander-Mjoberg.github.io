@@ -283,8 +283,8 @@
     </head>
 
     <body style="margin: 0">
-        <div style="border-bottom-style: solid;border-bottom-color: dimgrey;height: 5vw;width: 100%;position: fixed;background-color: white;margin-bottom: 5vw;top: 0;z-index: 9999;" id="menuBar">
-            <table style="width: 100%;text-align: center;margin-top: 0.4vw;border-spacing: 0;">
+        <div style="border-bottom-style: solid;border-bottom-color: dimgrey;height: 5.3vw;width: 100%;position: fixed;background-color: white;margin-bottom: 5vw;top: 0;z-index: 9999;" id="menuBar">
+            <table style="width: 100%;text-align: center;margin-top: 0.3vw;border-spacing: 0;">
                 <tr>
                     <td style="width: 33%" colspan="4"><strong>Meny</strong></td>
                     <td style="width: 33%;border-left: 2px solid;border-left-color: dimgray;border-right: 2px solid;border-right-color: dimgray" colspan="5"><strong>Filter</strong></td>
@@ -299,7 +299,7 @@
                     <td style="border-left: 2px solid;border-left-color: dimgray;">Vald</td>
                     <td colspan="2">Högskolepoäng</td>
                     <td>Nivå</td>
-                    <td style="border-right: 2px solid;border-right-color: dimgray">Läsperiod</td>
+                    <td style="border-right: 2px solid;border-right-color: dimgray">Läsperiod</td> 
 
                     <td>Högskolepoäng</td>
                     <td>Varav spec</td>
@@ -312,11 +312,43 @@
                     <td></td>
                     <td></td>
 
-                    <td style="border-left: 2px solid;border-left-color: dimgray;"></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td style="border-right: 2px solid;border-right-color: dimgray"></td>
+                    <td style="border-left: 2px solid;border-left-color: dimgray;">
+                        <select name="FilterOnSelected" id="FilterOnSelected" disabled>
+                            <option value="Alla">Alla</option>
+                            <option value="Valda kurser">Valda kurser</option>
+                            <option value="Ej valda kurser">Ej valda kurser</option>
+                        </select>
+                    </td>
+                    <td>
+                        <select name="HP-Method" id="HP-Method" disabled>
+                            <option value="Fler än">Fler än</option>
+                            <option value="Färre än">Färre än</option>
+                            <option value="Lika med">Lika med</option>
+                        </select>
+                    </td>
+                    <td>
+                        <select name="HP-Points" id="HP-Points" disabled>
+                            <option value="0">0</option>
+                            <option value="7.5">7.5</option>
+                            <option value="9">9</option>
+                        </select>
+                    </td>
+                    <td>
+                        <select name="Level" id="Level" disabled>
+                            <option value="Alla">Alla</option>
+                            <option value="G1">G1</option>
+                            <option value="G2">G2</option>
+                            <option value="A">A</option>
+                        </select>
+                    </td>
+                    <td style="border-right: 2px solid;border-right-color: dimgray"> <!-- jsFiddle for good looking multiple select: http://jsfiddle.net/evfnLn0x/ !-->
+                        <select name="Level" id="Level" disabled >
+                            <option value="LP1">LP1</option>
+                            <option value="LP2">LP2</option>
+                            <option value="LP3">LP3</option>
+                            <option value="LP4">LP4</option>
+                        </select>
+                    </td>
 
                     <td id="totalHp">0</td> 
                     <td id="hpSpec">0</td>
@@ -437,11 +469,37 @@
             let program = "";
             let courses = "";
 
+            //Filter values
+            let desireSelected = true;
+            let desiredUnselected = true;
+
 
             //document.querySelectorAll("#SelectProgram")[0];
             console.log(document.querySelectorAll("button[id^='SelectProgram']")[0]);
             document.querySelectorAll("button[id^='SelectProgram']").forEach((item,index) => item.onclick = selectProgram);
             document.getElementById("SpecializationBackButton").onclick = unselectProgram;
+
+            //Testing select functionality
+            document.getElementById("FilterOnSelected").onchange = handleFilterOnSelected;
+
+                function handleFilterOnSelected(){
+                let val = this.value;
+                if (val == "Alla"){
+                    desireSelected = true;
+                    desiredUnselected = true;
+                }
+                else if (val == "Valda kurser"){
+                    desireSelected = true;
+                    desiredUnselected = false;
+                }
+                else {
+                    desireSelected = false;
+                    desiredUnselected = true;
+                }
+                doFilters();
+                //courses.forEach((course,index) => course.domRows.forEach((tr,index1) => tr.childNodes.forEach((td,index2) => td.style.display = 'table-cell')));
+                //setTimeout(doFilters,2500);
+            }
 
 
             function listSpecialization(item, index){
@@ -511,6 +569,7 @@
                 setTimeout(() => cb.style.opacity =1,800);
                 document.getElementById("topText").innerHTML = "Kursval " + program + " - " + specialization;
                 scrollTo(150,0);
+                document.getElementById("FilterOnSelected").disabled = false;
                 //hide speciliazation
                 //turn on opacity for coursesBox
                 //run createTable
@@ -566,7 +625,7 @@
                 if (a.sortNo > b.sortNo) return 1;
                 return -1;
             }
-            
+
             function compareHp(course,desiredVal){
                 if(course.hp == desiredVal)
                     return 0;
@@ -578,13 +637,15 @@
             //En funktion för att tillämpa filter innan dom skrivs ut i tabeller. Filtret hittar det som inte passar
             function doFilters(){
                 //Dessa variabler ska flyttas ut.
-                let desireSelected = true;
-                let desiredUnselected = false;
                 let desiredLevel = 'All'
                 let desiredHp = 0;
                 let desiredComparatorValue = 1;
                 let desiredPeriods = [true, true, true, true];
-                
+                courses.forEach((course,index) => course.domRows.forEach((tr,index1) => tr.childNodes.forEach((td,index2) => td.style.display = 'table-cell')));
+                //Här behövs läggas till så att allt unhideas
+                //courses.forEach((course,index) => course.domRows.forEach((tr,index1) => tr.childNodes.forEach((td,index2) => td.style.display = 'table-cell')));
+                //courses.forEach((course,index) => course.domRows.forEach((tr,index) => tr.style.display = 'table-cell'))
+
                 //Filtret hittar kurser som inte passar användarens inställda filter så att dessa kan döljas
                 let allFilters = ((course,index) => 
                                   !((desireSelected && course.selected == true) || (desiredUnselected && course.selected == false)) || 
@@ -593,17 +654,15 @@
                                   false);
                 coursesToHide = courses.filter(allFilters);
                 console.log(coursesToHide);
-                
-                coursesToHide.forEach((course,index) => course.domRows.forEach((tr,index2) => tr.style.display = 'None'));
-                
-                    //course.level != desiredLevel || //Hittar alla kurser som inte stämmer med önskad nivå
-                    //course.points < desiredPoints || // Tre möjliga svar från comparator -1 mindre, 0 samma, 1 större. Input jämförelsevärde och önskat svar. 
-                     //!(course.period == true && course.period == desiredPeriods[0] || period1.. )
-                
-                
-                
+
+                //coursesToHide.forEach((course,index) => course.domRows.forEach((tr,index2) => tr.style.display = 'None'));
+                coursesToHide.forEach((course,index) => course.domRows.forEach((tr,index2) => tr.childNodes.forEach((td,index3) => td.style.display = 'None')));
+
+                //course.level != desiredLevel || //Hittar alla kurser som inte stämmer med önskad nivå
+                //course.points < desiredPoints || // Tre möjliga svar från comparator -1 mindre, 0 samma, 1 större. Input jämförelsevärde och önskat svar. 
+                //!(course.period == true && course.period == desiredPeriods[0] || period1.. )
+
                 //If no filter enabled, show all
-                
             }
 
 
