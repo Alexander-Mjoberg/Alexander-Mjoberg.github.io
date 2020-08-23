@@ -298,6 +298,65 @@
                 font-family: "Trebuchet MS", Helvetica, sans-serif;
                 font-size: 15px;
             }
+            
+            
+            
+            /* class applies to select element itself, not a wrapper element */
+.select-css {
+	
+	color: #444;
+	padding: .3em 1.8em .3em .8em;
+	max-width: 100%; /* useful when width is set to anything other than 100% */
+	box-sizing: border-box;
+	margin: 0;
+	border: 1px solid #aaa;
+	box-shadow: 0 1px 0 1px rgba(0,0,0,.04);
+	border-radius: 0.4em;
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	appearance: none;
+	background-color: #fff;
+	/* note: bg image below uses 2 urls. The first is an svg data uri for the arrow icon, and the second is the gradient. 
+		for the icon, if you want to change the color, be sure to use `%23` instead of `#`, since it's a url. You can also swap in a different svg icon or an external image reference
+		
+	*/
+		background-repeat: no-repeat, repeat;
+	/* arrow icon position (1em from the right, 50% vertical) , then gradient position*/
+	background-position: right 10% top 50%, 0 0;
+	/* icon size, then gradient */
+	background-size: 25%, 100%;
+}
+/* Hide arrow icon in IE browsers */
+.select-css::-ms-expand {
+	display: none;
+}
+/* Hover style */
+.select-css:hover {
+	border-color: #888;
+}
+/* Focus style */
+.select-css:focus {
+	border-color: #aaa;
+	/* It'd be nice to use -webkit-focus-ring-color here but it doesn't work on box-shadow */
+	box-shadow: 0 0 1px 3px rgba(59, 153, 252, .7);
+	box-shadow: 0 0 0 3px -moz-mac-focusring;
+	color: #222; 
+	outline: none;
+}
+
+/* Set options to normal weight */
+.select-css option {
+	font-weight:normal;
+}
+            .select-css-inactive {
+                background-image: url('resources/C2filterButton.png'),
+	  linear-gradient(to bottom, #F7F4F0 100%,#F7F4F0 100%);
+            }
+
+            .select-css-active {
+                background-image: url('resources/C2filterButton.png'),
+	  linear-gradient(to bottom, #FFFFFF 100%,#FFFFFF 100%);
+            }
 
 
 
@@ -335,14 +394,14 @@
                     <td></td>
 
                     <td style="border-left: 2px solid;border-left-color: dimgray;">
-                        <select name="FilterOnSelected" id="FilterOnSelected" disabled style="border-radius: 0.5">
+                        <select class="select-css select-css-inactive" name="FilterOnSelected" id="FilterOnSelected" disabled style="border-radius: 0.5">
                             <option value="Alla">Alla</option>
                             <option value="Ja">Ja</option>
                             <option value="Nej">Nej</option>
                         </select>
                     </td>
                     <td>
-                                                <select name="HP-Method" id="HP-Method" disabled>
+                                                <select name="HPMethod" id="HPMethod" disabled>
                             <option value="Fler än">Fler än</option>
                             <option value="Färre än">Färre än</option>
                             <option value="Lika med">Lika med</option>
@@ -590,6 +649,8 @@
                 document.getElementById("topText").innerHTML = "Kursval " + program + " - " + specialization;
                 scrollTo(150,0);
                 document.getElementById("FilterOnSelected").disabled = false;
+                document.getElementById("FilterOnSelected").setAttribute('class','select-css select-css-active')
+                document.getElementById("HPMethod").disabled = false
                 //hide speciliazation
                 //turn on opacity for coursesBox
                 //run createTable
