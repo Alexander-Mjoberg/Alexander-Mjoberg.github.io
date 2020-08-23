@@ -276,6 +276,28 @@
                 border-style: solid;
                 font-size: 18;
             }
+            
+            #menuBar {
+                border-bottom-style: solid;
+                border-bottom-color: dimgrey;
+                height: 5.3vw;
+                width: 100%;position: fixed;
+                background-color: #F8F3EA;
+                margin-bottom: 5vw;
+                top: 0;
+                z-index: 9999;
+            }
+            
+            .menuHeader {
+                font-family: Georgia, serif;
+                font-size: 18px;
+                color: #8E5614;
+            }
+            
+            .menuText {
+                font-family: "Trebuchet MS", Helvetica, sans-serif;
+                font-size: 15px;
+            }
 
 
 
@@ -283,28 +305,28 @@
     </head>
 
     <body style="margin: 0">
-        <div style="border-bottom-style: solid;border-bottom-color: dimgrey;height: 5.3vw;width: 100%;position: fixed;background-color: white;margin-bottom: 5vw;top: 0;z-index: 9999;" id="menuBar">
+        <div id="menuBar">
             <table style="width: 100%;text-align: center;margin-top: 0.3vw;border-spacing: 0;">
                 <tr>
-                    <td style="width: 33%" colspan="4"><strong>Meny</strong></td>
-                    <td style="width: 33%;border-left: 2px solid;border-left-color: dimgray;border-right: 2px solid;border-right-color: dimgray" colspan="4"><strong>Filter</strong></td>
-                    <td style="width: 33%" colspan="4"><strong>Poäng-sammanfattning</strong></td>
+                    <td style="width: 33%" colspan="4" class="menuHeader">Meny</td>
+                    <td style="width: 33%;border-left: 2px solid;border-left-color: dimgray;border-right: 2px solid;border-right-color: dimgray" colspan="4" class="menuHeader">Filter</td>
+                    <td style="width: 33%" colspan="4" class="menuHeader">Poäng-sammanfattning</td>
                 </tr>
                 <tr>
-                    <td>Välj program</td>
-                    <td>Excel</td>
-                    <td>Länk</td>
-                    <td>Hjälp</td>
+                    <td class="menuText">Välj program</td>
+                    <td class="menuText">Excel</td>
+                    <td class="menuText">Länk</td>
+                    <td class="menuText">Hjälp</td>
 
-                    <td style="border-left: 2px solid;border-left-color: dimgray;">Vald</td>
-                    <td>Högskolepoäng</td>
-                    <td>Nivå</td>
-                    <td style="border-right: 2px solid;border-right-color: dimgray">Läsperiod</td> 
+                    <td style="border-left: 2px solid;border-left-color: dimgray;" class="menuText">Vald</td>
+                    <td class="menuText">Högskolepoäng</td>
+                    <td class="menuText">Nivå</td>
+                    <td class="menuText" style="border-right: 2px solid;border-right-color: dimgray">Läsperiod</td> 
 
-                    <td>Högskolepoäng</td>
-                    <td>Varav spec</td>
-                    <td>Avancerade poäng</td>
-                    <td>Varav spec</td>
+                    <td class="menuText">Högskolepoäng</td>
+                    <td class="menuText">Varav spec</td>
+                    <td class="menuText">Avancerade poäng</td>
+                    <td class="menuText">Varav spec</td>
                 </tr>
                 <tr>
                     <td></td>
@@ -313,7 +335,7 @@
                     <td></td>
 
                     <td style="border-left: 2px solid;border-left-color: dimgray;">
-                        <select name="FilterOnSelected" id="FilterOnSelected" disabled>
+                        <select name="FilterOnSelected" id="FilterOnSelected" disabled style="border-radius: 0.5">
                             <option value="Alla">Alla</option>
                             <option value="Valda kurser">Valda kurser</option>
                             <option value="Ej valda kurser">Ej valda kurser</option>
