@@ -276,7 +276,7 @@
                 border-style: solid;
                 font-size: 18;
             }
-            
+
             #menuBar {
                 border-bottom-style: solid;
                 border-bottom-color: dimgrey;
@@ -287,75 +287,75 @@
                 top: 0;
                 z-index: 9999;
             }
-            
+
             .menuHeader {
                 font-family: Georgia, serif;
                 font-size: 18px;
                 color: #8E5614;
             }
-            
+
             .menuText {
                 font-family: "Trebuchet MS", Helvetica, sans-serif;
                 font-size: 15px;
             }
-            
-            
-            
-            /* class applies to select element itself, not a wrapper element */
-.select-css {
-	
-	color: #444;
-	padding: .3em 1.8em .3em .8em;
-	max-width: 100%; /* useful when width is set to anything other than 100% */
-	box-sizing: border-box;
-	margin: 0;
-	border: 1px solid #aaa;
-	box-shadow: 0 1px 0 1px rgba(0,0,0,.04);
-	border-radius: 0.4em;
-	-moz-appearance: none;
-	-webkit-appearance: none;
-	appearance: none;
-	background-color: #fff;
-	/* note: bg image below uses 2 urls. The first is an svg data uri for the arrow icon, and the second is the gradient. 
-		for the icon, if you want to change the color, be sure to use `%23` instead of `#`, since it's a url. You can also swap in a different svg icon or an external image reference
-		
-	*/
-		background-repeat: no-repeat, repeat;
-	/* arrow icon position (1em from the right, 50% vertical) , then gradient position*/
-	background-position: right 10% top 50%, 0 0;
-	/* icon size, then gradient */
-	background-size: 25%, 100%;
-}
-/* Hide arrow icon in IE browsers */
-.select-css::-ms-expand {
-	display: none;
-}
-/* Hover style */
-.select-css:hover {
-	border-color: #888;
-}
-/* Focus style */
-.select-css:focus {
-	border-color: #aaa;
-	/* It'd be nice to use -webkit-focus-ring-color here but it doesn't work on box-shadow */
-	box-shadow: 0 0 1px 3px rgba(59, 153, 252, .7);
-	box-shadow: 0 0 0 3px -moz-mac-focusring;
-	color: #222; 
-	outline: none;
-}
 
-/* Set options to normal weight */
-.select-css option {
-	font-weight:normal;
-}
+
+
+            /* class applies to select element itself, not a wrapper element */
+            .select-css {
+
+                color: #444;
+                padding: .3em 1.8em .3em .8em;
+                max-width: 100%; /* useful when width is set to anything other than 100% */
+                box-sizing: border-box;
+                margin: 0;
+                border: 1px solid #aaa;
+                box-shadow: 0 1px 0 1px rgba(0,0,0,.04);
+                border-radius: 0.4em;
+                -moz-appearance: none;
+                -webkit-appearance: none;
+                appearance: none;
+                background-color: #fff;
+                /* note: bg image below uses 2 urls. The first is an svg data uri for the arrow icon, and the second is the gradient. 
+                for the icon, if you want to change the color, be sure to use `%23` instead of `#`, since it's a url. You can also swap in a different svg icon or an external image reference
+
+                */
+                background-repeat: no-repeat, repeat;
+                /* arrow icon position (1em from the right, 50% vertical) , then gradient position*/
+                background-position: right 10% top 50%, 0 0;
+                /* icon size, then gradient */
+                background-size: 25%, 100%;
+            }
+            /* Hide arrow icon in IE browsers */
+            .select-css::-ms-expand {
+                display: none;
+            }
+            /* Hover style */
+            .select-css:hover {
+                border-color: #888;
+            }
+            /* Focus style */
+            .select-css:focus {
+                border-color: #aaa;
+                /* It'd be nice to use -webkit-focus-ring-color here but it doesn't work on box-shadow */
+                box-shadow: 0 0 1px 3px rgba(59, 153, 252, .7);
+                box-shadow: 0 0 0 3px -moz-mac-focusring;
+                color: #222; 
+                outline: none;
+            }
+
+            /* Set options to normal weight */
+            .select-css option {
+                font-weight:normal;
+            }
             .select-css-inactive {
                 background-image: url('resources/C2filterButton.png'),
-	  linear-gradient(to bottom, #F7F4F0 100%,#F7F4F0 100%);
+                    linear-gradient(to bottom, #F7F4F0 100%,#F7F4F0 100%);
             }
 
             .select-css-active {
                 background-image: url('resources/C2filterButton.png'),
-	  linear-gradient(to bottom, #FFFFFF 100%,#FFFFFF 100%);
+                    linear-gradient(to bottom, #FFFFFF 60%,#F8F3EA 95%);
             }
 
 
@@ -394,34 +394,35 @@
                     <td></td>
 
                     <td style="border-left: 2px solid;border-left-color: dimgray;">
-                        <select class="select-css select-css-inactive" name="FilterOnSelected" id="FilterOnSelected" disabled style="border-radius: 0.5">
+                        <select class="select-css select-css-inactive" name="filterOnSelected" id="filterOnSelected" disabled style="border-radius: 0.5">
                             <option value="Alla">Alla</option>
                             <option value="Ja">Ja</option>
                             <option value="Nej">Nej</option>
                         </select>
                     </td>
                     <td>
-                                                <select name="HPMethod" id="HPMethod" disabled>
-                            <option value="Fler än">Fler än</option>
-                            <option value="Färre än">Färre än</option>
-                            <option value="Lika med">Lika med</option>
+                        <select name="filterHPMethod" id="filterHPMethod" disabled>
+                            <option value="More">Fler än</option>
+                            <option value="Less">Färre än</option>
+                            <option value="Equal">Lika med</option>
                         </select>
-                        <select name="HP-Points" id="HP-Points" disabled>
+                        <select name="filterHPPoints" id="filterHPPoints" disabled>
                             <option value="0">0</option>
+                            <option value="3">3</option>
                             <option value="7.5">7.5</option>
                             <option value="9">9</option>
                         </select>
                     </td>
                     <td>
-                        <select name="Level" id="Level" disabled>
-                            <option value="Alla">Alla</option>
+                        <select name="filterLevel" id="filterLevel" disabled>
+                            <option value="All">Alla</option>
                             <option value="G1">G1</option>
                             <option value="G2">G2</option>
                             <option value="A">A</option>
                         </select>
                     </td>
                     <td style="border-right: 2px solid;border-right-color: dimgray"> <!-- jsFiddle for good looking multiple select: http://jsfiddle.net/evfnLn0x/ !-->
-                        <select name="Level" id="Level" disabled >
+                        <select name="filterPeriod" id="filterPeriod" disabled >
                             <option value="LP1">LP1</option>
                             <option value="LP2">LP2</option>
                             <option value="LP3">LP3</option>
@@ -549,31 +550,52 @@
             let courses = "";
 
             //Filter values
+            let filterIds = ["filterOnSelected","filterHPMethod","filterHPPoints","filterLevel"]
             let desireSelected = true;
             let desiredUnselected = true;
+            let desiredComparatorValue = 1;
+            let desiredHp = 0;
+            let desiredLevel = 'All'
 
 
-            //document.querySelectorAll("#SelectProgram")[0];
+            //Assign onclick and onchange functionality
             console.log(document.querySelectorAll("button[id^='SelectProgram']")[0]);
             document.querySelectorAll("button[id^='SelectProgram']").forEach((item,index) => item.onclick = selectProgram);
             document.getElementById("SpecializationBackButton").onclick = unselectProgram;
+            filterIds.forEach((button,index) => document.getElementById(button).onchange = handleFilterOnSelected)
 
-            //Testing select functionality
-            document.getElementById("FilterOnSelected").onchange = handleFilterOnSelected;
-
-                function handleFilterOnSelected(){
+            function handleFilterOnSelected(){
                 let val = this.value;
-                if (val == "Alla"){
-                    desireSelected = true;
-                    desiredUnselected = true;
+                console.log(val)
+                switch(this.id){
+                    case "filterOnSelected":
+                        if (val == "Alla"){
+                        desireSelected = true;
+                        desiredUnselected = true;
                 }
-                else if (val == "Ja"){
-                    desireSelected = true;
-                    desiredUnselected = false;
+                        else if (val == "Ja"){
+                        desireSelected = true;
+                        desiredUnselected = false;
                 }
-                else {
-                    desireSelected = false;
-                    desiredUnselected = true;
+                        else {
+                        desireSelected = false;
+                        desiredUnselected = true;
+                }
+                        break;
+                    case "filterHPMethod":
+                        if (val == "More")
+                            desiredComparatorValue=1;
+                        else if (val == "Less")
+                            desiredComparatorValue=-1;
+                        else
+                            desiredComparatorValue=0;
+                    break;
+                    case "filterHPPoints":
+                        desiredHp = val;
+                        break;
+                    case "filterLevel":
+                        desiredLevel = val;
+                        break;
                 }
                 doFilters();
                 //courses.forEach((course,index) => course.domRows.forEach((tr,index1) => tr.childNodes.forEach((td,index2) => td.style.display = 'table-cell')));
@@ -648,9 +670,8 @@
                 setTimeout(() => cb.style.opacity =1,800);
                 document.getElementById("topText").innerHTML = "Kursval " + program + " - " + specialization;
                 scrollTo(150,0);
-                document.getElementById("FilterOnSelected").disabled = false;
-                document.getElementById("FilterOnSelected").setAttribute('class','select-css select-css-active')
-                document.getElementById("HPMethod").disabled = false
+                document.getElementById("filterOnSelected").setAttribute('class','select-css select-css-active')
+                filterIds.forEach((filter,index) => document.getElementById(filter).disabled = false);
                 //hide speciliazation
                 //turn on opacity for coursesBox
                 //run createTable
@@ -717,9 +738,6 @@
             //En funktion för att tillämpa filter innan dom skrivs ut i tabeller. Filtret hittar det som inte passar
             function doFilters(){
                 //Dessa variabler ska flyttas ut.
-                let desiredLevel = 'All'
-                let desiredHp = 0;
-                let desiredComparatorValue = 1;
                 let desiredPeriods = [true, true, true, true];
                 courses.forEach((course,index) => course.domRows.forEach((tr,index1) => tr.childNodes.forEach((td,index2) => td.style.display = 'table-cell')));
                 //Här behövs läggas till så att allt unhideas
