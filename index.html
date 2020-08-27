@@ -209,7 +209,7 @@
                 margin: 1.5vw;
                 border-radius: 0.5vw;
                 text-align: center;
-                margin-top: 10vw
+                margin-top: 20vh;
             }
 
             .innerBox {
@@ -305,79 +305,93 @@
 
     <body style="margin: 0">
         <div id="menuBar">
-            <div style="padding-bottom: 0.5vh;">
-            <table style="width: 100%;text-align: center;margin-top: 0.3vw;border-spacing: 0;">
-                <tr>
-                    <td style="width: 33%" colspan="4" class="menuHeader">Meny</td>
-                    <td style="width: 33%;border-left: 2px solid;border-left-color: dimgray;border-right: 2px solid;border-right-color: dimgray" colspan="4" class="menuHeader">Filter</td>
-                    <td style="width: 33%" colspan="4" class="menuHeader">Poäng-sammanfattning</td>
-                </tr>
-                <tr>
-                    <td class="menuText">Välj program</td>
-                    <td class="menuText">Excel</td>
-                    <td class="menuText">Länk</td>
-                    <td class="menuText">Hjälp</td>
+            <div style="padding-bottom: 0.5vh;border-bottom-style: solid;border-bottom-color: dimgrey;border-bottom-width: 1px ">
+                <table style="width: 100%;text-align: center;margin-top: 0.3vw;border-spacing: 0;">
+                    <tr>
+                        <td style="width: 33%" colspan="4" class="menuHeader">Meny</td>
+                        <td style="width: 33%;border-left: 2px solid;border-left-color: dimgray;border-right: 2px solid;border-right-color: dimgray" colspan="4" class="menuHeader">Filter</td>
+                        
+                    </tr>
+                    <tr>
+                        <td class="menuText">Välj program</td>
+                        <td class="menuText">Excel</td>
+                        <td class="menuText">Länk</td>
+                        <td class="menuText">Hjälp</td>
 
-                    <td style="border-left: 2px solid;border-left-color: dimgray;" class="menuText">Vald</td>
-                    <td class="menuText">Högskolepoäng</td>
-                    <td class="menuText">Nivå</td>
-                    <td class="menuText" style="border-right: 2px solid;border-right-color: dimgray">Läsperiod</td> 
+                        <td style="border-left: 2px solid;border-left-color: dimgray;" class="menuText">Vald</td>
+                        <td class="menuText">Högskolepoäng</td>
+                        <td class="menuText">Nivå</td>
+                        <td class="menuText">Läsperiod</td> 
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
 
-                    <td class="menuText">Högskolepoäng</td>
-                    <td class="menuText">Varav spec</td>
-                    <td class="menuText">Avancerade poäng</td>
-                    <td class="menuText">Varav spec</td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-
-                    <td style="border-left: 2px solid;border-left-color: dimgray;">
-                        <select name="filterOnSelected" id="filterOnSelected" disabled style="border-radius: 0.5">
-                            <option value="Alla">Alla</option>
-                            <option value="Ja">Ja</option>
-                            <option value="Nej">Nej</option>
-                        </select>
-                    </td>
-                    <td>
-                        <select name="filterHPMethod" id="filterHPMethod" disabled>
-                            <option value="More">Fler än</option>
-                            <option value="Less">Färre än</option>
-                            <option value="Equal">Lika med</option>
-                        </select>
-                        <select name="filterHPPoints" id="filterHPPoints" disabled>
-                            <option value="0">0</option>
-                            <option value="3">3</option>
-                            <option value="7.5">7.5</option>
-                            <option value="9">9</option>
-                        </select>
-                    </td>
-                    <td>
-                        <select name="filterLevel" id="filterLevel" disabled>
-                            <option value="All">Alla</option>
-                            <option value="G1">G1</option>
-                            <option value="G2">G2</option>
-                            <option value="A">A</option>
-                        </select>
-                    </td>
-                    <td style="border-right: 2px solid;border-right-color: dimgray"> <!-- jsFiddle for good looking multiple select: http://jsfiddle.net/evfnLn0x/ !-->
-                        <select name="filterPeriod" id="filterPeriod" disabled >
-                            <option value="LP1">LP1</option>
-                            <option value="LP2">LP2</option>
-                            <option value="LP3">LP3</option>
-                            <option value="LP4">LP4</option>
-                        </select>
-                    </td>
-
-                    <td id="totalHp">0</td> 
-                    <td id="hpSpec">0</td>
-                    <td id="totalAp">0</td>
-                    <td id="apSpec">0</td>
-                </tr>
-            </table>
-                </div>
+                        <td style="border-left: 2px solid;border-left-color: dimgray;">
+                            <select name="filterOnSelected" id="filterOnSelected" disabled style="border-radius: 0.5">
+                                <option value="Alla">Alla kurser</option>
+                                <option value="Ja">Valda kurser</option>
+                                <option value="Nej">Ej valda kurser</option>
+                            </select>
+                        </td>
+                        <td>
+                            <select name="filterHPMethod" id="filterHPMethod" disabled>
+                                <option value="More">Fler än</option>
+                                <option value="Less">Färre än</option>
+                                <option value="Equal">Lika med</option>
+                            </select>
+                            <select name="filterHPPoints" id="filterHPPoints" disabled>
+                                <option value="0">0</option>
+                                <option value="3">3</option>
+                                <option value="7.5">7.5</option>
+                                <option value="9">9</option>
+                            </select>
+                        </td>
+                        <td>
+                            <select name="filterLevel" id="filterLevel" disabled>
+                                <option value="All">Alla</option>
+                                <option value="G1">G1</option>
+                                <option value="G2">G2</option>
+                                <option value="A">A</option>
+                            </select>
+                        </td>
+                        <td > <!-- jsFiddle for good looking multiple select: http://jsfiddle.net/evfnLn0x/ !-->
+                            <select name="filterPeriod" id="filterPeriod" disabled >
+                                <option value="LP1">LP1</option>
+                                <option value="LP2">LP2</option>
+                                <option value="LP3">LP3</option>
+                                <option value="LP4">LP4</option>
+                            </select>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div>
+                <table style="width:100%;text-align: center">
+                    <tr>
+                        <td class="menuText">Högskolepoäng</td>
+                        <td class="menuText">Varav spec</td>
+                        <td class="menuText">Avancerade poäng</td>
+                        <td class="menuText">Varav spec</td>
+                        
+                        <td class="menuText">LP1</td>
+                        <td class="menuText">LP2</td>
+                        <td class="menuText">LP3</td>
+                        <td class="menuText">LP4</td>
+                        
+                        <td class="menuText" colspan="3">Specialisering</td>
+                        <td class="menuText"> Poäng</td>
+                    </tr>
+                    <tr>
+                        <td id="totalHp">0</td> 
+                        <td id="hpSpec">0</td>
+                        <td id="totalAp">0</td>
+                        <td id="apSpec">0</td>
+                    </tr>
+                </table>
+            </div>
 
         </div>
         <div class="outerBox" >
@@ -483,6 +497,9 @@
                 </div>
             </div>
         </div>
+        <div>
+            
+        </div>
 
         <script src="courseData/allSpecializations.txt"></script>
         <script src="courseData/allCourses.txt"></script>
@@ -513,17 +530,17 @@
                 switch(this.id){
                     case "filterOnSelected":
                         if (val == "Alla"){
-                        desireSelected = true;
-                        desiredUnselected = true;
-                }
+                            desireSelected = true;
+                            desiredUnselected = true;
+                        }
                         else if (val == "Ja"){
-                        desireSelected = true;
-                        desiredUnselected = false;
-                }
+                            desireSelected = true;
+                            desiredUnselected = false;
+                        }
                         else {
-                        desireSelected = false;
-                        desiredUnselected = true;
-                }
+                            desireSelected = false;
+                            desiredUnselected = true;
+                        }
                         break;
                     case "filterHPMethod":
                         if (val == "More")
@@ -532,7 +549,7 @@
                             desiredComparatorValue=-1;
                         else
                             desiredComparatorValue=0;
-                    break;
+                        break;
                     case "filterHPPoints":
                         desiredHp = val;
                         break;
