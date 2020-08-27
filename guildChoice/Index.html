@@ -14,6 +14,10 @@
                 margin: 0;
             }
 
+            h3 {
+                font-size:1.5em;
+            }
+
             .button {
                 border: none;
                 border-radius: 8px;
@@ -205,10 +209,12 @@
                 margin: 1.5vw;
                 border-radius: 0.5vw;
                 text-align: center;
+                margin-top: 10vw
             }
 
             .innerBox {
                 padding: 2.5vw 1vw;
+
             }
 
             .specializationOptions {
@@ -234,18 +240,154 @@
                 cursor: pointer;
             }
 
+            /* Kurstabell */
+            .courseTable {
+                text-align: center;
+                border-spacing: 4px;
+                margin: 0 auto;
+            }
+
+            /* Headers på kurstabell - Test med fetare */
+            .courseTableHeaderCell {
+                background-color: #C6A882;
+                border: 1px solid #EBE5D8;
+                padding: 4px;
+                font-size: 18px;
+            }
+
+            /* Headers på kurstabell */
+            .courseTableHeaderCell1 {
+                background-color: #C6A882;
+                border: 1px solid #EBE5D8;
+                padding: 4px;
+            }
+
+            /* Ljusa celler på kurstabell */
+            .courseTableCellLight {
+                border-color: #EBE5D8;
+                border-style: solid;
+                font-size: 18;
+            }
+
+            /* Mörka celler på kurstabell */
+            .courseTableCellDark {
+                background-color: #EBE5D8;
+                border-color: #EBE5D8;
+                border-style: solid;
+                font-size: 18;
+            }
+
+            #menuBar {
+                border-bottom-style: solid;
+                border-bottom-color: dimgrey;
+                padding-bottom: 0.5vh;
+                width: 100%;position: fixed;
+                background-color: #F8F3EA;
+                margin-bottom: 5vw;
+                top: 0;
+                z-index: 9999;
+            }
+
+            .menuHeader {
+                font-family: Georgia, serif;
+                font-size: 18px;
+                color: #8E5614;
+            }
+
+            .menuText {
+                font-family: "Trebuchet MS", Helvetica, sans-serif;
+                font-size: 15px;
+            }
 
 
         </style>
     </head>
 
-    <body>        
+    <body style="margin: 0">
+        <div id="menuBar">
+            <div style="padding-bottom: 0.5vh;">
+            <table style="width: 100%;text-align: center;margin-top: 0.3vw;border-spacing: 0;">
+                <tr>
+                    <td style="width: 33%" colspan="4" class="menuHeader">Meny</td>
+                    <td style="width: 33%;border-left: 2px solid;border-left-color: dimgray;border-right: 2px solid;border-right-color: dimgray" colspan="4" class="menuHeader">Filter</td>
+                    <td style="width: 33%" colspan="4" class="menuHeader">Poäng-sammanfattning</td>
+                </tr>
+                <tr>
+                    <td class="menuText">Välj program</td>
+                    <td class="menuText">Excel</td>
+                    <td class="menuText">Länk</td>
+                    <td class="menuText">Hjälp</td>
+
+                    <td style="border-left: 2px solid;border-left-color: dimgray;" class="menuText">Vald</td>
+                    <td class="menuText">Högskolepoäng</td>
+                    <td class="menuText">Nivå</td>
+                    <td class="menuText" style="border-right: 2px solid;border-right-color: dimgray">Läsperiod</td> 
+
+                    <td class="menuText">Högskolepoäng</td>
+                    <td class="menuText">Varav spec</td>
+                    <td class="menuText">Avancerade poäng</td>
+                    <td class="menuText">Varav spec</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+
+                    <td style="border-left: 2px solid;border-left-color: dimgray;">
+                        <select name="filterOnSelected" id="filterOnSelected" disabled style="border-radius: 0.5">
+                            <option value="Alla">Alla</option>
+                            <option value="Ja">Ja</option>
+                            <option value="Nej">Nej</option>
+                        </select>
+                    </td>
+                    <td>
+                        <select name="filterHPMethod" id="filterHPMethod" disabled>
+                            <option value="More">Fler än</option>
+                            <option value="Less">Färre än</option>
+                            <option value="Equal">Lika med</option>
+                        </select>
+                        <select name="filterHPPoints" id="filterHPPoints" disabled>
+                            <option value="0">0</option>
+                            <option value="3">3</option>
+                            <option value="7.5">7.5</option>
+                            <option value="9">9</option>
+                        </select>
+                    </td>
+                    <td>
+                        <select name="filterLevel" id="filterLevel" disabled>
+                            <option value="All">Alla</option>
+                            <option value="G1">G1</option>
+                            <option value="G2">G2</option>
+                            <option value="A">A</option>
+                        </select>
+                    </td>
+                    <td style="border-right: 2px solid;border-right-color: dimgray"> <!-- jsFiddle for good looking multiple select: http://jsfiddle.net/evfnLn0x/ !-->
+                        <select name="filterPeriod" id="filterPeriod" disabled >
+                            <option value="LP1">LP1</option>
+                            <option value="LP2">LP2</option>
+                            <option value="LP3">LP3</option>
+                            <option value="LP4">LP4</option>
+                        </select>
+                    </td>
+
+                    <td id="totalHp">0</td> 
+                    <td id="hpSpec">0</td>
+                    <td id="totalAp">0</td>
+                    <td id="apSpec">0</td>
+                </tr>
+            </table>
+                </div>
+
+        </div>
         <div class="outerBox" >
-            <div class="innerBox">
-                <h2>
-                    Kursval specialisering LTH
-                </h2>
-                <p style="font-size: 20;"><em>Den här sidan kan du ta hjälp av för att planera vilka kurser du ska läsa i specialiseringen. Obs! Under uppbyggnad</em></p>
+            <div class="innerBox" id="innerBox">
+                <div id="welcomeText">
+                    <h2 id="topText">Kursval specialisering LTH</h2>
+                    <p style="font-size: 20;"><em>Den här sidan kan du ta hjälp av för att planera vilka kurser du ska läsa i specialiseringen. Obs! Under uppbyggnad</em></p>
+                </div>
+                <div id="courseBox" style="display: none"></div>
+
                 <div id="programTable" style="transition: opacity 1s ease-out;transition: opacity 0.6s ease-in">
                     <table style="border-spacing:7.5vw 0;text-align: center;padding-top: 3vw"  >
                         <tr>
@@ -343,15 +485,65 @@
         </div>
 
         <script src="courseData/allSpecializations.txt"></script>
+        <script src="courseData/allCourses.txt"></script>
         <script type="text/javascript">
-            let Specializations = ['']
+            let specializations = ['']
+            let specialization = "";
             let program = "";
+            let courses = "";
+
+            //Filter values
+            let filterIds = ["filterOnSelected","filterHPMethod","filterHPPoints","filterLevel"]
+            let desireSelected = true;
+            let desiredUnselected = true;
+            let desiredComparatorValue = 1;
+            let desiredHp = 0;
+            let desiredLevel = 'All'
 
 
-            //document.querySelectorAll("#SelectProgram")[0];
+            //Assign onclick and onchange functionality
             console.log(document.querySelectorAll("button[id^='SelectProgram']")[0]);
             document.querySelectorAll("button[id^='SelectProgram']").forEach((item,index) => item.onclick = selectProgram);
             document.getElementById("SpecializationBackButton").onclick = unselectProgram;
+            filterIds.forEach((button,index) => document.getElementById(button).onchange = handleFilterOnSelected)
+
+            function handleFilterOnSelected(){
+                let val = this.value;
+                console.log(val)
+                switch(this.id){
+                    case "filterOnSelected":
+                        if (val == "Alla"){
+                        desireSelected = true;
+                        desiredUnselected = true;
+                }
+                        else if (val == "Ja"){
+                        desireSelected = true;
+                        desiredUnselected = false;
+                }
+                        else {
+                        desireSelected = false;
+                        desiredUnselected = true;
+                }
+                        break;
+                    case "filterHPMethod":
+                        if (val == "More")
+                            desiredComparatorValue=1;
+                        else if (val == "Less")
+                            desiredComparatorValue=-1;
+                        else
+                            desiredComparatorValue=0;
+                    break;
+                    case "filterHPPoints":
+                        desiredHp = val;
+                        break;
+                    case "filterLevel":
+                        desiredLevel = val;
+                        break;
+                }
+                doFilters();
+                //courses.forEach((course,index) => course.domRows.forEach((tr,index1) => tr.childNodes.forEach((td,index2) => td.style.display = 'table-cell')));
+                //setTimeout(doFilters,2500);
+            }
 
 
             function listSpecialization(item, index){
@@ -364,6 +556,7 @@
                 specButton.setAttribute('class','button buttonSpecUnpressed');
                 specButton.textContent = item;
                 specButton.setAttribute('id',item);
+                specButton.onclick = selectSpecialiazation;
                 body.appendChild(rowDiv);
                 rowDiv.appendChild(specButton)
             }
@@ -377,8 +570,8 @@
                 pt.style.opacity=0;
                 setTimeout(showSpecializations, 1000)
                 document.getElementById("SpecializationSelector").style.display = 'Flex';
-                Specializations = specializationDict[program];
-                Specializations.forEach(listSpecialization);
+                specializations = specializationDict[program];
+                specializations.forEach(listSpecialization);
             }
 
 
@@ -388,6 +581,7 @@
                 document.getElementById("SpecializationSelector").style.opacity = 0;
                 setTimeout(() => pt.style.display ='block',780);
                 setTimeout(hideSpecializations, 800);
+                setTimeout(() => pt.style.opacity =1,800);
             }
 
             function showSpecializations(){
@@ -395,16 +589,197 @@
                 //document.getElementById("SpecializationSelector").style.display = 'Flex';
                 document.getElementById("SpecializationSelector").style.opacity = 1;
             }
-            
+
+            //Hide specc show pt
             function hideSpecializations(){
                 let scc = document.getElementById("SpecializationCenteredColumn");
                 let cn = scc.childNodes;
-                console.log(cn);
                 while(scc.childNodes.length>0){
                     cn.forEach((item,index)=> scc.removeChild(item));
                 }
-                pt.style.opacity =1;
                 document.getElementById("SpecializationSelector").style.display = 'none';
+            }
+
+            function selectSpecialiazation(){
+                specialization = this.id;
+                cb = document.getElementById("courseBox");
+                document.getElementById("SpecializationSelector").style.opacity = 0;
+                courses = courseDict[program];
+                specializations.push('Valfria kurser');
+                specializations.push('Externt valfria kurser');
+                specializations.forEach(spec => tableCreate(spec))
+                setTimeout(() => cb.style.display ='block',780);
+                setTimeout(hideSpecializations, 800);
+                setTimeout(() => cb.style.opacity =1,800);
+                document.getElementById("topText").innerHTML = "Kursval " + program + " - " + specialization;
+                scrollTo(150,0);
+                filterIds.forEach((filter,index) => document.getElementById(filter).disabled = false);
+                //hide speciliazation
+                //turn on opacity for coursesBox
+                //run createTable
+
+
+            }
+            //Code from index
+            function updateCounters() {
+                //Skapa filter för att beräkna antal poäng
+                let filterTotal = (course => course.selected);
+                let filterTotalSpec = (course => course.selected && course.specialization.includes(specialization));
+                let filterAdvanced = (course => course.selected && (course.level=="A"));
+                let filterAdvancedSpec = (course => course.selected && (course.level=="A") && course.specialization.includes(specialization));
+
+                //Summera poäng med hjälp av filter, uppdatera på sidan
+                document.getElementById("totalHp").innerHTML = courses.filter(course => course.selected).map(x => x.hp).reduce((total, amount) => total + amount, 0);
+                document.getElementById("hpSpec").innerHTML = courses.filter(filterTotalSpec).map(x => x.hp).reduce((total, amount) => total + amount, 0);
+                document.getElementById("totalAp").innerHTML = courses.filter(filterAdvanced).map(x => x.hp).reduce((total, amount) => total + amount, 0);
+                document.getElementById("apSpec").innerHTML = courses.filter(filterAdvancedSpec).map(x => x.hp).reduce((total, amount) => total + amount, 0);
+
+                //Green checkmark if enough points
+            }
+
+            function textifyCourse(course){
+                let textToShow = [];
+                textToShow[0] = course.selected ? "✓" : "";
+                textToShow[1] = course.code;
+                textToShow[2] = course.name;
+                textToShow[3] = course.hp;
+                textToShow[4] = course.level;
+                textToShow[5] = course.lp1 ? "✓" : "";
+                textToShow[6] = course.lp2 ? "✓" : "";
+                textToShow[7] = course.lp3 ? "✓" : "";
+                textToShow[8] = course.lp4 ? "✓" : "";
+                return textToShow;
+            }
+
+            //
+            function onCourseSelected(){
+                console.log(this.id)
+                //Invertera selection
+                let id = this.id;
+                let course = courses.find(searchCourse => searchCourse.code == id);
+                course.selected = !course.selected;
+                //Räkna om kurser
+                updateCounters();
+                course.domCheckboxes.forEach((box,index) => box.checked = course.selected);
+            }
+
+
+            function compareSortValue(a, b) {
+                if (a.sortNo > b.sortNo) return 1;
+                return -1;
+            }
+
+            function compareHp(course,desiredVal){
+                if(course.hp == desiredVal)
+                    return 0;
+                else if (course.hp > desiredVal)
+                    return 1;
+                return -1;
+            }
+
+            //En funktion för att tillämpa filter innan dom skrivs ut i tabeller. Filtret hittar det som inte passar
+            function doFilters(){
+                //Dessa variabler ska flyttas ut.
+                let desiredPeriods = [true, true, true, true];
+                courses.forEach((course,index) => course.domRows.forEach((tr,index1) => tr.childNodes.forEach((td,index2) => td.style.display = 'table-cell')));
+                //Här behövs läggas till så att allt unhideas
+                //courses.forEach((course,index) => course.domRows.forEach((tr,index1) => tr.childNodes.forEach((td,index2) => td.style.display = 'table-cell')));
+                //courses.forEach((course,index) => course.domRows.forEach((tr,index) => tr.style.display = 'table-cell'))
+
+                //Filtret hittar kurser som inte passar användarens inställda filter så att dessa kan döljas
+                let allFilters = ((course,index) => 
+                                  !((desireSelected && course.selected == true) || (desiredUnselected && course.selected == false)) || 
+                                  course.level != desiredLevel && desiredLevel != 'All' ||
+                                  !(compareHp(course,desiredHp) == desiredComparatorValue) ||
+                                  false);
+                coursesToHide = courses.filter(allFilters);
+                console.log(coursesToHide);
+
+                //coursesToHide.forEach((course,index) => course.domRows.forEach((tr,index2) => tr.style.display = 'None'));
+                coursesToHide.forEach((course,index) => course.domRows.forEach((tr,index2) => tr.childNodes.forEach((td,index3) => td.style.display = 'None')));
+
+                //course.level != desiredLevel || //Hittar alla kurser som inte stämmer med önskad nivå
+                //course.points < desiredPoints || // Tre möjliga svar från comparator -1 mindre, 0 samma, 1 större. Input jämförelsevärde och önskat svar. 
+                //!(course.period == true && course.period == desiredPeriods[0] || period1.. )
+
+                //If no filter enabled, show all
+            }
+
+
+            function tableCreate(spec) {
+                //add h3 text
+                let h3=document.createElement("h3");
+                h3.innerHTML = spec;
+
+
+                //body reference 
+                let body = document.getElementById("courseBox");
+                //Add h3 text
+                body.appendChild(h3);
+
+                // create elements <table> and a <tbody>
+                let tbl = document.createElement("table");
+                let tblBody = document.createElement("tbody");
+                tbl.setAttribute('class', 'courseTable')
+
+                //Header creation
+                let header = ['Vald','Kurskod','Kursnamn','Högskolepoäng','Nivå','LP1','LP2','LP3','LP4'];
+                let headerRow = tblBody.insertRow(-1);
+                for (var i = 0; i < header.length; i++) {
+                    let headerCell = document.createElement("TH");
+                    headerCell.setAttribute('class', 'courseTableHeaderCell')
+                    headerCell.innerHTML = header[i];
+                    i==2 ? headerCell.setAttribute('width','350') : '';
+                    headerRow.appendChild(headerCell);
+                }
+
+                //Filter out courses per specialiazation
+                let filterSpecGroup = (course => course.specialization.includes(spec));
+                let specCourses = courses.filter(filterSpecGroup);
+                specCourses = specCourses.sort(compareSortValue);
+
+                // cells creation
+                for (var j = 0; j < specCourses.length; j++) {
+                    let course = specCourses[j];
+                    // table row creation
+                    var row = document.createElement("tr");
+                    let courseToText = textifyCourse(course);
+
+                    for (var i = 0; i < courseToText.length; i++) {
+                        // create element <td> and text node 
+                        //Make text node the contents of <td> element
+                        // put <td> at end of the table row
+                        let cell = document.createElement("td");
+                        cell.setAttribute('class', ((j%2) ? 'courseTableCellLight' : 'courseTableCellDark'));
+                        let cellText = document.createTextNode(courseToText[i]);
+                        if (i==0){
+                            let box = document.createElement("input");
+                            box.setAttribute("type", "checkbox");
+                            //Sätta checked som default
+                            //x.setAttribute('checked','');
+                            //Ge boxen ett ID som består av kurskod+specialisering plats i array av specialisering
+                            box.setAttribute("id", courseToText[1])
+                            box.onclick = onCourseSelected;
+                            cell.appendChild(box);
+                            course.domCheckboxes.push(box);
+                        }
+                        else {
+                            cell.appendChild(cellText);
+                        }
+
+                        row.appendChild(cell);
+                    }
+                    //row added to end of table body
+                    tblBody.appendChild(row);
+                    course.domRows.push(row);
+                }
+
+                // append the <tbody> inside the <table>
+                tbl.appendChild(tblBody);
+                // put <table> in the <body>
+                body.appendChild(tbl);
+                // tbl border attribute to 
+                //tbl.setAttribute("border", "2");
             }
 
 
