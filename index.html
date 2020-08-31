@@ -310,7 +310,7 @@
                     <tr>
                         <td style="width: 33%" colspan="4" class="menuHeader">Meny</td>
                         <td style="width: 33%;border-left: 2px solid;border-left-color: dimgray;border-right: 2px solid;border-right-color: dimgray" colspan="4" class="menuHeader">Filter</td>
-                        
+
                     </tr>
                     <tr>
                         <td class="menuText">Välj program</td>
@@ -375,12 +375,12 @@
                         <td class="menuText">Varav spec</td>
                         <td class="menuText">Avancerade poäng</td>
                         <td class="menuText">Varav spec</td>
-                        
+
                         <td class="menuText">LP1</td>
                         <td class="menuText">LP2</td>
                         <td class="menuText">LP3</td>
                         <td class="menuText">LP4</td>
-                        
+
                         <td class="menuText" colspan="3">Specialisering</td>
                         <td class="menuText"> Poäng</td>
                     </tr>
@@ -498,7 +498,7 @@
             </div>
         </div>
         <div>
-            
+
         </div>
 
         <script src="courseData/allSpecializations.txt"></script>
@@ -650,9 +650,30 @@
                 document.getElementById("hpSpec").innerHTML = courses.filter(filterTotalSpec).map(x => x.hp).reduce((total, amount) => total + amount, 0);
                 document.getElementById("totalAp").innerHTML = courses.filter(filterAdvanced).map(x => x.hp).reduce((total, amount) => total + amount, 0);
                 document.getElementById("apSpec").innerHTML = courses.filter(filterAdvancedSpec).map(x => x.hp).reduce((total, amount) => total + amount, 0);
-
+                countPointsPerSpecialization();
                 //Green checkmark if enough points
             }
+
+            function countPointsPerSpecialization() {
+                //Räkna poäng för varje vald kurs per specialisering
+                let specializationDict = {};
+                specializations.forEach((spec,index) => specializationDict[spec] = 0);
+                selectedCourses = courses.filter(course => course.selected)
+                selectedCourses.forEach((course,index) => course.specialization.forEach((spec,index) => specializationDict[spec] += course.hp))
+                //Ta bort valfria valfria kurser från räkningen
+                delete specializationDict['Externt valfria kurser']
+                delete specializationDict['Valfria kurser']
+                //Gör om till lista och sortera.
+                let items = Object.keys( specializationDict).map(function(key) {
+                    return [key, specializationDict[key]];
+                });
+                items.sort(function(first, second) {
+                    return second[1] - first[1];
+                });
+                console.log(items.slice(0, 5));
+            }
+
+
 
             function textifyCourse(course){
                 let textToShow = [];
