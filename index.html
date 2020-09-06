@@ -504,6 +504,8 @@
         <script src="courseData/allSpecializations.txt"></script>
         <script src="courseData/allCourses.txt"></script>
         <script type="text/javascript">
+            
+            //Global variable declarations
             let specializations = ['']
             let specialization = "";
             let program = "";
@@ -526,7 +528,6 @@
 
             function handleFilterOnSelected(){
                 let val = this.value;
-                console.log(val)
                 switch(this.id){
                     case "filterOnSelected":
                         if (val == "Alla"){
@@ -607,7 +608,7 @@
                 document.getElementById("SpecializationSelector").style.opacity = 1;
             }
 
-            //Hide specc show pt
+            //Hide specialiazation & show programtable
             function hideSpecializations(){
                 let scc = document.getElementById("SpecializationCenteredColumn");
                 let cn = scc.childNodes;
@@ -633,20 +634,16 @@
                 filterIds.forEach((filter,index) => document.getElementById(filter).disabled = false);
                 //hide speciliazation
                 //turn on opacity for coursesBox
-                //run createTable
-
-
             }
-            //Code from index
+            
             function updateCounters() {
                 //Skapa filter för att beräkna antal poäng
                 let filterTotal = (course => course.selected);
                 let filterTotalSpec = (course => course.selected && course.specialization.includes(specialization));
                 let filterAdvanced = (course => course.selected && (course.level=="A"));
                 let filterAdvancedSpec = (course => course.selected && (course.level=="A") && course.specialization.includes(specialization));
-
                 //Summera poäng med hjälp av filter, uppdatera på sidan
-                document.getElementById("totalHp").innerHTML = courses.filter(course => course.selected).map(x => x.hp).reduce((total, amount) => total + amount, 0);
+                document.getElementById("totalHp").innerHTML = courses.filter(filterTotal).map(x => x.hp).reduce((total, amount) => total + amount, 0);
                 document.getElementById("hpSpec").innerHTML = courses.filter(filterTotalSpec).map(x => x.hp).reduce((total, amount) => total + amount, 0);
                 document.getElementById("totalAp").innerHTML = courses.filter(filterAdvanced).map(x => x.hp).reduce((total, amount) => total + amount, 0);
                 document.getElementById("apSpec").innerHTML = courses.filter(filterAdvancedSpec).map(x => x.hp).reduce((total, amount) => total + amount, 0);
@@ -654,6 +651,7 @@
                 //Green checkmark if enough points
             }
 
+            //This function calculates the 5 specializations in which the user has most points.
             function countPointsPerSpecialization() {
                 //Räkna poäng för varje vald kurs per specialisering
                 let specializationDict = {};
@@ -672,13 +670,33 @@
                 });
                 console.log(items.slice(0, 5));
             }
-            
-            function organizeCourseByPeriod(){
-                let lp1Queue = [];
-                let lp2Queue = [];
-                let lp3Queue = [];
-                let lp4Queue = [];
+
+            //This function creates queues for printing a schedule. Format is [points, colspan] where points is the amount of points for course, and colspan is the amount of periods to cover. 
+            function organizeCoursesByPeriod(){
+                let lpQueues = [ [], [], [], [] ];
                 selectedCourses = courses.filter(course => course.selected)
+                selectedCourses.forEach((course,index) => {
+                    let coursePeriods = [course.lp1, course.lp2, course.lp3, course.lp4];
+                    let found = false;
+                    let foundCourse = [course.hp,1];
+                    for (let i = 0; i < 4; i++){
+                        if (coursePeriods[i] == true && found ){ //Case for skipping cell by setting points to 0, make colspan longer to cover the period.
+                            lpQueues[i].push([0,1]) //
+                            foundCourse[1]++;
+                        }
+                        else if (coursePeriods[i] == true){ //Case for first period the course is found in, create cell of length one
+                            lpQueues[i].push(foundCourse); 
+                            found = true;
+                        }
+                    }
+                })
+                let nbrOfRows = [lpQueues[0].length,lpQueues[1].length,lpQueues[2].length,lpQueues[3].length].reduce((a,b) => Math.max(a,b)); //Find the longest queue and set it to number of rows.
+                return lpQueues;
+            }
+            
+            function printCoursesOrganizedByPeriod(){
+                let lpQueues = organizeCoursesByPeriod();
+                
             }
 
 
@@ -699,7 +717,6 @@
 
             //
             function onCourseSelected(){
-                console.log(this.id)
                 //Invertera selection
                 let id = this.id;
                 let course = courses.find(searchCourse => searchCourse.code == id);
@@ -739,7 +756,7 @@
                                   !(compareHp(course,desiredHp) == desiredComparatorValue) ||
                                   false);
                 coursesToHide = courses.filter(allFilters);
-                console.log(coursesToHide);
+                
 
                 //coursesToHide.forEach((course,index) => course.domRows.forEach((tr,index2) => tr.style.display = 'None'));
                 coursesToHide.forEach((course,index) => course.domRows.forEach((tr,index2) => tr.childNodes.forEach((td,index3) => td.style.display = 'None')));
