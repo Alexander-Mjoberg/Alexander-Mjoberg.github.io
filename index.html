@@ -298,6 +298,12 @@
                 font-family: "Trebuchet MS", Helvetica, sans-serif;
                 font-size: 15px;
             }
+            
+            #statBand {
+                margin: 3vh -2.0vw;
+                background-color: aqua;
+                width: 95vw;
+            }
 
 
         </style>
@@ -401,6 +407,10 @@
                     <p style="font-size: 20;"><em>Den här sidan kan du ta hjälp av för att planera vilka kurser du ska läsa i specialiseringen. Obs! Under uppbyggnad</em></p>
                 </div>
                 <div id="courseBox" style="display: none"></div>
+                <div id="statistics">
+                    <p id="StatBand">Statistik över dina val</p>
+                        
+                </div>
 
                 <div id="programTable" style="transition: opacity 1s ease-out;transition: opacity 0.6s ease-in">
                     <table style="border-spacing:7.5vw 0;text-align: center;padding-top: 3vw"  >
@@ -504,7 +514,7 @@
         <script src="courseData/allSpecializations.txt"></script>
         <script src="courseData/allCourses.txt"></script>
         <script type="text/javascript">
-            
+
             //Global variable declarations
             let specializations = ['']
             let specialization = "";
@@ -635,7 +645,7 @@
                 //hide speciliazation
                 //turn on opacity for coursesBox
             }
-            
+
             function updateCounters() {
                 //Skapa filter för att beräkna antal poäng
                 let filterTotal = (course => course.selected);
@@ -693,10 +703,10 @@
                 let nbrOfRows = [lpQueues[0].length,lpQueues[1].length,lpQueues[2].length,lpQueues[3].length].reduce((a,b) => Math.max(a,b)); //Find the longest queue and set it to number of rows.
                 return lpQueues;
             }
-            
+
             function printCoursesOrganizedByPeriod(){
                 let lpQueues = organizeCoursesByPeriod();
-                
+
             }
 
 
@@ -756,7 +766,7 @@
                                   !(compareHp(course,desiredHp) == desiredComparatorValue) ||
                                   false);
                 coursesToHide = courses.filter(allFilters);
-                
+
 
                 //coursesToHide.forEach((course,index) => course.domRows.forEach((tr,index2) => tr.style.display = 'None'));
                 coursesToHide.forEach((course,index) => course.domRows.forEach((tr,index2) => tr.childNodes.forEach((td,index3) => td.style.display = 'None')));
