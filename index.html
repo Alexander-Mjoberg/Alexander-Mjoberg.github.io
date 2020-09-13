@@ -1,6 +1,10 @@
 <html>
     <head>
         <style>
+            body {
+                margin:0;
+            }
+
             p {
                 font-size: 18px;
             }
@@ -209,7 +213,7 @@
                 margin: 1.5vw;
                 border-radius: 0.5vw;
                 text-align: center;
-                margin-top: 20vh;
+                margin-top: 15vh;
             }
 
             .innerBox {
@@ -309,15 +313,14 @@
 
         </style>
     </head>
-
-    <body style="margin: 0">
+    <body>
         <div id="menuBar">
-            <div style="padding-bottom: 0.5vh;border-bottom-style: solid;border-bottom-color: dimgrey;border-bottom-width: 1px ">
+            <div style="padding-bottom: 0.5vh;">
                 <table style="width: 100%;text-align: center;margin-top: 0.3vw;border-spacing: 0;">
                     <tr>
                         <td style="width: 33%" colspan="4" class="menuHeader">Meny</td>
                         <td style="width: 33%;border-left: 2px solid;border-left-color: dimgray;border-right: 2px solid;border-right-color: dimgray" colspan="4" class="menuHeader">Filter</td>
-
+                        <td style="width: 33%" colspan="4" class="menuHeader">Poäng-sammanfattning</td>
                     </tr>
                     <tr>
                         <td class="menuText">Välj program</td>
@@ -328,7 +331,12 @@
                         <td style="border-left: 2px solid;border-left-color: dimgray;" class="menuText">Vald</td>
                         <td class="menuText">Högskolepoäng</td>
                         <td class="menuText">Nivå</td>
-                        <td class="menuText">Läsperiod</td> 
+                        <td class="menuText" style="border-right: 2px solid;border-right-color: dimgray">Läsperiod</td> 
+
+                        <td class="menuText">Högskolepoäng</td>
+                        <td class="menuText">Varav spec</td>
+                        <td class="menuText">Avancerade poäng</td>
+                        <td class="menuText">Varav spec</td>
                     </tr>
                     <tr>
                         <td></td>
@@ -338,9 +346,9 @@
 
                         <td style="border-left: 2px solid;border-left-color: dimgray;">
                             <select name="filterOnSelected" id="filterOnSelected" disabled style="border-radius: 0.5">
-                                <option value="Alla">Alla kurser</option>
-                                <option value="Ja">Valda kurser</option>
-                                <option value="Nej">Ej valda kurser</option>
+                                <option value="Alla">Alla</option>
+                                <option value="Ja">Ja</option>
+                                <option value="Nej">Nej</option>
                             </select>
                         </td>
                         <td>
@@ -364,7 +372,7 @@
                                 <option value="A">A</option>
                             </select>
                         </td>
-                        <td > <!-- jsFiddle for good looking multiple select: http://jsfiddle.net/evfnLn0x/ !-->
+                        <td style="border-right: 2px solid;border-right-color: dimgray"> <!-- jsFiddle for good looking multiple select: http://jsfiddle.net/evfnLn0x/ !-->
                             <select name="filterPeriod" id="filterPeriod" disabled >
                                 <option value="LP1">LP1</option>
                                 <option value="LP2">LP2</option>
@@ -372,35 +380,16 @@
                                 <option value="LP4">LP4</option>
                             </select>
                         </td>
+
+                        <td id="totalHp" class="menuText">0</td> 
+                        <td id="hpSpec" class="menuText">0</td>
+                        <td id="totalAp" class="menuText">0</td>
+                        <td id="apSpec" class="menuText">0</td>
                     </tr>
                 </table>
             </div>
-            <div>
-                <table style="width:100%;text-align: center">
-                    <tr>
-                        <td class="menuText">Högskolepoäng</td>
-                        <td class="menuText">Varav spec</td>
-                        <td class="menuText">Avancerade poäng</td>
-                        <td class="menuText">Varav spec</td>
-
-                        <td class="menuText">LP1</td>
-                        <td class="menuText">LP2</td>
-                        <td class="menuText">LP3</td>
-                        <td class="menuText">LP4</td>
-
-                        <td class="menuText" colspan="3">Specialisering</td>
-                        <td class="menuText"> Poäng</td>
-                    </tr>
-                    <tr>
-                        <td id="totalHp">0</td> 
-                        <td id="hpSpec">0</td>
-                        <td id="totalAp">0</td>
-                        <td id="apSpec">0</td>
-                    </tr>
-                </table>
-            </div>
-
         </div>
+
         <div class="outerBox" >
             <div class="innerBox" id="innerBox">
                 <div id="welcomeText">
