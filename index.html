@@ -4,7 +4,7 @@
             p {
                 font-size: 18px;
             }
-            
+
             h2 {
                 color:#8E5614;
                 font-family: Georgia,serif;font-weight: 400;
@@ -508,6 +508,9 @@
                     <h2>Statistik för dina val</h2>
                     <h3>Specialiseringar du har flest högskolepoäng inom</h3>
                     <p id="topFiveSpec"></p>
+                    <h3>Uppdelning av poäng inom olika läsperioder</h3>
+                    <p id="simpleSchedule"></p>
+                    <div id="simpSched"></div>
                 </div>
             </div>
         </div>
@@ -666,6 +669,7 @@
             }
 
             //This function calculates the 5 specializations in which the user has most points.
+            //TODO: Handle if fewer than 5 applicable specializations.
             function countPointsPerSpecialization() {
                 //Räkna poäng för varje vald kurs per specialisering
                 let specializationDict = {};
@@ -708,14 +712,66 @@
                         }
                     }
                 })
-                let nbrOfRows = [lpQueues[0].length,lpQueues[1].length,lpQueues[2].length,lpQueues[3].length].reduce((a,b) => Math.max(a,b)); //Find the longest queue and set it to number of rows.
+
                 return lpQueues;
             }
 
-            function printCoursesOrganizedByPeriod(){
-                let lpQueues = organizeCoursesByPeriod();
 
+            function printCoursesOrganizedByPeriod(){
+                let body = document.getElementById('simpSched');
+                if (body.childElementCount > 0) {
+                    body.removeChild(body.childNodes[0]);
+                }
+
+                // create elements <table> and a <tbody>
+                let tbl = document.createElement("table");
+                let tblBody = document.createElement("tbody");
+                tbl.setAttribute('class', 'courseTable')
+
+                //Header creation
+                let header = ['LP1','LP2','LP3','LP4'];
+                let headerRow = tblBody.insertRow(-1);
+                for (var i = 0; i < header.length; i++) {
+                    let headerCell = document.createElement("TH");
+                    headerCell.setAttribute('class', 'courseTableHeaderCell')
+                    headerCell.setAttribute('style', 'width:8vw;')
+                    headerCell.innerHTML = header[i];
+                    headerRow.appendChild(headerCell);
+                }
+                // append the <tbody> inside the <table>
+                tbl.appendChild(tblBody);
+                // put <table> in the <body>
+                body.appendChild(tbl);
+
+
+
+                let lpQueues = organizeCoursesByPeriod();
+                let nbrOfRows = [lpQueues[0].length,lpQueues[1].length,lpQueues[2].length,lpQueues[3].length].reduce((a,b) => Math.max(a,b)); //Find the longest queue and set it to number of rows.
+                for (let i0 = 0; i0 < nbrOfRows; i0++){
+                    let i1=0;
+                    var row = document.createElement("tr");
+
+
+                    while(i1 < 4){
+                        let course = lpQueues[i1].pop();
+                        if (course && course[0]!=0){
+                            let cell = document.createElement("td");
+                            let cellText = document.createTextNode(course[0]);
+                            cell.appendChild(cellText);
+                            cell.colSpan = course[1];
+                            row.appendChild(cell);
+                            cell.setAttribute('class', 'courseTableCellDark');
+                            i1+=course[1];
+                        }
+                        else {
+                            i1++;
+                        }
+                    }
+                    tblBody.appendChild(row);
+                }
             }
+
+
 
 
 
