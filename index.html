@@ -1,11 +1,11 @@
 <html>
     <head>
         <style>
+            p {
+                font-size: 18px;
+            }
+            
             h2 {
-                border-top-color: dimgrey;
-                border-bottom-color: dimgrey;
-                border-top-style: solid;
-                border-bottom-style: solid;
                 color:#8E5614;
                 font-family: Georgia,serif;font-weight: 400;
                 font-size: 3.4vw;
@@ -298,11 +298,12 @@
                 font-family: "Trebuchet MS", Helvetica, sans-serif;
                 font-size: 15px;
             }
-            
+
             #statBand {
                 margin: 3vh -2.0vw;
-                background-color: aqua;
+                background-color: #C6A882;
                 width: 95vw;
+                height: 3.5vh;
             }
 
 
@@ -407,10 +408,7 @@
                     <p style="font-size: 20;"><em>Den här sidan kan du ta hjälp av för att planera vilka kurser du ska läsa i specialiseringen. Obs! Under uppbyggnad</em></p>
                 </div>
                 <div id="courseBox" style="display: none"></div>
-                <div id="statistics">
-                    <p id="StatBand">Statistik över dina val</p>
-                        
-                </div>
+
 
                 <div id="programTable" style="transition: opacity 1s ease-out;transition: opacity 0.6s ease-in">
                     <table style="border-spacing:7.5vw 0;text-align: center;padding-top: 3vw"  >
@@ -504,6 +502,12 @@
                     <div id="SpecializationCenteredColumn">
                     </div>
 
+                </div>
+                <div id="StatisticsArea">
+                    <div id="StatBand"></div>
+                    <h2>Statistik för dina val</h2>
+                    <h3>Specialiseringar du har flest högskolepoäng inom</h3>
+                    <p id="topFiveSpec"></p>
                 </div>
             </div>
         </div>
@@ -678,6 +682,10 @@
                 items.sort(function(first, second) {
                     return second[1] - first[1];
                 });
+                let top5 = items.slice(0,5);
+                let body = document.getElementById('topFiveSpec');
+                let reducer = (accumulator, currentValue) => accumulator.concat("<br>".concat(currentValue));
+                body.innerHTML = top5.reduce(reducer);
                 console.log(items.slice(0, 5));
             }
 
