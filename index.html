@@ -807,10 +807,10 @@
             function doFilters(){
                 //Dessa variabler ska flyttas ut.
                 let desiredPeriods = [true, true, true, true];
+                
+                //Sätt alla tabeller till att visas 
                 courses.forEach((course,index) => course.domRows.forEach((tr,index1) => tr.childNodes.forEach((td,index2) => td.style.display = 'table-cell')));
-                //Här behövs läggas till så att allt unhideas
-                //courses.forEach((course,index) => course.domRows.forEach((tr,index1) => tr.childNodes.forEach((td,index2) => td.style.display = 'table-cell')));
-                //courses.forEach((course,index) => course.domRows.forEach((tr,index) => tr.style.display = 'table-cell'))
+                courses.forEach((course,index) => course.domRows.forEach((tr,index2) => tr.style.display = 'table-row'));
 
                 //Filtret hittar kurser som inte passar användarens inställda filter så att dessa kan döljas
                 let allFilters = ((course,index) => 
@@ -820,18 +820,19 @@
                                   false);
                 coursesToHide = courses.filter(allFilters);
 
-
-                //coursesToHide.forEach((course,index) => course.domRows.forEach((tr,index2) => tr.style.display = 'None'));
+                //Dölj alla kurser som stämmer filtret hittade. 
                 coursesToHide.forEach((course,index) => course.domRows.forEach((tr,index2) => tr.childNodes.forEach((td,index3) => td.style.display = 'None')));
+                coursesToHide.forEach((course,index) => course.domRows.forEach((tr,index2) => tr.style.display = 'None'));
+                
 
-                //course.level != desiredLevel || //Hittar alla kurser som inte stämmer med önskad nivå
-                //course.points < desiredPoints || // Tre möjliga svar från comparator -1 mindre, 0 samma, 1 större. Input jämförelsevärde och önskat svar. 
-                //!(course.period == true && course.period == desiredPeriods[0] || period1.. )
+                //Gå igenom för alla tabeller:
+                //För varje rad
+                //Om raden är display är table-row, gå igenom dess barn och måla om. 
+                //Om alla är display none, dölj hela tabellen.
 
-                //If no filter enabled, show all
             }
 
-
+            //Skapar alla kurstabeller.
             function tableCreate(spec) {
                 //add h3 text
                 let h3=document.createElement("h3");
