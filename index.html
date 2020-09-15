@@ -828,6 +828,7 @@
                                   !((desireSelected && course.selected == true) || (desiredUnselected && course.selected == false)) || 
                                   course.level != desiredLevel && desiredLevel != 'All' ||
                                   !(compareHp(course,desiredHp) == desiredComparatorValue) ||
+                                  !((desiredPeriods[0] && course.lp1) || (desiredPeriods[1] && course.lp2) || desiredPeriods[2] && course.lp3 || desiredPeriods[3] && course.lp4 )||
                                   false);
                 coursesToHide = courses.filter(allFilters);
 
