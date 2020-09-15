@@ -245,11 +245,16 @@
             }
 
             /* Kurstabell */
+            .courseTableDiv{
+                
+            }
+            
             .courseTable {
                 text-align: center;
                 border-spacing: 4px;
                 margin: 0 auto;
             }
+            
 
             /* Headers på kurstabell - Test med fetare */
             .courseTableHeaderCell {
@@ -516,6 +521,7 @@
             let specialization = "";
             let program = "";
             let courses = "";
+            let courseRowsPerSpec = [];
 
             //Filter values
             let filterIds = ["filterOnSelected","filterHPMethod","filterHPPoints","filterLevel"]
@@ -811,6 +817,8 @@
                 //Sätt alla tabeller till att visas 
                 courses.forEach((course,index) => course.domRows.forEach((tr,index1) => tr.childNodes.forEach((td,index2) => td.style.display = 'table-cell')));
                 courses.forEach((course,index) => course.domRows.forEach((tr,index2) => tr.style.display = 'table-row'));
+                let divs = [].slice.call(document.getElementsByClassName("courseTableDiv"));
+                divs.forEach((div)=> div.style.display = '');
 
                 //Filtret hittar kurser som inte passar användarens inställda filter så att dessa kan döljas
                 let allFilters = ((course,index) => 
@@ -820,7 +828,7 @@
                                   false);
                 coursesToHide = courses.filter(allFilters);
 
-                //Dölj alla kurser som stämmer filtret hittade. 
+                //Dölj alla kurser som filtret hittade. 
                 coursesToHide.forEach((course,index) => course.domRows.forEach((tr,index2) => tr.childNodes.forEach((td,index3) => td.style.display = 'None')));
                 coursesToHide.forEach((course,index) => course.domRows.forEach((tr,index2) => tr.style.display = 'None'));
                 
@@ -829,20 +837,50 @@
                 //För varje rad
                 //Om raden är display är table-row, gå igenom dess barn och måla om. 
                 //Om alla är display none, dölj hela tabellen.
+                courseRowsPerSpec.forEach((specGroup,index) => {
+                    let i=0;
+                    specGroup.forEach((tr,index2)=> {
+                        if (tr.style.display=='table-row'){
+                            let cells = [].slice.call(tr.childNodes);
+                            cells.forEach((cell,index) => cell.setAttribute('class', ((i%2) ? 'courseTableCellLight' : 'courseTableCellDark')));
+                            i++;   
+                        }
+                    })
+                    if (i==0){
+                        specGroup[0].parentElement.parentElement.parentElement.style.display='None';
+                    }
+                })
+                
+//                let divs = [].slice.call(document.getElementsByClassName("courseTableDiv"));
+//                divs.forEach((div,index) => {
+//                    let i=0;
+//                    div.childNodes[1].childNodes.forEach((row,index2) => {
+//                        if (row.style.display == 'table-row'){
+//                            cell.setAttribute('class', ((i%2) ? 'courseTableCellLight' : 'courseTableCellDark'));
+//                            i++;
+//                        }
+//                        
+//                    })
+//                    if (i==0){
+//                        div.style.display = 'None';
+//                    }
+//                })
 
             }
 
-            //Skapar alla kurstabeller.
+            //Skapar alla kurstabeller
             function tableCreate(spec) {
-                //add h3 text
-                let h3=document.createElement("h3");
-                h3.innerHTML = spec;
-
 
                 //body reference 
                 let body = document.getElementById("courseBox");
+                //create div
+                let div = document.createElement("div")
+                div.setAttribute('class', 'courseTableDiv')
+                body.appendChild(div)
                 //Add h3 text
-                body.appendChild(h3);
+                let h3=document.createElement("h3");
+                h3.innerHTML = spec;
+                div.appendChild(h3);
 
                 // create elements <table> and a <tbody>
                 let tbl = document.createElement("table");
@@ -864,12 +902,14 @@
                 let filterSpecGroup = (course => course.specialization.includes(spec));
                 let specCourses = courses.filter(filterSpecGroup);
                 specCourses = specCourses.sort(compareSortValue);
+                let courseRows = [];
 
                 // cells creation
                 for (var j = 0; j < specCourses.length; j++) {
                     let course = specCourses[j];
                     // table row creation
                     var row = document.createElement("tr");
+                    courseRows.push(row);
                     let courseToText = textifyCourse(course);
 
                     for (var i = 0; i < courseToText.length; i++) {
@@ -904,9 +944,10 @@
                 // append the <tbody> inside the <table>
                 tbl.appendChild(tblBody);
                 // put <table> in the <body>
-                body.appendChild(tbl);
+                div.appendChild(tbl);
                 // tbl border attribute to 
                 //tbl.setAttribute("border", "2");
+                courseRowsPerSpec.push(courseRows);
             }
 
 
