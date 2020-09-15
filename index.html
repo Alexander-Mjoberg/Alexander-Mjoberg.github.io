@@ -378,12 +378,10 @@
                             </select>
                         </td>
                         <td style="border-right: 2px solid;border-right-color: dimgray"> <!-- jsFiddle for good looking multiple select: http://jsfiddle.net/evfnLn0x/ !-->
-                            <select name="filterPeriod" id="filterPeriod" disabled >
-                                <option value="LP1">LP1</option>
-                                <option value="LP2">LP2</option>
-                                <option value="LP3">LP3</option>
-                                <option value="LP4">LP4</option>
-                            </select>
+                            <input type="checkbox" id="filterLP1" disabled>
+                            <input type="checkbox" id="filterLP2" disabled>
+                            <input type="checkbox" id="filterLP3" disabled>
+                            <input type="checkbox" id="filterLP4" disabled>
                         </td>
 
                         <td id="totalHp" class="menuText">0</td> 
@@ -497,7 +495,7 @@
                     </div>
 
                 </div>
-                <div id="StatisticsArea">
+                <div id="StatisticsArea" style="display: none">
                     <div id="StatBand"></div>
                     <h2>Statistik för dina val</h2>
                     <h3>Specialiseringar du har flest högskolepoäng inom</h3>
@@ -524,12 +522,13 @@
             let courseRowsPerSpec = [];
 
             //Filter values
-            let filterIds = ["filterOnSelected","filterHPMethod","filterHPPoints","filterLevel"]
+            let filterIds = ["filterOnSelected","filterHPMethod","filterHPPoints","filterLevel","filterLP1","filterLP2","filterLP3","filterLP4"]
             let desireSelected = true;
             let desiredUnselected = true;
             let desiredComparatorValue = 1;
             let desiredHp = 0;
             let desiredLevel = 'All'
+            let desiredPeriods = [true, true, true, true];
 
 
             //Assign onclick and onchange functionality
@@ -568,6 +567,12 @@
                         break;
                     case "filterLevel":
                         desiredLevel = val;
+                        break;
+                    case "filterLP1":
+                    case "filterLP2":
+                    case "filterLP3":
+                    case "filterLP4":
+                        desiredPeriods = [document.getElementById("filterLP1").checked,document.getElementById("filterLP2").checked,document.getElementById("filterLP3").checked,document.getElementById("filterLP4").checked];
                         break;
                 }
                 doFilters();
@@ -811,8 +816,6 @@
 
             //En funktion för att tillämpa filter innan dom skrivs ut i tabeller. Filtret hittar det som inte passar
             function doFilters(){
-                //Dessa variabler ska flyttas ut.
-                let desiredPeriods = [true, true, true, true];
                 
                 //Sätt alla tabeller till att visas 
                 courses.forEach((course,index) => course.domRows.forEach((tr,index1) => tr.childNodes.forEach((td,index2) => td.style.display = 'table-cell')));
