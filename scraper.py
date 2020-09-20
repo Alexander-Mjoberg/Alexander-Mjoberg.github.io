@@ -41,5 +41,5 @@ for program in programs:
 	#Output to textfile
 	with open(fileName, 'w') as filehandler:
 	    for listitem in courseData:
-	        filehandler.write('%s\n' % listitem)
-	        filehandler.close()
+	        filehandler.write('%s\n' % listitem)    
+	    filehandler.close()

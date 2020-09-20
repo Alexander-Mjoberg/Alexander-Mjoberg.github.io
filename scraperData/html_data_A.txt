@@ -604,7 +604,7 @@ X Kursen kan påbörjas när som helst under året. 4 föreläsningstimmar, 12 handled
 KS KE U T
 
 1 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 6 h (45-minuterspass)Självstudietid: 394 h (45-minuterspass)
-2 Föreläsningar: 4 h (45-minuterspass)Övningar: 0 hLaborationer: 0 hHandledd projekttid: 6 h (45-minuterspass)Självstudietid: 390 h (45-minuterspass)
+2 Föreläsningar: 0 hÖvningar: 0 hLaborationer: 0 hHandledd projekttid: 6 h (45-minuterspass)Självstudietid: 394 h (45-minuterspass)
 
 
 Valfria kurser - A
