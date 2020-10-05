@@ -323,27 +323,153 @@
                 width: 95vw;
                 height: 3.5vh;
             }
-            
+
             .menuBarButton {
-                
+
+            }
+            /* The Modal (background) */
+            .modal {
+                display: none; /* Hidden by default */
+                position: fixed; /* Stay in place */
+                z-index: 1; /* Sit on top */
+                padding-top: 30vh; /* Location of the box */
+                left: 0;
+                top: 0;
+                width: 100%; /* Full width */
+                height: 100%; /* Full height */
+                overflow: auto; /* Enable scroll if needed */
+                background-color: rgb(0,0,0); /* Fallback color */
+                background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+            }
+
+            /* Modal Content */
+            .modal-content {
+                position: relative;
+                background-color: #fefefe;
+                margin: auto;
+                padding: 0;
+                border: 1px solid #888;
+                width: 80%;
+                box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+                -webkit-animation-name: animatetop;
+                -webkit-animation-duration: 0.4s;
+                animation-name: animatetop;
+                animation-duration: 0.4s
+            }
+
+            /* Add Animation */
+            @-webkit-keyframes animatetop {
+                from {top:-300px; opacity:0} 
+                to {top:0; opacity:1}
+            }
+
+            @keyframes animatetop {
+                from {top:-300px; opacity:0}
+                to {top:0; opacity:1}
+            }
+
+            /* The Close Button */
+            .close {
+                color: white;
+                float: right;
+                font-size: 28px;
+                font-weight: bold;
+            }
+
+            .close:hover,
+            .close:focus {
+                color: #000;
+                text-decoration: none;
+                cursor: pointer;
+            }
+
+            .modal-header {
+                padding: 2px 16px;
+                background-color: #EBE5D8;
+                color: #8E5614;
+                font-size: 6vh;
+            }
+
+            .modal-body {
+                padding: 2px 16px;
+                font-size: 18px;
+            }
+
+            .modal-footer {
+                padding: 2px 16px;
+                background-color: #5cb85c;
+                color: white;
             }
 
 
         </style>
     </head>
     <body>
+        <div id="myModal" class="modal">
+
+            <!-- Modal content -->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <span class="close">&times;</span>
+                    Hur många poäng behövs?
+                </div>
+                <div class="modal-body">
+                    <p>För att ta examen krävs bland annat ett visst antal högskolepoäng, samt att vissa av dessa högskolepoäng är på A-nivå.  </p>
+                    <p>Poängen som krävs listas nedan. Poängen som sidan beräknar åt dig är <u>understrukna</u> i listan</p>
+                    <ul>
+                        <li> 300 högskolepoäng varav:
+                            <ul>
+                                <li>180 poäng grundblock</li>
+                                <li>120 poäng specialisering
+                                    <ul>
+                                        <li><u>90 poäng från kurser</u>
+                                            <ul>
+                                                <li><u>45 poäng (eller fler) inom vald specialisering</u></li>
+                                                <li>45 poäng valfria kurser
+                                                    <ul>
+                                                        <li>Max 30 externt valfria poäng</li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>30 poäng examensarbete</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>75 högskolepoäng på A-nivå
+                            <ul>
+                                <li><u>45 A-poäng (eller fler) från kurser</u>
+                                    <ul>
+                                        <li><u>30 A-poäng inom vald specialisering</u></li>
+                                    </ul>
+                                </li>
+                                <li>30 poäng examensarbete</li>
+                            </ul>
+                        </li>
+                    </ul>
+
+                </div>
+                <!--  <div class="modal-footer">   A footer if desired
+<h3>Modal Footer</h3>
+</div> -->
+            </div>
+
+        </div>
         <div id="menuBar">
             <div style="padding-bottom: 0.5vh;">
                 <table style="width: 100%;text-align: center;margin-top: 0.3vw;border-spacing: 0;">
                     <tr>
                         <td style="width: 33%" colspan="4" class="menuHeader">Meny</td>
                         <td style="width: 33%;border-left: 2px solid;border-left-color: dimgray;border-right: 2px solid;border-right-color: dimgray" colspan="4" class="menuHeader">Filter</td>
-                        <td style="width: 33%" colspan="4" class="menuHeader">Poäng-sammanfattning</td>
+                        <td style="width: 33%" colspan="4" class="menuHeader" id="menuHeader3">Poäng-sammanfattning</td>
                     </tr>
                     <tr>
                         <td class="menuText" rowspan="2">Välj program</td>
                         <td class="menuText" rowspan="2"><button class="menuText menuBarButton" disabled id="simpleListButton">Enkel lista</button></td>
-                        <td class="menuText" rowspan="2">Spara</td>
+                        <td class="menuText" rowspan="2">Spara<button id="myBtn" style="display: none">Open Modal</button></td>
                         <td class="menuText" rowspan="2">Hjälp</td>
 
                         <td style="border-left: 2px solid;border-left-color: dimgray;" class="menuText">Vald</td>
@@ -374,8 +500,13 @@
                             <select name="filterHPPoints" id="filterHPPoints" disabled>
                                 <option value="0">0</option>
                                 <option value="3">3</option>
+                                <option value="4">4</option>
+                                <option value="4.5">4.5</option>
+                                <option value="5">5</option>
+                                <option value="6">6</option>
                                 <option value="7.5">7.5</option>
                                 <option value="9">9</option>
+                                <option value="15">15</option>
                             </select>
                         </td>
                         <td>
@@ -575,6 +706,7 @@
             document.querySelectorAll("button[id^='SelectProgram']").forEach((item,index) => item.onclick = selectProgram);
             document.getElementById("SpecializationBackButton").onclick = unselectProgram;
             document.getElementById("simpleListButton").onclick = switchSimpleList;
+            document.getElementById("menuHeader3").onclick
             filterIds.forEach((button,index) => document.getElementById(button).onchange = handleFilterOnSelected)
 
             function handleFilterOnSelected(){
@@ -660,7 +792,7 @@
                 document.getElementById("programTable").style.display = 'None';
                 document.getElementById("SpecializationSelector").style.opacity = 1;
             }
-            
+
             function switchSimpleList(){
                 simpleMode = !simpleMode
                 let hideThis = simpleMode ? document.getElementById("courseBox") : document.getElementById("simpleCourseBox");
@@ -1001,6 +1133,33 @@
                 // tbl border attribute to
                 //tbl.setAttribute("border", "2");
                 courseRowsPerSpec.push(courseRows);
+            }
+
+
+            // Get the modal
+            var modal = document.getElementById("myModal");
+
+            // Get the button that opens the modal
+            var btn = document.getElementById("menuHeader3");
+
+            // Get the <span> element that closes the modal
+            var span = document.getElementsByClassName("close")[0];
+
+            // When the user clicks the button, open the modal 
+            btn.onclick = function() {
+                modal.style.display = "block";
+            }
+
+            // When the user clicks on <span> (x), close the modal
+            span.onclick = function() {
+                modal.style.display = "none";
+            }
+
+            // When the user clicks anywhere outside of the modal, close it
+            window.onclick = function(event) {
+                if (event.target == modal) {
+                    modal.style.display = "none";
+                }
             }
 
 
