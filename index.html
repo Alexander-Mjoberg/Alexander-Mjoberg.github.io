@@ -323,6 +323,10 @@
                 width: 95vw;
                 height: 3.5vh;
             }
+            
+            .menuBarButton {
+                
+            }
 
 
         </style>
@@ -337,10 +341,10 @@
                         <td style="width: 33%" colspan="4" class="menuHeader">Poäng-sammanfattning</td>
                     </tr>
                     <tr>
-                        <td class="menuText">Välj program</td>
-                        <td class="menuText">Excel</td>
-                        <td class="menuText">Länk</td>
-                        <td class="menuText">Hjälp</td>
+                        <td class="menuText" rowspan="2">Välj program</td>
+                        <td class="menuText" rowspan="2"><button class="menuText menuBarButton" disabled id="simpleListButton">Enkel lista</button></td>
+                        <td class="menuText" rowspan="2">Spara</td>
+                        <td class="menuText" rowspan="2">Hjälp</td>
 
                         <td style="border-left: 2px solid;border-left-color: dimgray;" class="menuText">Vald</td>
                         <td class="menuText">Högskolepoäng</td>
@@ -353,10 +357,6 @@
                         <td class="menuText">Varav spec</td>
                     </tr>
                     <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
 
                         <td style="border-left: 2px solid;border-left-color: dimgray;">
                             <select name="filterOnSelected" id="filterOnSelected" disabled style="border-radius: 0.5">
@@ -431,6 +431,7 @@
                     <p style="font-size: 20;"><em>Den här sidan kan du ta hjälp av för att planera vilka kurser du ska läsa i specialiseringen. Obs! Under uppbyggnad</em></p>
                 </div>
                 <div id="courseBox" style="display: none"></div>
+                <div id="simpleCourseBox" style="display: none"></div>
 
 
                 <div id="programTable" style="transition: opacity 1s ease-out;transition: opacity 0.6s ease-in">
@@ -551,7 +552,9 @@
             let program = "";
             let courses = "";
             let courseRowsPerSpec = [];
+            let simpleMode = false;
 
+            //Variables for points
             let hpRequired = 90;
             let hpInSpecRequired = 45;
             let apRequired = 45;
@@ -571,6 +574,7 @@
             console.log(document.querySelectorAll("button[id^='SelectProgram']")[0]);
             document.querySelectorAll("button[id^='SelectProgram']").forEach((item,index) => item.onclick = selectProgram);
             document.getElementById("SpecializationBackButton").onclick = unselectProgram;
+            document.getElementById("simpleListButton").onclick = switchSimpleList;
             filterIds.forEach((button,index) => document.getElementById(button).onchange = handleFilterOnSelected)
 
             function handleFilterOnSelected(){
@@ -656,6 +660,14 @@
                 document.getElementById("programTable").style.display = 'None';
                 document.getElementById("SpecializationSelector").style.opacity = 1;
             }
+            
+            function switchSimpleList(){
+                simpleMode = !simpleMode
+                let hideThis = simpleMode ? document.getElementById("courseBox") : document.getElementById("simpleCourseBox");
+                let showThis = simpleMode ? document.getElementById("simpleCourseBox") : document.getElementById("courseBox");
+                hideThis.style.display = 'none';
+                showThis.style.display = 'block';
+            }
 
             //Hide specialiazation & show programtable
             function hideSpecializations(){
@@ -675,6 +687,7 @@
                 specializations.push('Valfria kurser');
                 specializations.push('Externt valfria kurser');
                 specializations.forEach(spec => tableCreate(spec))
+                tableCreate("");  //Case for simpleTable
                 setTimeout(() => cb.style.display ='block',780);
                 setTimeout(() => document.getElementById("StatisticsArea").style.display ='block',780);
                 setTimeout(hideSpecializations, 800);
@@ -682,6 +695,7 @@
                 document.getElementById("topText").innerHTML = "Kursval " + program + " - " + specialization;
                 scrollTo(150,0);
                 filterIds.forEach((filter,index) => document.getElementById(filter).disabled = false);
+                document.getElementById("simpleListButton").disabled = false;
                 //hide speciliazation
                 //turn on opacity for coursesBox
             }
@@ -903,35 +917,21 @@
                     }
                 })
 
-                //                let divs = [].slice.call(document.getElementsByClassName("courseTableDiv"));
-                //                divs.forEach((div,index) => {
-                //                    let i=0;
-                //                    div.childNodes[1].childNodes.forEach((row,index2) => {
-                //                        if (row.style.display == 'table-row'){
-                //                            cell.setAttribute('class', ((i%2) ? 'courseTableCellLight' : 'courseTableCellDark'));
-                //                            i++;
-                //                        }
-                //
-                //                    })
-                //                    if (i==0){
-                //                        div.style.display = 'None';
-                //                    }
-                //                })
-
             }
 
             //Skapar alla kurstabeller
             function tableCreate(spec) {
+                let specTable = spec !="";
 
                 //body reference
-                let body = document.getElementById("courseBox");
+                let body = specTable ? document.getElementById("courseBox") : document.getElementById("simpleCourseBox");
                 //create div
                 let div = document.createElement("div")
                 div.setAttribute('class', 'courseTableDiv')
                 body.appendChild(div)
                 //Add h3 text
                 let h3=document.createElement("h3");
-                h3.innerHTML = spec;
+                h3.innerHTML = specTable ? spec : "Alla kurser";
                 div.appendChild(h3);
 
                 // create elements <table> and a <tbody>
@@ -953,7 +953,8 @@
                 //Filter out courses per specialiazation
                 let filterSpecGroup = (course => course.specialization.includes(spec));
                 let specCourses = courses.filter(filterSpecGroup);
-                specCourses = specCourses.sort(compareSortValue);
+                specCourses = specTable ? specCourses.sort(compareSortValue) : courses.sort(compareSortValue);
+
                 let courseRows = [];
 
                 // cells creation
