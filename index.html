@@ -831,6 +831,28 @@
                 //hide speciliazation
                 //turn on opacity for coursesBox
             }
+            
+            function unselectSpecialization(){
+                specialization = "";
+                cb = document.getElementById("courseBox");
+                ss = document.getElementById("SpecializationSelector");
+                cb.style.opacity = 0;
+                specializations.pop();
+                specializations.pop();
+                removeChildren(cb);
+                removeChildren(document.getElementById("simpleCourseBox"));
+                setTimeout(() => ss.style.display ='block',780);
+                document.getElementById("StatisticsArea").style.display = 'None';
+                setTimeout(showSpecializations, 800);
+                
+            }
+            
+            function removeChildren(domElem){
+                let children = domElem.childNodes;
+                while (domElem.childElementCount > 0){
+                    domElem.removeChild(children[0]);
+                }
+            }
 
             function updateCounters() {
                 //Skapa filter för att beräkna antal poäng
