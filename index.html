@@ -327,6 +327,13 @@
             .menuBarButton {
 
             }
+
+            .backBand {
+                margin-left: 5vw;
+                width: 90%;
+                text-align: left;
+            }
+
             /* The Modal (background) */
             .modal {
                 display: none; /* Hidden by default */
@@ -561,7 +568,10 @@
                     <h2 id="topText">Kursval specialisering LTH</h2>
                     <p style="font-size: 20;"><em>Den här sidan kan du ta hjälp av för att planera vilka kurser du ska läsa i specialiseringen. Obs! Under uppbyggnad</em></p>
                 </div>
-                <div id="courseBox" style="display: none"></div>
+                
+                <div id="courseBox" style="display: none">
+
+                </div>
                 <div id="simpleCourseBox" style="display: none"></div>
 
 
@@ -650,7 +660,7 @@
 
                 <!-- Set it to flex and it works! !-->
                 <div id="SpecializationSelector" class="specializationOptions">
-                    <div style="width: 90%;text-align: left">
+                    <div class="backBand" style="width: 90%;text-align: left">
                         <img src="resources/BackButton.png" style="height: 8vw;max-height: 60px" id="SpecializationBackButton" class="SpecializationBackButton1">
                     </div>
 
@@ -831,7 +841,7 @@
                 //hide speciliazation
                 //turn on opacity for coursesBox
             }
-            
+
             function unselectSpecialization(){
                 specialization = "";
                 cb = document.getElementById("courseBox");
@@ -841,12 +851,13 @@
                 specializations.pop();
                 removeChildren(cb);
                 removeChildren(document.getElementById("simpleCourseBox"));
-                setTimeout(() => ss.style.display ='block',780);
+                ss.style.display ='Flex';
                 document.getElementById("StatisticsArea").style.display = 'None';
+                specializations = specializationDict[program];
+                specializations.forEach(listSpecialization);
                 setTimeout(showSpecializations, 800);
-                
             }
-            
+
             function removeChildren(domElem){
                 let children = domElem.childNodes;
                 while (domElem.childElementCount > 0){
