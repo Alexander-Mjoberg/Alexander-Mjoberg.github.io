@@ -235,11 +235,11 @@
                 transition: opacity 0.8s ease-out;
             }
 
-            .SpecializationBackButton1 {
+            #backButton {
                 border-radius: 50%;
             }
 
-            .SpecializationBackButton1:hover {
+            #backButton:hover {
                 background-color: #EBE5D8;
                 cursor: pointer;
             }
@@ -329,9 +329,12 @@
             }
 
             .backBand {
-                margin-left: 5vw;
+                margin-left: 8vw;
                 width: 90%;
                 text-align: left;
+                transition: opacity 0.8s ease-in;
+                transition: opacity 0.8s ease-out;
+                opacity: 0;
             }
 
             /* The Modal (background) */
@@ -568,7 +571,9 @@
                     <h2 id="topText">Kursval specialisering LTH</h2>
                     <p style="font-size: 20;"><em>Den här sidan kan du ta hjälp av för att planera vilka kurser du ska läsa i specialiseringen. Obs! Under uppbyggnad</em></p>
                 </div>
-                
+                <div class="backBand" id="backBand">
+                    <img src="resources/BackButton.png" style="height: 8vw;max-height: 60px" id="backButton">
+                </div>
                 <div id="courseBox" style="display: none">
 
                 </div>
@@ -660,10 +665,6 @@
 
                 <!-- Set it to flex and it works! !-->
                 <div id="SpecializationSelector" class="specializationOptions">
-                    <div class="backBand" style="width: 90%;text-align: left">
-                        <img src="resources/BackButton.png" style="height: 8vw;max-height: 60px" id="SpecializationBackButton" class="SpecializationBackButton1">
-                    </div>
-
                     <div id="SpecializationCenteredColumn">
                     </div>
 
@@ -693,7 +694,17 @@
             let program = "";
             let courses = "";
             let courseRowsPerSpec = [];
+            let state = "";
             let simpleMode = false;
+
+            //States with enum
+            const states = {
+                selectProgram: 'selectProgram',
+                selectSpecilization: 'selectSpecilization',
+                selectCourses: 'selectCourses',
+            }
+            let currentState = states.selectProgram;
+
 
             //Variables for points
             let hpRequired = 90;
@@ -714,7 +725,9 @@
             //Assign onclick and onchange functionality
             console.log(document.querySelectorAll("button[id^='SelectProgram']")[0]);
             document.querySelectorAll("button[id^='SelectProgram']").forEach((item,index) => item.onclick = selectProgram);
-            document.getElementById("SpecializationBackButton").onclick = unselectProgram;
+
+            document.getElementById("backButton").onclick = backButtonHandler;
+
             document.getElementById("simpleListButton").onclick = switchSimpleList;
             document.getElementById("menuHeader3").onclick
             filterIds.forEach((button,index) => document.getElementById(button).onchange = handleFilterOnSelected)
@@ -786,21 +799,37 @@
                 document.getElementById("SpecializationSelector").style.display = 'Flex';
                 specializations = specializationDict[program];
                 specializations.forEach(listSpecialization);
+                currentState = states.selectSpecilization;
             }
 
+            function backButtonHandler(){
+                switch (currentState) {
+                    case states.selectProgram:
+                        break;
+                    case states.selectSpecilization:
+                        unselectProgram();
+                        break;
+                    case states.selectCourses:
+                        unselectSpecialization();
+                        
+                }
+            }
 
             function unselectProgram(){
                 program = '';
                 pt = document.getElementById("programTable")
                 document.getElementById("SpecializationSelector").style.opacity = 0;
+                document.getElementById("backBand").style.opacity = 0;
                 setTimeout(() => pt.style.display ='block',780);
                 setTimeout(hideSpecializations, 800);
                 setTimeout(() => pt.style.opacity =1,800);
+                currentState = states.selectProgram;
             }
 
             function showSpecializations(){
                 document.getElementById("programTable").style.display = 'None';
                 document.getElementById("SpecializationSelector").style.opacity = 1;
+                document.getElementById("backBand").style.opacity = 1;
             }
 
             function switchSimpleList(){
@@ -819,6 +848,7 @@
                     cn.forEach((item,index)=> scc.removeChild(item));
                 }
                 document.getElementById("SpecializationSelector").style.display = 'none';
+                
             }
 
             function selectSpecialiazation(){
@@ -838,6 +868,7 @@
                 scrollTo(150,0);
                 filterIds.forEach((filter,index) => document.getElementById(filter).disabled = false);
                 document.getElementById("simpleListButton").disabled = false;
+                currentState = states.selectCourses;
                 //hide speciliazation
                 //turn on opacity for coursesBox
             }
@@ -856,6 +887,7 @@
                 specializations = specializationDict[program];
                 specializations.forEach(listSpecialization);
                 setTimeout(showSpecializations, 800);
+                currentState = states.selectSpecilization;
             }
 
             function removeChildren(domElem){
