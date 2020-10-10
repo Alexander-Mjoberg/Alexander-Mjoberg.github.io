@@ -285,7 +285,7 @@
                 border-style: solid;
                 font-size: 18;
             }
-            
+
             .simpleScheduleCell {
                 background-color: cornflowerblue;
                 font-size: 18;
@@ -416,6 +416,19 @@
                 color: white;
             }
 
+            #questionBox {
+                position: relative;
+                display: inline-block;
+                left: 1.5vw;
+                border: solid;
+                border-color: #C6A882;
+                border-radius: 40%;
+                font-size: 16px;
+                padding: 0 0.3vw;
+                background-color: #F8F3EA;
+                color: #8E5614;
+            }
+
 
         </style>
     </head>
@@ -437,9 +450,9 @@
                                 <li>180 poäng grundblock</li>
                                 <li>120 poäng specialisering
                                     <ul>
-                                        <li><u>90 poäng från kurser</u>
+                                        <li><u>90 högskolepoäng från kurser</u>
                                             <ul>
-                                                <li><u>45 poäng (eller fler) inom vald specialisering</u></li>
+                                                <li><u>45 högskolepoäng (eller fler) inom vald specialisering</u></li>
                                                 <li>45 poäng valfria kurser
                                                     <ul>
                                                         <li>Max 30 externt valfria poäng</li>
@@ -454,17 +467,19 @@
                         </li>
                     </ul>
                     <ul>
-                        <li>75 högskolepoäng på A-nivå
+                        <li>75 högskolepoäng på Avancerad nivå (Dessa räknas också till dom 300 högskolepoängen)
                             <ul>
-                                <li><u>45 A-poäng (eller fler) från kurser</u>
+                                <li><u>45 Avancerade högskolepoäng (eller fler) från kurser</u>
                                     <ul>
-                                        <li><u>30 A-poäng inom vald specialisering</u></li>
+                                        <li><u>Avancerade högskolepoäng (eller fler) inom vald specialisering</u></li>
                                     </ul>
                                 </li>
                                 <li>30 poäng examensarbete</li>
                             </ul>
                         </li>
                     </ul>
+
+                    <p>Tänk på att ditt program kan ha fler krav än enbart poäng för att ta examen! Det kan också vara så att du läst fler poäng än 180 i grundblocket om du exempelvis läst alternativobligatoriska kurser, och behöver inte läsa lika många kurser i årskurs 4 och 5. </p>
 
                 </div>
                 <!--  <div class="modal-footer">   A footer if desired
@@ -479,12 +494,12 @@
                     <tr>
                         <td style="width: 33%" colspan="4" class="menuHeader">Meny</td>
                         <td style="width: 33%;border-left: 2px solid;border-left-color: dimgray;border-right: 2px solid;border-right-color: dimgray" colspan="4" class="menuHeader">Filter</td>
-                        <td style="width: 33%" colspan="4" class="menuHeader" id="menuHeader3">Poäng-sammanfattning</td>
+                        <td style="width: 33%" colspan="4" class="menuHeader" id="menuHeader3">Poäng-sammanfattning<div id="questionBox">?</div> </td>
                     </tr>
                     <tr>
                         <td class="menuText" rowspan="2">Välj program</td>
                         <td class="menuText" rowspan="2"><button class="menuText menuBarButton" disabled id="simpleListButton">Enkel lista</button></td>
-                        <td class="menuText" rowspan="2">Spara<button id="myBtn" style="display: none">Open Modal</button></td>
+                        <td class="menuText" rowspan="2">Spara</td>
                         <td class="menuText" rowspan="2">Hjälp</td>
 
                         <td style="border-left: 2px solid;border-left-color: dimgray;" class="menuText">Vald</td>
@@ -821,7 +836,7 @@
                         break;
                     case states.selectCourses:
                         unselectSpecialization();
-                        
+
                 }
             }
 
@@ -858,7 +873,7 @@
                     cn.forEach((item,index)=> scc.removeChild(item));
                 }
                 document.getElementById("SpecializationSelector").style.display = 'none';
-                
+
             }
 
             function selectSpecialiazation(){
@@ -1220,7 +1235,7 @@
             var modal = document.getElementById("myModal");
 
             // Get the button that opens the modal
-            var btn = document.getElementById("menuHeader3");
+            var btn = document.getElementById("questionBox");
 
             // Get the <span> element that closes the modal
             var span = document.getElementsByClassName("close")[0];
