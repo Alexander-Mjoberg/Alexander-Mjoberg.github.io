@@ -285,6 +285,11 @@
                 border-style: solid;
                 font-size: 18;
             }
+            
+            .simpleScheduleCell {
+                background-color: cornflowerblue;
+                font-size: 18;
+            }
 
             #menuBar {
                 border-bottom-style: solid;
@@ -675,8 +680,9 @@
                     <h3>Specialiseringar du har flest högskolepoäng inom</h3>
                     <p id="topFiveSpec"></p>
                     <h3>Uppdelning av poäng inom olika läsperioder</h3>
-                    <p id="simpleSchedule"></p>
                     <div id="simpSched"></div>
+                    <br>
+                    <button class="menuText menuBarButton"  id="showHideNamesScheduleButton">Visa/dölj kursnamn</button>
                 </div>
             </div>
         </div>
@@ -696,6 +702,7 @@
             let courseRowsPerSpec = [];
             let state = "";
             let simpleMode = false;
+            let showNamesInSchedule = false;
 
             //States with enum
             const states = {
@@ -725,9 +732,11 @@
             //Assign onclick and onchange functionality
             console.log(document.querySelectorAll("button[id^='SelectProgram']")[0]);
             document.querySelectorAll("button[id^='SelectProgram']").forEach((item,index) => item.onclick = selectProgram);
-
             document.getElementById("backButton").onclick = backButtonHandler;
-
+            document.getElementById("showHideNamesScheduleButton").onclick = () => {
+                showNamesInSchedule = !showNamesInSchedule;
+                printCoursesOrganizedByPeriod();
+            }
             document.getElementById("simpleListButton").onclick = switchSimpleList;
             document.getElementById("menuHeader3").onclick
             filterIds.forEach((button,index) => document.getElementById(button).onchange = handleFilterOnSelected)
@@ -799,6 +808,7 @@
                 document.getElementById("SpecializationSelector").style.display = 'Flex';
                 specializations = specializationDict[program];
                 specializations.forEach(listSpecialization);
+                listSpecialization("Fortsätt utan att välja specialisering")
                 currentState = states.selectSpecilization;
             }
 
@@ -959,7 +969,7 @@
                 selectedCourses.forEach((course,index) => {
                     let coursePeriods = [course.lp1, course.lp2, course.lp3, course.lp4];
                     let found = false;
-                    let foundCourse = [course.hp,1];
+                    let foundCourse = [course,1];
                     for (let i = 0; i < 4; i++){
                         if (coursePeriods[i] == true && found ){ //Case for skipping cell by setting points to 0, make colspan longer to cover the period.
                             lpQueues[i].push([0,1]) //
@@ -986,6 +996,7 @@
                 let tbl = document.createElement("table");
                 let tblBody = document.createElement("tbody");
                 tbl.setAttribute('class', 'courseTable')
+                tbl.style.whiteSpace = "pre";
 
                 //Header creation
                 let header = ['LP1','LP2','LP3','LP4'];
@@ -1013,13 +1024,17 @@
 
                     while(i1 < 4){
                         let course = lpQueues[i1].pop();
-                        if (course && course[0]!=0){
+                        console.log(course);
+                        if (course != undefined && course.length > 0 && course[0]!=0){
                             let cell = document.createElement("td");
-                            let cellText = document.createTextNode(course[0]);
+                            let text = course[0].hp + " hp";
+                            text = showNamesInSchedule ? text.concat("\n"+course[0].name) : text;
+                            let cellText = document.createTextNode(text);
+                            //let cellText = document.createTextNode(course[0].hp + " hp");
                             cell.appendChild(cellText);
                             cell.colSpan = course[1];
                             row.appendChild(cell);
-                            cell.setAttribute('class', 'courseTableCellDark');
+                            cell.setAttribute('class', 'simpleScheduleCell');
                             i1+=course[1];
                         }
                         else {
