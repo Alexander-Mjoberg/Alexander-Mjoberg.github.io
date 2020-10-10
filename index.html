@@ -811,6 +811,7 @@
                 specButton.onclick = selectSpecialiazation;
                 body.appendChild(rowDiv);
                 rowDiv.appendChild(specButton)
+                return specButton;
             }
 
 
@@ -823,7 +824,7 @@
                 document.getElementById("SpecializationSelector").style.display = 'Flex';
                 specializations = specializationDict[program];
                 specializations.forEach(listSpecialization);
-                //listSpecialization("Fortsätt utan att välja specialisering")
+                listSpecialization("Fortsätt utan att välja specialisering").style.fontStyle = 'Italic';
                 currentState = states.selectSpecilization;
             }
 
@@ -849,6 +850,7 @@
                 setTimeout(hideSpecializations, 800);
                 setTimeout(() => pt.style.opacity =1,800);
                 currentState = states.selectProgram;
+                document.getElementById("topText").innerHTML = "Kursval specialisering LTH";
             }
 
             function showSpecializations(){
@@ -878,6 +880,7 @@
 
             function selectSpecialiazation(){
                 specialization = this.id;
+                let noSpecSelected = specialization=="Fortsätt utan att välja specialisering"
                 cb = document.getElementById("courseBox");
                 document.getElementById("SpecializationSelector").style.opacity = 0;
                 courses = courseDict[program];
@@ -889,7 +892,7 @@
                 setTimeout(() => document.getElementById("StatisticsArea").style.display ='block',780);
                 setTimeout(hideSpecializations, 800);
                 setTimeout(() => cb.style.opacity =1,800);
-                document.getElementById("topText").innerHTML = "Kursval " + program + " - " + specialization;
+                document.getElementById("topText").innerHTML = noSpecSelected ? "Kursval " + program : "Kursval " + program + " - " + specialization;
                 scrollTo(150,0);
                 filterIds.forEach((filter,index) => document.getElementById(filter).disabled = false);
                 document.getElementById("simpleListButton").disabled = false;
@@ -897,6 +900,7 @@
                 //hide speciliazation
                 //turn on opacity for coursesBox
             }
+            
 
             function unselectSpecialization(){
                 specialization = "";
@@ -911,6 +915,7 @@
                 document.getElementById("StatisticsArea").style.display = 'None';
                 specializations = specializationDict[program];
                 specializations.forEach(listSpecialization);
+                listSpecialization("Fortsätt utan att välja specialisering").style.fontStyle = 'Italic';
                 setTimeout(showSpecializations, 800);
                 currentState = states.selectSpecilization;
             }
@@ -928,6 +933,8 @@
                 let filterTotalSpec = (course => course.selected && course.specialization.includes(specialization));
                 let filterAdvanced = (course => course.selected && (course.level=="A"));
                 let filterAdvancedSpec = (course => course.selected && (course.level=="A") && course.specialization.includes(specialization));
+                
+                let specSelected = specialization!="Fortsätt utan att välja specialisering"
                 //Summera poäng med hjälp av filter, uppdatera på sidan
                 let totHp = courses.filter(filterTotal).map(x => x.hp).reduce((total, amount) => total + amount, 0);
                 let totHpSpec = courses.filter(filterTotalSpec).map(x => x.hp).reduce((total, amount) => total + amount, 0);
@@ -937,14 +944,14 @@
                 document.getElementById("totalHp").innerHTML = totHp;
                 document.getElementById("totalHpMark").innerHTML = (totHp >= hpRequired) ? "✓" : "";
 
-                document.getElementById("hpSpec").innerHTML = totHpSpec;
-                document.getElementById("hpSpecMark").innerHTML = (totHpSpec >= hpInSpecRequired) ? "✓" : "";
+                document.getElementById("hpSpec").innerHTML = specSelected ? totHpSpec : 0;
+                document.getElementById("hpSpecMark").innerHTML = (totHpSpec >= hpInSpecRequired && specSelected) ? "✓" : "";
 
                 document.getElementById("totalAp").innerHTML = advancedHp;
                 document.getElementById("totalApMark").innerHTML = (advancedHp >= apRequired) ? "✓" : "";
 
-                document.getElementById("apSpec").innerHTML = advancedHpSpec;
-                document.getElementById("apSpecMark").innerHTML = (advancedHpSpec >= apInSpecRequired) ? "✓" : "";
+                document.getElementById("apSpec").innerHTML = specSelected ? advancedHpSpec: 0;
+                document.getElementById("apSpecMark").innerHTML = (advancedHpSpec >= apInSpecRequired&& specSelected) ? "✓" : "";
 
 
                 countPointsPerSpecialization();
