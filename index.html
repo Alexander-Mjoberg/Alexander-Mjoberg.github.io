@@ -740,7 +740,6 @@
 
 
             //Assign onclick and onchange functionality
-            console.log(document.querySelectorAll("button[id^='SelectProgram']")[0]);
             document.querySelectorAll("button[id^='SelectProgram']").forEach((item,index) => item.onclick = selectProgram);
             document.getElementById("backButton").onclick = backButtonHandler;
             document.getElementById("showHideNamesScheduleButton").onclick = () => {
@@ -979,11 +978,10 @@
                 items.sort(function(first, second) {
                     return second[1] - first[1];
                 });
-                let top5 = items.slice(0,5);
+                let top5 = items.slice(0,5).filter(item => item[1]>0); //Grab the 5 top elements, then removed any of them that have 0 points.
                 let body = document.getElementById('topFiveSpec');
-                let reducer = (accumulator, currentValue) => accumulator.concat("<br>".concat(currentValue));
+                let reducer = (accumulator, currentValue) => accumulator.concat("<br>".concat(currentValue)); //Build a string using reducer function.
                 body.innerHTML = top5.reduce(reducer);
-                console.log(items.slice(0, 5));
             }
 
             //This function creates queues for printing a schedule. Format is [points, colspan] where points is the amount of points for course, and colspan is the amount of periods to cover.
@@ -1048,7 +1046,6 @@
 
                     while(i1 < 4){
                         let course = lpQueues[i1].pop();
-                        console.log(course);
                         if (course != undefined && course.length > 0 && course[0]!=0){
                             let cell = document.createElement("td");
                             let text = course[0].hp + " hp";
