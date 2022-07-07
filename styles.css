@@ -1,0 +1,460 @@
+body {
+	margin: 0;
+}
+
+p {
+	font-size: 18px;
+}
+
+h2 {
+	color: #8E5614;
+	font-family: Georgia,serif;
+	font-weight: 400;
+	font-size: 3.4vw;
+	padding: 0.5vw 0;
+	width: 100%;
+	margin: 0;
+}
+
+h3 {
+	font-size: 1.5em;
+}
+
+.button {
+	border: none;
+	border-radius: 8px;
+	color: white;
+	padding: 2px 4px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	margin: 2px 1px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+
+.buttonAUnpressed {
+	background-color: white;
+	color: black;
+	border: 2px solid #92278F;
+}
+
+.buttonAPressed {
+	background-color: #92278F;
+	color: white;
+	border: 2px solid #4CAF50;
+}
+
+.buttonAUnpressed:hover {
+	background-color: #92278F;
+	color: white;
+}
+
+.buttonDUnpressed {
+	background-color: white;
+	color: black;
+	border: 2px solid #F280A1;
+}
+
+.buttonDPressed {
+	background-color: #F280A1;
+	color: white;
+	border: 2px solid #F280A1;
+}
+
+.buttonDUnpressed:hover {
+	background-color: #F280A1;
+	color: white;
+}
+
+.buttonEUnpressed {
+	background-color: white;
+	color: black;
+	border: 2px solid #000000;
+}
+
+.buttonEPressed {
+	background-color: #000000;
+	color: white;
+	border: 2px solid #000000;
+}
+
+.buttonEUnpressed:hover {
+	background-color: #000000;
+	color: white;
+}
+
+.buttonFUnpressed {
+	background-color: white;
+	color: black;
+	border: 2px solid #F7941E;
+}
+
+.buttonFPressed {
+	background-color: #F7941E;
+	color: white;
+	border: 2px solid #F7941E;
+}
+
+.buttonFUnpressed:hover {
+	background-color: #F7941E;
+	color: white;
+}
+
+.buttonIUnpressed {
+	background-color: white;
+	color: black;
+	border: 2px solid #981B1E;
+}
+
+.buttonIPressed {
+	background-color: #981B1E;
+	color: white;
+	border: 2px solid #981B1E;
+}
+
+.buttonIUnpressed:hover {
+	background-color: #981B1E;
+	color: white;
+}
+
+.buttonKUnpressed {
+	background-color: white;
+	color: black;
+	border: 2px solid #FFF200;
+}
+
+.buttonKPressed {
+	background-color: #FFF200;
+	color: white;
+	border: 2px solid #FFF200;
+}
+
+.buttonKUnpressed:hover {
+	background-color: #FFF200;
+	color: white;
+}
+
+.buttonMUnpressed {
+	background-color: white;
+	color: black;
+	border: 2px solid #ED1F24;
+}
+
+.buttonMPressed {
+	background-color: #ED1F24;
+	color: white;
+	border: 2px solid #ED1F24;
+}
+
+.buttonMUnpressed:hover {
+	background-color: #ED1F24;
+	color: white;
+}
+
+.buttonVUnpressed {
+	background-color: white;
+	color: black;
+	border: 2px solid #3853A4;
+}
+
+.buttonVPressed {
+	background-color: #3853A4;
+	color: white;
+	border: 2px solid #3853A4;
+}
+
+.buttonVUnpressed:hover {
+	background-color: #3853A4;
+	color: white;
+}
+
+.buttonWUnpressed {
+	background-color: white;
+	color: black;
+	border: 2px solid #6ECDDD;
+}
+
+.buttonWPressed {
+	background-color: #6ECDDD;
+	color: white;
+	border: 2px solid #6ECDDD;
+}
+
+.buttonWUnpressed:hover {
+	background-color: #6ECDDD;
+	color: white;
+}
+
+.buttonSpecUnpressed {
+	background-color: white;
+	color: black;
+	border: 2px solid #8E5614;
+	margin-bottom: 1.1vw;
+	width: 100%;
+	display: table-cell
+}
+
+.buttonSpecPressed {
+	background-color: #8E5614;
+	color: white;
+	border: 2px solid #8E5614;
+}
+
+.buttonSpecUnpressed:hover {
+	background-color: #8E5614;
+	color: white;
+}
+
+.rowDiv {
+	display: table-row
+}
+
+progDiv {
+	transition: opacity 1s ease-out;
+	transition: opacity 0.8s ease-in;
+	opacity: 0;
+	height: 0;
+	overflow: hidden;
+}
+
+	progDiv.active {
+		opacity: 1;
+		height: auto;
+	}
+
+.outerBox {
+	border-color: #C6A882;
+	border-width: 1.2vw;
+	border-style: solid;
+	margin: 1.5vw;
+	border-radius: 0.5vw;
+	text-align: center;
+	margin-top: 15vh;
+}
+
+.innerBox {
+	padding: 2.5vw 1vw;
+}
+
+.specializationOptions {
+	min-height: 25vw;
+	margin-left: auto;
+	margin-right: auto;
+	display: none;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	opacity: 0;
+	transition: opacity 0.8s ease-in;
+	transition: opacity 0.8s ease-out;
+}
+
+#backButton {
+	border-radius: 50%;
+}
+
+	#backButton:hover {
+		background-color: #EBE5D8;
+		cursor: pointer;
+	}
+
+/* Kurstabell */
+.courseTableDiv {
+}
+
+.courseTable {
+	text-align: center;
+	border-spacing: 4px;
+	margin: 0 auto;
+}
+
+
+/* Headers på kurstabell - Test med fetare */
+.courseTableHeaderCell {
+	background-color: #C6A882;
+	border: 1px solid #EBE5D8;
+	padding: 4px;
+	font-size: 18px;
+}
+
+/* Headers på kurstabell */
+.courseTableHeaderCell1 {
+	background-color: #C6A882;
+	border: 1px solid #EBE5D8;
+	padding: 4px;
+}
+
+/* Ljusa celler på kurstabell */
+.courseTableCellLight {
+	border-color: #EBE5D8;
+	border-style: solid;
+	font-size: 18;
+}
+
+/* Mörka celler på kurstabell */
+.courseTableCellDark {
+	background-color: #EBE5D8;
+	border-color: #EBE5D8;
+	border-style: solid;
+	font-size: 18;
+}
+
+.simpleScheduleCell {
+	background-color: cornflowerblue;
+	font-size: 18;
+}
+
+#menuBar {
+	border-bottom-style: solid;
+	border-bottom-color: dimgrey;
+	padding-bottom: 0.5vh;
+	width: 100%;
+	position: fixed;
+	background-color: #F8F3EA;
+	margin-bottom: 5vw;
+	top: 0;
+	z-index: 9999;
+}
+
+.menuHeader {
+	font-family: Georgia, serif;
+	font-size: 18px;
+	color: #8E5614;
+}
+
+.menuText {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 15px;
+}
+
+.menuParagraph {
+	display: inline;
+	margin: 0;
+}
+
+.menuCheckmark {
+	color: green;
+}
+
+#statBand {
+	margin: 3vh -2.0vw;
+	background-color: #C6A882;
+	width: 95vw;
+	height: 3.5vh;
+}
+
+.menuBarButton {
+}
+
+.backBand {
+	margin-left: 8vw;
+	width: 90%;
+	text-align: left;
+	transition: opacity 0.8s ease-in;
+	transition: opacity 0.8s ease-out;
+	opacity: 0;
+}
+
+/* The Modal (background) */
+.modal {
+	display: none; /* Hidden by default */
+	position: fixed; /* Stay in place */
+	z-index: 1; /* Sit on top */
+	padding-top: 30vh; /* Location of the box */
+	left: 0;
+	top: 0;
+	width: 100%; /* Full width */
+	height: 100%; /* Full height */
+	overflow: auto; /* Enable scroll if needed */
+	background-color: rgb(0,0,0); /* Fallback color */
+	background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+	position: relative;
+	background-color: #fefefe;
+	margin: auto;
+	padding: 0;
+	border: 1px solid #888;
+	width: 80%;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+	-webkit-animation-name: animatetop;
+	-webkit-animation-duration: 0.4s;
+	animation-name: animatetop;
+	animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+	from {
+		top: -300px;
+		opacity: 0
+	}
+
+	to {
+		top: 0;
+		opacity: 1
+	}
+}
+
+@keyframes animatetop {
+	from {
+		top: -300px;
+		opacity: 0
+	}
+
+	to {
+		top: 0;
+		opacity: 1
+	}
+}
+
+/* The Close Button */
+.close {
+	color: white;
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
+}
+
+	.close:hover,
+	.close:focus {
+		color: #000;
+		text-decoration: none;
+		cursor: pointer;
+	}
+
+.modal-header {
+	padding: 2px 16px;
+	background-color: #EBE5D8;
+	color: #8E5614;
+	font-size: 6vh;
+}
+
+.modal-body {
+	padding: 2px 16px;
+	font-size: 18px;
+}
+
+.modal-footer {
+	padding: 2px 16px;
+	background-color: #5cb85c;
+	color: white;
+}
+
+#questionBox {
+	position: relative;
+	display: inline-block;
+	left: 1.5vw;
+	border: solid;
+	border-color: #C6A882;
+	border-radius: 40%;
+	font-size: 16px;
+	padding: 0 0.3vw;
+	background-color: #F8F3EA;
+	color: #8E5614;
+}
