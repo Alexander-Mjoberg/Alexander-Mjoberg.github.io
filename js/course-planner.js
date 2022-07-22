@@ -42,8 +42,9 @@ document.getElementById("showHideNamesScheduleButton").onclick = () => {
     printCoursesOrganizedByPeriod();
 }
 document.getElementById("simpleListButton").onclick = switchSimpleList;
-document.getElementById("menuHeader3").onclick
+document.getElementById("saveButton").onclick = exportToCsv;
 filterIds.forEach((button, index) => document.getElementById(button).onchange = handleFilterOnSelected)
+
 
 function handleFilterOnSelected() {
     let val = this.value;
@@ -192,9 +193,8 @@ function selectSpecialiazation() {
     scrollTo(150, 0);
     filterIds.forEach((filter, index) => document.getElementById(filter).disabled = false);
     document.getElementById("simpleListButton").disabled = false;
+    document.getElementById("saveButton").disabled = false;
     currentState = states.selectCourses;
-    //hide speciliazation
-    //turn on opacity for coursesBox
 }
 
 
@@ -346,7 +346,6 @@ function printCoursesOrganizedByPeriod() {
                 let text = course[0].hp + " hp";
                 text = showNamesInSchedule ? text.concat("\n" + course[0].name) : text;
                 let cellText = document.createTextNode(text);
-                //let cellText = document.createTextNode(course[0].hp + " hp");
                 cell.appendChild(cellText);
                 cell.colSpan = course[1];
                 row.appendChild(cell);
@@ -354,6 +353,8 @@ function printCoursesOrganizedByPeriod() {
                 i1 += course[1];
             }
             else {
+                let cell = document.createElement("td");
+                row.appendChild(cell);
                 i1++;
             }
         }
@@ -503,10 +504,12 @@ function tableCreate(spec) {
             if (i == 0) {
                 let box = document.createElement("input");
                 box.setAttribute("type", "checkbox");
+                box.setAttribute("class", "courseSelectCheckbox")
                 //Sätta checked som default
                 //x.setAttribute('checked','');
                 //Ge boxen ett ID som består av kurskod+specialisering plats i array av specialisering
                 box.setAttribute("id", courseToText[1])
+                
                 box.onclick = onCourseSelected;
                 cell.appendChild(box);
                 course.domCheckboxes.push(box);
@@ -529,6 +532,39 @@ function tableCreate(spec) {
     // tbl border attribute to
     //tbl.setAttribute("border", "2");
     courseRowsPerSpec.push(courseRows);
+}
+
+function exportToCsv() {
+    var universalBOM = "\uFEFF";
+    let csvContent = "data:text/csv;charset=utf-8," + universalBOM + 
+        "Kurskod;Kursnamn;Högskolepoäng;Nivå;LP1;LP2;LP3;LP4;Specialiseringsgrupp \r\n";
+    selectedCourses.forEach(course => csvContent += stringifyCourse(course));
+    //csvContent += stringifyChoices();
+    var encodedUri = encodeURI(csvContent);
+    var link = document.createElement("a");
+    link.setAttribute("href", encodedUri);
+    link.setAttribute("download", "Kursval.csv");
+    document.body.appendChild(link);
+    link.click();
+}
+
+function stringifyCourse(course) {
+    var points = course.hp.toString().replace('.', ',');
+    var lp1 = course.lp1 ? "X" : "";
+    var lp2 =  course.lp2 ? "X" : "";
+    var lp3 =  course.lp3 ? "X" : "";
+    var lp4 = course.lp4 ? "X" : "";
+    return course.name + ";" + course.code + ";" + points + ";" + course.level + ";" + lp1 + ";" + lp2 + ";" + lp3 + ";" + lp4 + ";" + course.specialization.join(', ') + " \r\n";
+}
+
+function stringifyChoices() {
+    var programtext = "Programval;" + program + "\r\n";
+    var specilizationText = "Specialiseringsval;" + specialization.replace("Fortsätt utan att välja specialisering","Ej valt") + "\r\n";
+    var HpText = "Högskolepoäng;" + document.getElementById("totalHp").innerHTML + "\r\n";
+    var HpSpecText = "Högskolepoäng i specialisering;" + document.getElementById("hpSpec").innerHTML + "\r\n";
+    var ApText = "Avancerade poäng;" + document.getElementById("totalAp").innerHTML + "\r\n";
+    var ApSpecText = "Avancerade poäng i specialisering;" + document.getElementById("apSpec").innerHTML + "\r\n";
+    return "\r\n" + programtext + specilizationText + HpText + HpSpecText + ApText + ApSpecText;
 }
 
 

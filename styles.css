@@ -303,8 +303,15 @@ progDiv {
 }
 
 .simpleScheduleCell {
-	background-color: cornflowerblue;
+	background-color: #EBE5D8;
 	font-size: 18;
+}
+
+
+.courseSelectCheckbox {
+	height : 20px;
+	width : 20px;
+	margin : 0;
 }
 
 #menuBar {
