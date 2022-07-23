@@ -69,7 +69,7 @@
                     <tr>
                         <td class="menuText" rowspan="2">Välj program</td>
                         <td class="menuText" rowspan="2"><button class="menuText menuBarButton" disabled id="simpleListButton">Enkel lista</button></td>
-                        <td class="menuText" rowspan="2"><button class="menuText menuBarButton" disabled id="saveButton">Spara</button></td>
+                        <td class="menuText" rowspan="2"><button class="menuText menuBarButton" disabled id="saveButton">Ladda ner val</button></td>
                         <td class="menuText" rowspan="2">Hjälp</td>
 
                         <td style="border-left: 2px solid;border-left-color: dimgray;" class="menuText">Vald</td>
@@ -257,12 +257,14 @@
                 <div id="StatisticsArea" style="display: none">
                     <div id="StatBand"></div>
                     <h2>Statistik för dina val</h2>
-                    <h3>Specialiseringar du har flest högskolepoäng inom</h3>
-                    <p id="topFiveSpec"></p>
+                    <div id="topFiveSpecArea">
+                        <h3>Specialiseringar du har flest högskolepoäng inom</h3>
+                        <p id="topFiveSpec"></p>
+                    </div>
                     <h3>Uppdelning av poäng inom olika läsperioder</h3>
                     <div id="simpSched"></div>
                     <br>
-                    <button class="menuText menuBarButton"  id="showHideNamesScheduleButton">Visa/dölj kursnamn</button>
+                    <button class="menuText menuBarButton" id="showHideNamesScheduleButton">Visa/dölj kursnamn</button>
                 </div>
             </div>
         </div>

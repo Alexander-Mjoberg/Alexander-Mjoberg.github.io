@@ -116,8 +116,9 @@ function selectProgram() {
     if (program == "MD" || program == "A" || program == "BI") {
         specializations = [""];
         this.id = "Fortsätt utan att välja specialisering";
-        specialization = specialization == "Fortsätt utan att välja specialisering"
-        selectSpecialiazation()
+        specialization = specialization == "Fortsätt utan att välja specialisering";
+        selectSpecialiazation();
+        document.getElementById("topFiveSpecArea").style.display = 'None';
     }
     specializations.forEach(listSpecialization);
     listSpecialization("Fortsätt utan att välja specialisering").style.fontStyle = 'Italic';
@@ -258,6 +259,7 @@ function updateCounters() {
 //This function calculates the 5 specializations in which the user has most points.
 //TODO: Handle if fewer than 5 applicable specializations.
 function countPointsPerSpecialization() {
+    if (specialization == "Fortsätt utan att välja specialisering") { return;}
     //Räkna poäng för varje vald kurs per specialisering
     let specializationDict = {};
     specializations.forEach((spec, index) => specializationDict[spec] = 0);
@@ -362,6 +364,28 @@ function printCoursesOrganizedByPeriod() {
     }
 }
 
+function calculateHpPerPeriod(lpQueues){
+    var HpLp = [0, 0, 0, 0];
+    for (let i = 0; i < 4; i++) {
+        lpQueues[i].forEach(element => {
+            var points = element[0] ? element[0].hp / element[1] : 0;
+            HpLp[i] += points;
+            if (element[0] && element[1] == 2) {
+                HpLp[i + 1] += points;
+            }
+            if (element[0] && element[1] == 3) {
+                HpLp[i + 1] += points;
+                HpLp[i + 2] += points;
+            }
+            if (element[0] && element[1] == 4) {
+                HpLp[i + 1] += points;
+                HpLp[i + 2] += points;
+                HpLp[i + 3] += points;
+            }
+        });
+    }
+    return HpLp;
+}
 
 
 
